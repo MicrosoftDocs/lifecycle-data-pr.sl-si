@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Virtualizacija programa SoftGrid
+  description: Virtualizacija programa SoftGrid sledi pravilniku o fiksnem življenjskem ciklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 17b8078138b718a634c2561ac4b1e73f3966ce24
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sl-SI
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "838954"
+name: Virtualizacija programa SoftGrid
+summary: >
+  Virtualizacija programa SoftGrid sledi pravilniku [o fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+
+
+  To velja za naslednje izdaje: 4.1 za namizne računalnike, 4.2 za namizne računalnike, za terminalske storitve 4.1
+
+
+  > [!IMPORTANT]
+
+  > Podpora je končana. Glejte smernice za migracije spodaj.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/25/2007
+  end: 07/10/2012
+  extendedEnd: 07/11/2017
+releases:
+- version: Original Release
+  startDate: 05/25/2007
+  endDate: 07/11/2017
+content: "\n## <a name=\"links\"></a>Povezave \n* [Smernice o migracijah](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>Izdajah \n* 4.1 za namizne računalnike\n* 4.2 za namizne računalnike\n* za terminalske storitve 4.1"

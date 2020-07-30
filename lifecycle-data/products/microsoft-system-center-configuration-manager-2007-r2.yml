@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Upravitelj konfiguracije za Microsoft System Center 2007 R2
+  description: Upravitelj konfiguracije za Microsoft System Center 2007 R2 upošteva pravilnik o fiksnem življenjskem ciklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 0da71b9a2886e1a7012339ebef9a5fbe64f8811e
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sl-SI
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "839534"
+name: Upravitelj konfiguracije za Microsoft System Center 2007 R2
+summary: >
+  Upravitelj konfiguracije za Microsoft System Center 2007 R2 upošteva pravilnik o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+
+
+
+  > [!IMPORTANT]
+
+  > Podpora za ta izdelek je končana. Glejte smernice za migracije spodaj.
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 11/29/2008
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Original Release
+  startDate: 11/29/2008
+  endDate: 07/09/2019
+content: "\n## <a name=\"links\"></a>Povezave \n* [Smernice o migracijah](/mem/configmgr/core/migration/planning-for-migration)\n* [Dodatne smernice za migracijo](/mem/configmgr/core/migration/migrate-data-between-hierarchies)"
