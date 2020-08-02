@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Office 2008 za Mac
+  description: Microsoft Office 2008 for Mac upošteva pravilnik o fiksnem življenjskem ciklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: abf5213b99b3f5ca6d64daa69ef50c3462fc9d35
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sl-SI
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "839242"
+name: Microsoft Office 2008 za Mac
+summary: "Microsoft Office 2008 for Mac upošteva pravilnik o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.\n\nTo velja za naslednje izdaje: Business, Home and Student, Special Media Editon\n\n> [!IMPORTANT]\n> Podpora za ta izdelek je končana. \n"
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 01/15/2008
+  end: 04/09/2013
+releases:
+- version: Service Pack 2
+  startDate: 07/20/2009
+  endDate: 04/09/2013
+- version: Service Pack 1
+  startDate: 05/13/2008
+  endDate: 10/12/2010
+- version: Original Release
+  startDate: 01/15/2008
+  endDate: 10/19/2009
+content: "\n## <a name=\"links\"></a>Povezave \n* [Pravilnik o servisnem paketu](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Začetni datum za Office 2008 for Mac Special Media Edition je 12.\n\n## <a name=\"editions\"></a>Izdajah \n* Poslovne\n* Dom in študent\n* Posebna medijska editon"
