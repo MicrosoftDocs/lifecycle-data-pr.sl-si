@@ -1,0 +1,39 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft SQL Server 2008 R2
+  description: Microsoft SQL Server 2008 R2 sledi pravilniku o fiksnem življenjskem ciklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: fab744b0945bef274e20d81e4c86df2c1e7f69d6
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sl-SI
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "839123"
+name: Microsoft SQL Server 2008 R2
+summary: >+
+  Microsoft SQL Server 2008 R2 sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+
+
+  To velja za naslednje izdaje: Datacenter, Developer, Enterprise, Express, Express with Advanced Services, for Embedded Systems, Standard, Standard Edition for Small Business, Web, Workgroup
+
+products:
+- sql-server
+policyType: fixed
+supportDates:
+  start: 07/20/2010
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Service Pack 3
+  startDate: 07/07/2014
+  endDate: 07/09/2019
+- version: Service Pack 2
+  startDate: 07/26/2012
+  endDate: 10/13/2015
+- version: Service Pack 1
+  startDate: 07/12/2011
+  endDate: 10/08/2013
+- version: Original Release
+  startDate: 07/20/2010
+  endDate: 07/10/2012
+content: "\n## <a name=\"links\"></a>Povezave \n* [Konec možnosti podpore strežnika SQL Server](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Konec možnosti podpore za SQL Server 2008 in Windows Server 2008](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [Razširjeni program za varnostno posodabljanje (ESU)](/lifecycle/faq/extended-security-updates)\n* [Pravilnik o servisnem paketu](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Razširjene varnostne posodobitve (ESU) so na voljo za izdaje Datacenter, Standard, Enterprise in Embedded tega izdelka za do dodatna tri leta po koncu podpore.\n> [!NOTE]\n> Samo za IA64 bo servisni paket SP2 podprt do 7.9.2019. Če želite več informacij, si oglejte spletni dnevnik storitev SQL Release Services.\n\n## <a name=\"editions\"></a>Izdajah \n* Datacenter\n* Razvijalec\n* Podjetja\n* Express\n* Express z naprednimi storitvami\n* za vgrajene sisteme\n* Standardni\n* Standardna izdaja za mala podjetja\n* Spletni\n* Workgroup"
