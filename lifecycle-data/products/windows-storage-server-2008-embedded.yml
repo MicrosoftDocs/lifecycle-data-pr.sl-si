@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Vdelan strežnik za shranjevanje v sistemu Windows 2008
+  description: Vdelana shramba za Windows Server 2008 sledi pravilniku o fiksnem življenjskem ciklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 12346be664c5039b392d1bcbc51143f8c5088758
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sl-SI
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "839087"
+name: Vdelan strežnik za shranjevanje v sistemu Windows 2008
+summary: >+
+  Vdelana shramba za Windows Server 2008 sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+
+
+  To velja za te izdaje: 32 bit, 64 bit, osnovno, osnovno 32-bitno, podjetje, standardno, delovno skupino
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 07/19/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Original Release
+  startDate: 07/19/2009
+  endDate: 07/12/2011
+content: "\n## <a name=\"links\"></a>Povezave \n* [Smernice o migracijah](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> Ta izdelek je dosegel konec podpore. Glej spodaj za smernice o migracijah.\n\n## <a name=\"editions\"></a>Izdajah \n* 32 bitov\n* 64 bitov\n* Osnovne\n* Osnovni 32-bitni\n* Podjetja\n* Standardni\n* Workgroup"
