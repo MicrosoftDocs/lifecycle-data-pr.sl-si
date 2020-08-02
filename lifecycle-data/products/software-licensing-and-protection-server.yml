@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Strežnik za licenciranje in zaščito programske opreme
+  description: Strežnik za licenciranje in zaščito programske opreme upošteva pravilnik o fiksnem življenjskem ciklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9a42af57f9f0bfd7232e67126c6d9923413e06f6
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sl-SI
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "838970"
+name: Strežnik za licenciranje in zaščito programske opreme
+summary: >
+  Strežnik za licenciranje in zaščito programske opreme upošteva [pravilnik o fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+
+
+  To velja za naslednje izdaje: podjetje, standardna
+
+
+  > [!IMPORTANT]
+
+  > zaradi odsvojitev od Software dati dovoljenje ter varstvo pomočnik (SLPS), mikroskop zaslomba SLPS do september 24, 2009.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 12/30/2007
+  end: 09/24/2009
+  extendedEnd: 09/24/2009
+releases:
+- version: Original Release
+  startDate: 12/30/2007
+  endDate: 01/09/2018
+content: "\n## <a name=\"links\"></a>Povezave \n* [Strežnik za licenciranje in zaščito programske opreme (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>Izdajah \n* Podjetja\n* Standardni"
