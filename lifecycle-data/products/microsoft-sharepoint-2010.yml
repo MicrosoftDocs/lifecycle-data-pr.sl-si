@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft SharePoint 2010 (za internetna mesta)
+  description: Microsoft SharePoint 2010 (za internetna mesta) sledi pravilniku o nespremenljivem življenjskem ciklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 91cbc237303d2c4f7f73f93be5375206006b7909
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sl-SI
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "839545"
+name: Microsoft SharePoint 2010 (za internetna mesta)
+summary: >+
+  Microsoft SharePoint 2010 (za internetna mesta) sledi pravilniku o [nespremenljivem](/lifecycle/policies/fixed) življenjskem ciklu.
+
+
+  To velja za naslednje izdaje: za internetna mesta Enterprise, za internetna mesta Standard
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 06/15/2010
+  end: 10/13/2015
+  extendedEnd: 04/13/2021
+releases:
+- version: Original Release
+  startDate: 06/15/2010
+  endDate: 04/13/2021
+content: "\n## <a name=\"links\"></a>Povezave \n* [Dokumentacija o izdelku](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Dokumentacija za razvijalce](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> Datum konca podpore tega izdelka je bil podaljšan od 13.\n\n## <a name=\"editions\"></a>Izdajah \n* za internetna mesta Enterprise\n* za standardna spletna mesta"
