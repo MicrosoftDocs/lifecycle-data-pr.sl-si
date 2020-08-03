@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Phone 8.1 (v mestu Windows Phone 8.1)
+  description: Windows Phone 8.1 sledi pravilniku o fiksnem življenjskem ciklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d81cd34117e63701bf48f128d7d3aafdd93ac581
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sl-SI
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "863118"
+name: Windows Phone 8.1 (v mestu Windows Phone 8.1)
+summary: >
+  Windows Phone 8.1 sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+
+
+
+  > [!IMPORTANT]
+
+  > Podpora za ta izdelek je končana.
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 06/24/2014
+  end: 07/11/2017
+releases:
+- version: Original Release
+  startDate: 06/24/2014
+  endDate: 07/11/2017
+content: "\n## <a name=\"links\"></a>Povezave \n* [Pogosta vprašanja o telefonu Windows Phone 8.1](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)\n\n> [!NOTE]\n> Microsoft bo posodobitve za operacijski sistem, vključno z varnostnimi posodobitvami, na voljo najmanj 36 mesecev po začetnem datumu življenjskega cikla. Te posodobitve bodo postopne, pri vsaki posodobitvi pa bo zgrajena na posodobitvi, ki je bila pred njo. Stranke morajo namestiti vsako posodobitev, da ostanejo podprte. Distribucijo teh prirastnih posodobitev lahko nadzoruje mobilni operater ali proizvajalec telefona, pri katerem ste kupili telefon, namestitev pa bo zahtevala, da ima telefon vse predhodne posodobitve. Razpoložljivost posodobitev se razlikuje tudi glede na zmogljivosti države, regije in strojne opreme."

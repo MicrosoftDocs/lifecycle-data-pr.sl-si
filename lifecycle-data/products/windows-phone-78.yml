@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Phone 7.8 (v mestu Windows Phone 7.8)
+  description: Windows Phone 7.8 sledi pravilniku o fiksnem življenjskem ciklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 7ca5bd0f56f415c7c686e60ef7931172ce97a495
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sl-SI
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "863290"
+name: Windows Phone 7.8 (v mestu Windows Phone 7.8)
+summary: >
+  Windows Phone 7.8 sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+
+
+
+  > [!IMPORTANT]
+
+  > Podpora za ta izdelek je končana.
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 02/09/2013
+  end: 10/14/2014
+releases:
+- version: Original Release
+  startDate: 02/09/2013
+  endDate: 10/14/2014
+content: "\n\n> [!NOTE]\n> Microsoft bo posodobitve za operacijski sistem v telefonu, vključno z varnostnimi posodobitvami, na voljo 18 mesecev po začetnem datumu življenjskega cikla. Distribucijo posodobitev lahko nadzoruje mobilni operater ali proizvajalec telefona, pri katerem ste kupili telefon. Razpoložljivost posodobitev se razlikuje tudi glede na zmogljivosti države, regije in strojne opreme."

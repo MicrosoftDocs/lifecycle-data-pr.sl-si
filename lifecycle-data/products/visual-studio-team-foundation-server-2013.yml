@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Strežnik visual studio team fundacije 2013
+  description: Visual Studio Team Foundation Server 2013 sledi pravilniku o fiksnem življenjskem ciklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b24e1b9ebaf9855024973bfa2ff6b7d90e3af408
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sl-SI
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "863208"
+name: Strežnik visual studio team fundacije 2013
+summary: >+
+  Visual Studio Team Foundation Server 2013 sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+
+
+  To velja za naslednje izdaje: Vse, Upravljanje izdaja
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 01/15/2014
+  end: 04/09/2019
+  extendedEnd: 04/09/2024
+releases:
+- version: Update 5
+  startDate: 07/20/2015
+  endDate: 04/09/2024
+- version: Original Release
+  startDate: 01/15/2014
+  endDate: 10/11/2016
+content: "\n## <a name=\"links\"></a>Povezave \n* [Informacije o izdelku](/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops)\n* [Informacije o servisiranju](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [Pravilnik servisnega paketa](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Za strežnik za upravljanje izdaja za TFS 2013 bo posodobitev 4 podprta v skladu s smernicami pravilnika do 4.9.2024.\n\n## <a name=\"editions\"></a>Izdajah \n* Vse\n* Upravljanje izdaje"

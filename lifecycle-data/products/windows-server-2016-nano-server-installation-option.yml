@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Možnost namestitve strežnika Windows Server 2016 Nano
+  description: Možnost namestitve strežnika Nano Server za Windows Server sledi sodobnemu pravilniku o življenjskem ciklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 6c8189a0fe39fe3ad0b79147e0b2ddbd67e3f799
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sl-SI
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "863285"
+name: Možnost namestitve strežnika Windows Server 2016 Nano
+summary: >+
+  Možnost namestitve strežnika Nano Server za Windows Server sledi sodobnemu [pravilniku](/lifecycle/policies/modern) o življenjskem ciklu.
+
+
+  To velja za naslednje izdaje: Datacenter, Standard
+
+products:
+- windows
+policyType: modern-on-prem
+supportDates:
+  start: 10/15/2016
+  end: 10/09/2018
+releases:
+- version: Original Release
+  startDate: 10/15/2016
+  endDate: 10/09/2018
+content: "\n## <a name=\"links\"></a>Povezave \n* [Informacije o servisiranju](/windows-server/get-started/nano-in-semi-annual-channel)\n* [Pogosta vprašanja o življenjskem ciklu - Izdelki sistema Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Izdajah \n* Datacenter\n* Standardni"

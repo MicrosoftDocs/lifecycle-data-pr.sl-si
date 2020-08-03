@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 2012 (v sistemu Windows Server 2012)
+  description: Windows Server 2012 sledi pravilniku o fiksnem življenjskem ciklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 3afe3de568f6e9b7eef58b6af132ff3ad4526724
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sl-SI
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "863286"
+name: Windows Server 2012 (v sistemu Windows Server 2012)
+summary: >+
+  Windows Server 2012 sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+
+
+  To velja za naslednje izdaje: Datacenter, Essentials, za vgrajene sisteme, Fundacijo,
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/30/2012
+  end: 10/09/2018
+  extendedEnd: 10/10/2023
+releases:
+- version: Original Release
+  startDate: 10/30/2012
+  endDate: 10/10/2023
+content: "\n## <a name=\"links\"></a>Povezave \n* [Smernice o migracijah](/windows-server/upgrade/upgrade-overview)\n* [Informacije o izdelku](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> Osnovna in razširjena podpora za ta izdelek je bila razširjena, da bi strankam zagotovila standardno časovno premico prehoda življenjskega cikla. Windows Server Essentials sprosti januarja 2, 2013.\n\n## <a name=\"editions\"></a>Izdajah \n* Datacenter\n* Osnovni izrazi\n* za vgrajene sisteme\n* Foundation\n* Standardni"
