@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft BizTalk kartice za gostiteljske sisteme
+  description: Microsoft BizTalk Adapterji za gostiteljske sisteme sledijo pravilniku o fiksnem življenjskem ciklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 8511f6bc704fc691f71e2057ce4a72da3228f163
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sl-SI
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "839636"
+name: Microsoft BizTalk kartice za gostiteljske sisteme
+summary: >+
+  Microsoft BizTalk Adapterji za gostiteljske sisteme sledijo pravilniku [o fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 01/27/2007
+  end: 04/10/2012
+  extendedEnd: 04/11/2017
+releases:
+- version: Original Release
+  startDate: 01/27/2007
+  endDate: 04/11/2017
+content: "\n## <a name=\"links\"></a>Povezave \n* [Smernice o migracijah](https://blogs.msdn.microsoft.com/hostintegrationserver/2016/09/06/end-of-support-for-host-integration-server-2006)"
