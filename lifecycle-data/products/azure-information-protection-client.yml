@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Odjemalec za zaščito informacij Azure
+  description: Odjemalec za zaščito informacij Azure upošteva sodobni pravilnik o življenjskem ciklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9a7e2c02d8f1d7ca3f071b5f36b97eab364b3340
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sl-SI
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "862816"
+name: Odjemalec za zaščito informacij Azure
+summary: >+
+  Odjemalec za zaščito informacij Azure upošteva [sodobni pravilnik](/lifecycle/policies/modern) o življenjskem ciklu.
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 10/01/2016
+  end: 03/31/2021
+releases:
+- version: Original Release
+  startDate: 10/01/2016
+  endDate: 03/31/2021
+content: "\n## <a name=\"links\"></a>Povezave \n* [Informacije o servisiranju](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [Smernice o migracijah](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n> [!NOTE]\n> Da bi zagotovili enotno in poenostavljeno izkušnjo strank, se odjemalec za zaščito informacij Azure (klasična) in upravljanje oznak v portalu Azure od 31. Ta časovni okvir omogoča vsem trenutnim strankam za zaščito informacij Azure, da z uporabo platforme za enotno označevanje Microsoftove informacijske zaščite preiti na našo poenoteno rešitev označevanja za Microsoftovo informacijsko zaščito."

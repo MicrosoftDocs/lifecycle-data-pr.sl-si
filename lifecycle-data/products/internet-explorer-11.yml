@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Internet Explorer 11
+  description: Internet Explorer 11 upošteva pravilnik o življenjskem ciklu komponente.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 4c247083877fd4640384b3a038a13888e2f4ddcd
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sl-SI
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "862981"
+name: Internet Explorer 11
+summary: >+
+  Internet Explorer 11 upošteva pravilnik o [življenjskem](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) ciklu komponente.
+
+
+products:
+- internet-explorer
+policyType: component
+supportDates:
+  start: 11/13/2013
+releases:
+- version: Original Release
+  startDate: 11/13/2013
+content: "\n## <a name=\"links\"></a>Povezave \n* [Smernice o migracijah](https://www.microsoft.com/itpro/microsoft-edge)\n* [Pogosta vprašanja o pravilniku o življenjskem ciklu Programa Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> januarja 2016 bo tehnična podpora in varnostne posodobitve prejela le najnovejša različica Internet Explorerja, ki je na voljo za podprt operacijski sistem."
