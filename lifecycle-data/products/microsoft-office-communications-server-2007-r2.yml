@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office Communications Server 2007 R2
-  description: Microsoft Office Communications Server 2007 R2 sledi pravilniku o fiksnem življenjskem ciklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 33d9d5fff1c61fcf44480c75e2a2f7ff3bd72fc9
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: Microsoft Office Communications Server 2007 R2 upošteva nespremenljiv pravilnik življenjskega cikla.
+  ms.date: 08/07/2020
+  ms.openlocfilehash: 229bad5ba97248c738f950b7252cd9c69e238cf1
+  ms.sourcegitcommit: 41160e72cd21aa5bf1748336c3975d8ec9b9ac06
   ms.translationtype: MT
   ms.contentlocale: sl-SI
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "839939"
+  ms.lasthandoff: 08/07/2020
+  ms.locfileid: "885846"
 name: Microsoft Office Communications Server 2007 R2
-summary: >+
-  Microsoft Office Communications Server 2007 R2 sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
-
-
-  To velja za naslednje izdaje: XMPP Gateway
-
+summary: "Microsoft Office Communications Server 2007 R2 upošteva [nespremenljiv](/lifecycle/policies/fixed) pravilnik življenjskega cikla.\n\nTo velja za te izdaje: vse ustrezne, za podjetja, portal XMPP\n\n> [!IMPORTANT]\n> Podpora za ta izdelek je končana. Glejte navodila za selitev. \n"
 products:
 - office
 policyType: fixed
@@ -27,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 09/28/2009
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Povezave \n* [Smernice o migracijah](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n> [!NOTE]\n> XMPP prehod sprosti na 9/28/2009.\n\n## <a name=\"editions\"></a>Izdajah \n* Prehod XMPP"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Usmerjanje selitve](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n> [!NOTE]\n> Prehod XMPP, izdan v 9/28/2009.\n\n## <a name=\"editions\"></a>Naklada \n* Vse uporabne\n* Podjetje\n* Prehod XMPP"
