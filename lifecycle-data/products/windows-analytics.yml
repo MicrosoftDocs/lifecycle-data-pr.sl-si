@@ -1,30 +1,31 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Analytics
-  description: Windows Analytics upošteva pravilnik o sodobnem življenjskem ciklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 4e35970134232ac66d6cae3e03ce5f0dcb3ceb0b
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  title: Analitika sistema Windows
+  description: Windows Analytics sledi sodobni politiki življenjskega cikla.
+  ms.date: 08/11/2020
+  ms.openlocfilehash: 01c42583edc132faefab6ccf17e3f25cd6e2ce9b
+  ms.sourcegitcommit: d4ec29fd0c57053cfa2254d1bb08c610bb5e6817
   ms.translationtype: MT
   ms.contentlocale: sl-SI
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "872245"
-name: Windows Analytics
+  ms.lasthandoff: 08/11/2020
+  ms.locfileid: "887872"
+name: Analitika sistema Windows
 summary: >
-  Windows Analytics upošteva pravilnik o [sodobnem](/lifecycle/policies/modern) življenjskem ciklu.
+  Windows Analytics sledi [sodobni](/lifecycle/policies/modern) politiki življenjskega cikla.
 
 
 
   > [!IMPORTANT]
 
-  > Podpora je končana. Glejte smernice za migracije spodaj.
+  > Podpora se je končala. Glejte navodila za selitev spodaj.
 products:
 - windows
 policyType: modern-on-prem
 supportDates:
   start: 03/02/2017
+  end: 01/31/2020
 releases:
 - version: Original Release
   startDate: 03/02/2017
   endDate: 01/31/2020
-content: "\n## <a name=\"links\"></a>Povezave \n* [Smernice o migracijah](https://techcommunity.microsoft.com/t5/Desktop-Analytics-Blog/Migrate-user-input-data-from-Windows-Analytics-Upgrade-Readiness/ba-p/841744#M15)"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Usmerjanje selitve](https://techcommunity.microsoft.com/t5/Desktop-Analytics-Blog/Migrate-user-input-data-from-Windows-Analytics-Upgrade-Readiness/ba-p/841744#M15)"
