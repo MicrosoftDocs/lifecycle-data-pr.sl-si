@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Upravitelj operacij sistemskega centra 2007 R2
-  description: System Center Operations Manager 2007 R2 sledi pravilniku o fiksnem življenjskem ciklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 1ab9c0a078bf449f1b4118876bcc435d642215fd
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Upravitelj operacij sistema 2007 R2
+  description: Upravitelj operacij sistema 2007 R2 upošteva nespremenljiv pravilnik življenjskega cikla.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 8276b2ba221fb3c6c05948ac9712c3e10c9a1628
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: sl-SI
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "838950"
-name: Upravitelj operacij sistemskega centra 2007 R2
-summary: "System Center Operations Manager 2007 R2 sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.\n\n\n> [!IMPORTANT]\n> Podpora za ta izdelek je končana. Glejte smernice za migracije spodaj. \n"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "892516"
+name: Upravitelj operacij sistema 2007 R2
+summary: "Upravitelj operacij sistema 2007 R2 upošteva [nespremenljiv](/lifecycle/policies/fixed) pravilnik življenjskega cikla.\n\n\n> [!IMPORTANT]\n> Podpora za ta izdelek je končana. Glejte navodila za selitev spodaj. \n"
 products:
 - msc
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 08/20/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Povezave \n* [Smernice o migracijah](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Usmerjanje selitve](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)"

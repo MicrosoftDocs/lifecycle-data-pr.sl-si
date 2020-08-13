@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Izraz
-  description: Izraz sledi pravilniku o fiksnem življenjskem ciklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: ee3c7cfc6f62fb00775e13137084c8e509ac5d8c
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  description: Izraz upošteva nespremenljiv pravilnik življenjskega cikla.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: c81accb05bdbd957a699685c83074735956a009e
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: sl-SI
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "867382"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893404"
 name: Izraz
-summary: "Izraz sledi pravilniku [o fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.\n\nTo velja za naslednje izdaje: Blend, Design, Encoder, Studio\n\n> [!IMPORTANT]\n> Podpora za ta izdelek je končana. \n"
+summary: "Izraz upošteva [nespremenljiv](/lifecycle/policies/fixed) pravilnik življenjskega cikla.\n\nTo velja za te izdaje:» Blend «,» načrt «,» kodirnik «,» Studio «\n\n> [!IMPORTANT]\n> Podpora za ta izdelek je končana. \n"
 products:
 - expression
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 07/27/2007
   endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> Začetni datum za Expression Blend je 13 julij 2007. \n\n## <a name=\"editions\"></a>Izdajah \n* Mešanica\n* Design\n* Encoder\n* Studio"
+content: "\n\n> [!NOTE]\n> Začetni datum za mešanico izraza je julij 13, 2007. \n\n## <a name=\"editions\"></a>Naklada \n* Mešanica\n* Načrt\n* Encoder\n* Studio"
