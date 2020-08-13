@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Strežnik Microsoft BizTalk 2004
-  description: Microsoft BizTalk Server 2004 sledi pravilniku o fiksnem življenjskem ciklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: e9cb9fea43232ed09c4dd276df75b919323fd5dc
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Microsoft BizTalk Server 2004
+  description: Microsoft BizTalk Server 2004 upošteva nespremenljiv pravilnik življenjskega cikla.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 3601a186f2016a32ea40ef7bf59e484940d7d4b0
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: sl-SI
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "839629"
-name: Strežnik Microsoft BizTalk 2004
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893589"
+name: Microsoft BizTalk Server 2004
 summary: >+
-  Microsoft BizTalk Server 2004 sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Microsoft BizTalk Server 2004 upošteva [nespremenljiv](/lifecycle/policies/fixed) pravilnik življenjskega cikla.
 
 
-  To velja za naslednje izdaje: Razvijalec, Podjetje, Partner, Standard
+  To velja za te izdaje: razvijalec, Enterprise, partner, standard
 
 products:
 - microsoft-servers
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 05/20/2004
   endDate: 04/11/2006
-content: "\n## <a name=\"links\"></a>Povezave \n* [Pravilnik o servisnem paketu](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdajah \n* Razvijalec\n* Podjetja\n* Partner\n* Standardni"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Pravilnik servisnega paketa](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Naklada \n* Razvijalec\n* Podjetje\n* Partner\n* Standard"

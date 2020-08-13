@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Internet Explorer 9
-  description: Internet Explorer 9 sledi pravilniku o življenjskem ciklu komponente.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 595ea8f1727166a645aa139d28dc093b4b6f2b41
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: Internet Explorer 9 sledi pravilniku življenjskega cikla komponent.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 56f6d95703597d63faee14b9b135d0d6611e80c8
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: sl-SI
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "862979"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893626"
 name: Internet Explorer 9
 summary: >+
-  Internet Explorer 9 sledi pravilniku [o življenjskem](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) ciklu komponente.
+  Internet Explorer 9 sledi pravilniku življenjskega cikla [komponent](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 03/15/2011
-content: "\n## <a name=\"links\"></a>Povezave \n* [Smernice o migracijah](https://www.microsoft.com/itpro/microsoft-edge)\n* [Pogosta vprašanja o pravilniku o življenjskem ciklu Programa Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> januarja 2016 bo tehnična podpora in varnostne posodobitve prejela le najnovejša različica Internet Explorerja, ki je na voljo za podprt operacijski sistem."
+content: "\n## <a name=\"links\"></a>Povezave \n* [Usmerjanje selitve](https://www.microsoft.com/itpro/microsoft-edge)\n* [Pogosta vprašanja o pravilniku o življenjskem ciklu Internet Explorerja](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Začetek januar 12, 2016, bo na voljo le najnovejša različica Internet Explorerja za podprt operacijski sistem, ki bodo prejeli tehnično podporo in varnostne posodobitve."
