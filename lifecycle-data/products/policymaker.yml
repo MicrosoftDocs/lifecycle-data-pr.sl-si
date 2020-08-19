@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Oblikovanju politike
+  description: Pravilnik sledi nespremenljivemu življenjskem ciklu.
+  ms.date: 08/19/2020
+  ms.openlocfilehash: d1b7d7ac98ec91c5118023494257fde96fbf2c6f
+  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.translationtype: MT
+  ms.contentlocale: sl-SI
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "904517"
+name: Oblikovanju politike
+summary: >+
+  Pravilnik sledi [nespremenljivemu](/lifecycle/policies/fixed) življenjskem ciklu.
+
+
+  To velja za te izdaje: varnost aplikacije, Outlook Edition, Professional 9,0, podaljšanje registra 2,0, skupna raba upravitelja 1,0, posodobitev programske opreme 1,0, posodobitev programske opreme 2,0, standardna 1,0, standardna 2,0
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 01/01/2007
+  end: 01/12/2010
+releases:
+- version: Original Release
+  startDate: 01/01/2007
+  endDate: 01/12/2010
+content: "\n\n> [!NOTE]\n> Podpora za ta izdelek je odvisna od pogojev pridobivanja.\n\n## <a name=\"editions\"></a>Naklada \n* Varnost aplikacije\n* Outlook Edition\n* Strokovna 9,0\n* Pripona registra 2,0\n* Skupna raba upravitelja 1,0\n* Posodobitev programske opreme 1,0\n* Posodobitev programske opreme 2,0\n* Standardna 1,0\n* Standardna 2,0"

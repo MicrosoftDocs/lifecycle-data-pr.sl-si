@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Storitve Azure BizTalk
+  description: Storitve Azure BizTalk sledijo sodobni politiki življenjskega cikla.
+  ms.date: 08/19/2020
+  ms.openlocfilehash: 3fba232a5fce7a5cbc705ce79978718f84181737
+  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.translationtype: MT
+  ms.contentlocale: sl-SI
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "904515"
+name: Storitve Azure BizTalk
+summary: >+
+  Storitve Azure BizTalk sledijo [sodobni](/lifecycle/policies/modern) politiki življenjskega cikla.
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 11/21/2013
+  end: 05/31/2018
+releases:
+- version: Original Release
+  startDate: 11/21/2013
+  endDate: 05/31/2018
+content: "\n## <a name=\"links\"></a>Povezave \n* [Usmerjanje selitve](https://azure.microsoft.com/services/biztalk-services)"
