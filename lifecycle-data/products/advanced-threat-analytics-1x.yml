@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Analitika naprednih groženj 1. X
+  description: Napredna analiza grožnje 1. X upošteva nespremenljiv pravilnik življenjskega cikla.
+  ms.date: 08/19/2020
+  ms.openlocfilehash: acfca59a1c834c55c8fdb6f8d3eddbd34d6070b2
+  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.translationtype: MT
+  ms.contentlocale: sl-SI
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "904508"
+name: Analitika naprednih groženj 1. X
+summary: >+
+  Napredna analiza grožnje 1. X upošteva [nespremenljiv](/lifecycle/policies/fixed) pravilnik življenjskega cikla.
+
+
+products:
+- m365
+policyType: fixed
+supportDates:
+  start: 11/25/2015
+  end: 01/12/2021
+  extendedEnd: 01/13/2026
+releases:
+- version: Original Release
+  startDate: 11/25/2015
+  endDate: 01/13/2026
+content: "\n## <a name=\"links\"></a>Povezave \n* [Navodila za servisiranje analitike naprednih groženj](/advanced-threat-analytics/understand-explore/ata-versions)\n\n> [!NOTE]\n> Posodobitve so kumulativne, pri čemer so vse posodobitve zgrajene na vseh posodobitvah, ki so pred njim. Naprava mora namestiti najnovejšo posodobitev, da ostane podprta."
