@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Izboljšana orodja za ublažitev izkušenj (EMET)
+  description: Izboljšana orodja za ublažitev izkušenj (EMET) upošteva nespremenljiv pravilnik življenjskega cikla.
+  ms.date: 08/20/2020
+  ms.openlocfilehash: 3dbfe94571aa33f4f48608ce2078f978d4901ae8
+  ms.sourcegitcommit: f2f920f4a81a356fb71402238234768a9e90fd51
+  ms.translationtype: MT
+  ms.contentlocale: sl-SI
+  ms.lasthandoff: 08/20/2020
+  ms.locfileid: "905331"
+name: Izboljšana orodja za ublažitev izkušenj (EMET)
+summary: >+
+  Izboljšana orodja za ublažitev izkušenj (EMET) upošteva [nespremenljiv](/lifecycle/policies/fixed) pravilnik življenjskega cikla.
+
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 12/30/2016
+  end: 12/30/2016
+  extendedEnd: 07/31/2018
+releases:
+- version: Original Release
+  startDate: 12/30/2016
+  endDate: 07/31/2018
+content: ''
