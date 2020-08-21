@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Small Business Server 2011
-  description: Windows Small Business Server 2011 sledi pravilniku o fiksnem življenjskem ciklu.
+  description: Windows Small Business Server 2011 sledi fiksnemu pravilniku o življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 61033305f4abf2b1c63cd15f8ae3dce88331fa7e
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863025"
 name: Windows Small Business Server 2011
 summary: >
-  Windows Small Business Server 2011 sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Windows Small Business Server 2011 sledi [fiksnemu](/lifecycle/policies/fixed) pravilniku o življenjskem ciklu.
 
 
   To velja za naslednje izdaje: Essentials, Premium Add-On, Standard
@@ -19,7 +19,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Datum podpore za ta paket izdelkov je določen z zadevnimi življenjskimi cikli posameznega izdelka. Če želite določiti njegovo trajanje podpore, preglejte življenjski cikel posameznega izdelka.
+  > Datum podpore za ta paket izdelkov je odvisen od življenjskega cikla posameznega sestavnega izdelka. Preverite življenjski cikel posameznega sestavnega dela, da določite njegovo dolžino podpore.
 products:
 - windows
 policyType: fixed
@@ -28,4 +28,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 03/09/2011
-content: "\n## <a name=\"links\"></a>Povezave \n* [Smernice o migracijah](https://aka.ms/AA1ovn4)\n* [Selitev sistema Windows Small Business Server 2011 Standard v zbirko Windows Server Essentials](/windows-server-essentials/migrate/migrate-windows-small-business-server-2011-standard-to-windows-server-essentials)\n\n\n## <a name=\"editions\"></a>Izdajah \n* Osnovni izrazi\n* Premium dodatek\n* Standardni"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Navodila za učinkovito selitev](https://aka.ms/AA1ovn4)\n* [Selitev sistema Windows Small Business Server 2011 Standard v zbirko Windows Server Essentials](/windows-server-essentials/migrate/migrate-windows-small-business-server-2011-standard-to-windows-server-essentials)\n\n\n## <a name=\"editions\"></a>Izdaje \n* Essentials\n* Premium Add-on\n* Standard"

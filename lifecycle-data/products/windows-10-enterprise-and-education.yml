@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 10 Podjetje in izobraževanje
-  description: Windows 10 Enterprise and Education upošteva sodobni pravilnik o življenjskem ciklu.
+  title: Windows 10 Enterprise in Education
+  description: Windows 10 Enterprise in Education sledi sodobnemu pravilniku o življenjskem ciklu.
   ms.date: 07/30/2020
   ms.openlocfilehash: 959937e0ef4ac9c0cc65ecb1a6ef8aa332a835a8
   ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/30/2020
   ms.locfileid: "879225"
-name: Windows 10 Podjetje in izobraževanje
+name: Windows 10 Enterprise in Education
 summary: >
-  Windows 10 Enterprise and Education upošteva sodobni [pravilnik o](/lifecycle/policies/modern) življenjskem ciklu.
+  Windows 10 Enterprise in Education sledi [sodobnemu](/lifecycle/policies/modern) pravilniku o življenjskem ciklu.
 
 
-  To velja za naslednje izdaje: Izobraževanje,
+  To velja za naslednje izdaje: Education, Enterprise
 
 
   > [!IMPORTANT]
 
-  > Microsoft bo še naprej podpiral vsaj en posadkan kanal sistema Windows 10 do 14.
+  > Microsoft bo do 14. oktobra 2025 še naprej podpiral vsaj en polletni kanal sistema Windows 10.
 products:
 - windows
 policyType: modern-on-prem
@@ -57,4 +57,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>Povezave \n* [Windows kot storitev (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Informacije o izdelku](/windows/windows-10/)\n* [Informativni list o življenjskem ciklu sistema Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Pogosta vprašanja o življenjskem ciklu - Izdelki sistema Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Če ni odloženo, se lahko pred navedenim koncem datuma glavne podpore namestijo nadaljnje posodobitve funkcij na polizletu sistema Windows 10.\n\n## <a name=\"editions\"></a>Izdajah \n* Izobraževanje\n* Podjetja"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Windows kot storitev (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Informacije o izdelku](/windows/windows-10/)\n* [Informativni seznam o življenjskem ciklu sistema Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Pogosta vprašanja o življenjskem ciklu – Izdelki Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Naknadne posodobitve funkcij polletnega kanala Windows 10 so lahko nameščene pred navedenim koncem osnovne podpore, razen če so odložene.\n\n## <a name=\"editions\"></a>Izdaje \n* Education\n* Enterprise"

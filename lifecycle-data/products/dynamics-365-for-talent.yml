@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365 for Talent
-  description: Dynamics 365 for Talent upošteva sodobni pravilnik o življenjskem ciklu.
+  title: Dynamics 365 za Talent
+  description: Dynamics 365 za Talent sledi sodobnemu pravilniku o življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: d6dc50f8fa82bcf711b79df464c150fdbf9d1ec6
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872228"
-name: Dynamics 365 for Talent
+name: Dynamics 365 za Talent
 summary: >+
-  Dynamics 365 for Talent upošteva sodobni [pravilnik o](/lifecycle/policies/modern) življenjskem ciklu.
+  Dynamics 365 za Talent sledi [sodobnemu](/lifecycle/policies/modern) pravilniku o življenjskem ciklu.
 
 
-  To velja za naslednje izdaje: Na krovu
+  To velja za naslednje izdaje: Onboard
 
 products:
 - dynamics
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 07/31/2017
   endDate: 02/02/2022
-content: "\n## <a name=\"links\"></a>Povezave \n* [Sistemske zahteve](/dynamics365/talent/talent-versions-update-policy#supported-microsoft-office-applications)\n* [Smernice o migracijah](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/12/06/building-a-more-successful-workforce-with-dynamics-365-human-resources)\n\n> [!NOTE]\n> Privabiti in na krovu aplikacije se bo upokojil februarja 2, 2022.  Core HR ponovno začela kot Dynamics 365 človeških virov februarja 1, 2020, glej navodila za migracijo za več informacij.\n\n## <a name=\"editions\"></a>Izdajah \n* Krovu"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Sistemske zahteve](/dynamics365/talent/talent-versions-update-policy#supported-microsoft-office-applications)\n* [Navodila za učinkovito selitev](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/12/06/building-a-more-successful-workforce-with-dynamics-365-human-resources)\n\n> [!NOTE]\n> Progama Attract in Onboard, bosta ukinjena 2. februarja 2022.  Core HR ponovno deluje kot Dynamics 365 Human Resources od 1. februarja 2020, glej navodila za selitev za več informacij.\n\n## <a name=\"editions\"></a>Izdaje \n* Onboard"

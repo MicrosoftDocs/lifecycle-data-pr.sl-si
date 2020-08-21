@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Vizualni studio 2012
-  description: Visual Studio 2012 sledi pravilniku o fiksnem življenjskem ciklu.
+  title: Visual Studio 2012
+  description: Visual Studio 2012 sledi fiksnemu pravilniku o življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 31d437b362fc9cdf06165caca18202e49cd7624b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863029"
-name: Vizualni studio 2012
+name: Visual Studio 2012
 summary: >+
-  Visual Studio 2012 sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Visual Studio 2012 sledi [fiksnemu](/lifecycle/policies/fixed) pravilniku o življenjskem ciklu.
 
 
-  To velja za naslednje izdaje: Agenti, Skupnost 2013, Express for Web, Express za Windows 8, Express za Windows Desktop, IntelliTrace Collector, Microsoft Azure Tools, Premium, Professional, Remote Tools, Shell (Integrirano), Shell (Izolirana), SQL Server Data Tools, Team Explorer, Test Professional 2013, Ultimate, Visual C + + Redistributable, Web Tools Extensions
+  To velja za naslednje izdaje: Agents, Community 2013, Express za splet, Express za Windows 8, Express za namizje sistema Windows, IntelliTrace Collector, Microsoft Azure Tools, Premium, Professional, Remote Tools, Shell (Integrirano), Shell (Izolirani), Podatkovna orodja strežnika SQL, Team Explorer, Test Professional 2013, Ultimate, Visual C + + Redistributable, Razširitve spletnih orodij
 
 products:
 - vs
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 10/31/2012
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Povezave \n* [Življenjski cikel in servisiranje izdelkov Visual Studio](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Izdajah \n* Agenti\n* Skupnost 2013\n* Ekspres za splet\n* Express za Windows 8\n* Express za namizje sistema Windows\n* IntelliTrace Zbiralec\n* Orodja za Microsoft Azure\n* Premije\n* Strokovno\n* Oddaljena orodja\n* Lupina (integrirana)\n* Lupina (izolirana)\n* Podatkovna orodja strežnika SQL Server\n* Raziskovalec skupin\n* TestNi strokovni 2013\n* Zadnji\n* Visual C++ Redistributable\n* Razširitve spletnih orodij"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Življenjski cikel in servisiranje izdelkov Visual Studio](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Izdaje \n* Agents\n* Community 2013\n* Express za splet\n* Express za Windows 8\n* Express za namizje sistema Windows\n* IntelliTrace Collector\n* Microsoft Azure Tools\n* Premium\n* Professional\n* Remote Tools\n* Shell (integrirano)\n* Shell (izolirano)\n* Podatkovna orodja strežnika SQL Server\n* Team Explorer\n* Test Professional 2013\n* Ultimate\n* Visual C++ Redistributable\n* Razširitve spletnih orodij"

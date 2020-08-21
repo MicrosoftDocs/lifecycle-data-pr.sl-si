@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Samostojni paket storitveNe tkanine za Windows Server
-  description: Samostojni paket service Fabric za Windows Server upošteva pravilnik o sodobnem življenjskem ciklu.
+  title: Samostojni paket storitve Fabric za Windows Server
+  description: Samostojni paket storitve Fabric za Windows Server sledi sodobnemu pravilniku o življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: d1876355f78b6c35bded38d9b1cbd039d4f0cd91
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863139"
-name: Samostojni paket storitveNe tkanine za Windows Server
+name: Samostojni paket storitve Fabric za Windows Server
 summary: >+
-  Samostojni paket service Fabric za Windows Server upošteva pravilnik o [sodobnem](/lifecycle/policies/modern) življenjskem ciklu.
+  Samostojni paket storitve Fabric za Windows Server sledi [sodobnemu](/lifecycle/policies/modern) pravilniku o življenjskem ciklu.
 
 
 products:

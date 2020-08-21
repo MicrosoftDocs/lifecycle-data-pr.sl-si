@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Storitve Windows Server Update za Windows Server 2012
+  title: Windows Server Update Services za Windows Server 2012
   description: Storitve Windows Server Update za Windows Server 2012 sledijo pravilniku o življenjskem ciklu komponent.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4c901f9ed6f882c8009f8c6ea1df3cf55ac81d7c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863195"
-name: Storitve Windows Server Update za Windows Server 2012
+name: Windows Server Update Services za Windows Server 2012
 summary: >+
-  Storitve Windows Server Update za Windows Server 2012 sledijo pravilniku o [življenjskem](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) ciklu komponent.
+  Storitve Windows Server Update za Windows Server 2012 sledijo pravilniku o življenjskem ciklu [komponent](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -26,4 +26,4 @@ releases:
 content: >-
   > [!TIP]
 
-  > Ta komponenta sledi življenjskemu ciklu nadrejenega izdelka, Windows Server 2012.
+  > Ta komponenta sledi življenjskemu ciklu nadrejenega izdelka Windows Server 2012.

@@ -1,18 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Upravitelj vdelanih naprav sistema Windows 2011
-  description: Windows Embedded Device Manager 2011 sledi pravilniku o fiksnem življenjskem ciklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 2d201270f62cb33b4d7bd7f8ca6a7c43dfe01f06
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  title: Upravitelj naprav v sistemu Windows 2011
+  description: Windows Embedded Device Manager 2011 upošteva nespremenljiv pravilnik življenjskega cikla.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 7d43dfd6726e8314bd4c05bb6d54c91aca80ab7b
+  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
   ms.translationtype: MT
   ms.contentlocale: sl-SI
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "863236"
-name: Upravitelj vdelanih naprav sistema Windows 2011
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906800"
+name: Upravitelj naprav v sistemu Windows 2011
 summary: >
-  Windows Embedded Device Manager 2011 sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Windows Embedded Device Manager 2011 upošteva [nespremenljiv](/lifecycle/policies/fixed) pravilnik življenjskega cikla.
 
+
+  To velja za te izdaje: odjemalec, SDK, strežnik
 
 
   > [!IMPORTANT]
@@ -32,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 05/29/2011
   endDate: 01/08/2013
-content: "\n## <a name=\"links\"></a>Povezave \n* [Pravilnik o servisnem paketu](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Pravilnik servisnega paketa](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Naklada \n* Odjemalec\n* SDK\n* Strežnik"
