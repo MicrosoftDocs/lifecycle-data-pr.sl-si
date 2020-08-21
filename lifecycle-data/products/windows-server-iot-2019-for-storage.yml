@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Server IoT 2019 za shranjevanje
-  description: Windows Server IoT 2019 za shranjevanje sledi pravilniku o fiksnem življenjskem ciklu.
+  description: Windows Server IoT 2019 za shranjevanje sledi fiksnemu pravilniku o življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9e346c8980467df3bdbd3c9f9e9667b2fa81f9cf
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872241"
 name: Windows Server IoT 2019 za shranjevanje
 summary: >+
-  Windows Server IoT 2019 za shranjevanje sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Windows Server IoT 2019 za shranjevanje sledi [fiksnemu ](/lifecycle/policies/fixed)pravilniku o življenjskem ciklu.
 
 
-  To velja za naslednje izdaje: Standard, Delovna skupina
+  To velja za naslednje izdaje: Standard, Workgroup
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 03/04/2019
   endDate: 01/09/2029
-content: "\n\n\n## <a name=\"editions\"></a>Izdajah \n* Standardni\n* Workgroup"
+content: "\n\n\n## <a name=\"editions\"></a>Izdaje \n* Standard\n* Delovna skupina"

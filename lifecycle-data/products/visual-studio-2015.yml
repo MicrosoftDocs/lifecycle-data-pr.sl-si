@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Vizualni studio 2015
-  description: Visual Studio 2015 sledi pravilniku o fiksnem življenjskem ciklu.
+  title: Visual Studio 2015
+  description: Visual Studio 2015 sledi fiksnemu pravilniku o življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4300bd472c7f836c9d93e7f7e3da2005da410bac
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863077"
-name: Vizualni studio 2015
+name: Visual Studio 2015
 summary: >+
-  Visual Studio 2015 sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Visual Studio 2015 sledi [fiksnemu](/lifecycle/policies/fixed) pravilniku o življenjskem ciklu.
 
 
-  To velja za naslednje izdaje: agenti, Skupnost, Podjetje, Express za splet, Express za Windows 10, Express za Windows Desktop, Modeliranje SDK, Professional, Release Management, Remote Tools, SDK, Shell (Integrirano), Shell (Izolirani), Test Professional, Visual C + + Redistributable
+  To velja za naslednje izdaje: Agents, Community , Enterprise, Express za splet, Express za Windows 10, Express za namizne računalnike Windows, Modeling SDK, Professional, Release Management, Remote Tools, SDK, Shell (vgrajen), Shell (izoliran), Test Professional, Visual C++ Redistributable
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 07/20/2015
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Povezave \n* [Informacije o servisiranju](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Izdajah \n* Agenti\n* Comunity\n* Podjetja\n* Ekspres za splet\n* Express za Windows 10\n* Express za namizje sistema Windows\n* SDK za modeliranje\n* Strokovno\n* Upravljanje izdaje\n* Oddaljena orodja\n* Sdk\n* Lupina (integrirana)\n* Lupina (izolirana)\n* Testni strokovnjak\n* Visual C++ Redistributable"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Informacije o servisiranju](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Izdaje \n* Agents\n* Skupnost\n* Enterprise\n* Express za splet\n* Express za Windows 10\n* Express za namizje sistema Windows\n* Modeling SDK\n* Professional\n* Release Management\n* Remote Tools\n* SDK\n* Shell (integrirano)\n* Shell (izolirano)\n* Test Professional\n* Visual C++ Redistributable"

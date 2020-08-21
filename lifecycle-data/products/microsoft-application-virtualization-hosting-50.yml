@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Application Virtualization Hosting 5.0 za namizja sistema Windows
-  description: Microsoft Application Virtualization Hosting 5.0 za namizja sistema Windows sledi pravilniku o fiksnem življenjskem ciklu.
+  title: Microsoft Application Virtualization Hosting 5.0 za namizne računalnike Windows
+  description: Microsoft Application Virtualization Hosting 5.0 za namizja sistema Windows sledi fiksnemu pravilniku o življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: dff04b865491bfb99aa8d20e556aafd434a59398
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "862967"
-name: Microsoft Application Virtualization Hosting 5.0 za namizja sistema Windows
+name: Microsoft Application Virtualization Hosting 5.0 za namizne računalnike Windows
 summary: >+
-  Microsoft Application Virtualization Hosting 5.0 za namizja sistema Windows sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Microsoft Application Virtualization Hosting 5.0 za namizja sistema Windows sledi [fiksnemu](/lifecycle/policies/fixed) pravilniku o življenjskem ciklu.
 
 
-  To velja za te izdaje: za namizja sistema Windows
+  To velja za naslednje izdaje: za namizja sistema Windows
 
 products:
 - windows
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2012
   endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>Povezave \n* [Informacije o izdelku](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Pravilnik o servisnem paketu](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdajah \n* za namizja sistema Windows"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Informacije o izdelku](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Pravilnik servisnih paketov](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdaje \n* za namizja sistema Windows"

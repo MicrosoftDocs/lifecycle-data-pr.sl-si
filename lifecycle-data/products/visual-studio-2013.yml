@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Vizualni studio 2013
-  description: Visual Studio 2013 sledi pravilniku o fiksnem življenjskem ciklu.
+  title: Visual Studio 2013
+  description: Visual Studio 2013 sledi fiksnemu pravilniku o življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: b94d9b3d87ff3c971739be3ca2ebbb2446764e1b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863299"
-name: Vizualni studio 2013
+name: Visual Studio 2013
 summary: >+
-  Visual Studio 2013 sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Visual Studio 2013 sledi [fiksnemu](/lifecycle/policies/fixed) pravilniku o življenjskem ciklu.
 
 
-  To velja za naslednje izdaje: Agenti, All, Community, Express for Web, Express for Windows, Express for Windows, Express for Windows Desktop, IntelliTrace Collector, Modeling SDK, Multibyte MFC Library, Premium, Professional, Release Management, Remote Tools, SDK, Shell (Integrirano), Shell (Izoliran), Team Explorer, Test Professional, Ultimate, Visual C + + Redistributable, Web Tools Extensions
+  To velja za naslednje izdaje: Agents, vsi, Community, Express za splet, Express za Windows, Express za namizja sistema Windows , IntelliTrace Collector, Modeling SDK, Multibyte MFC Library, Premium, Professional, Release Management, Remote Tools, SDK, Shell (integriran), Shell (izoliran), Team Explorer, Test Professional, Ultimate, Visual C++ Redistributable, Web Tools Extensions
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 04/09/2024
-content: "\n## <a name=\"links\"></a>Povezave \n* [Informacije o servisiranju](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Izdajah \n* Agenti\n* Vse\n* Comunity\n* Ekspres za splet\n* Express za Windows\n* Express za namizje sistema Windows\n* IntelliTrace Zbiralec\n* SDK za modeliranje\n* Knjižnica MFC z večbajti\n* Premije\n* Strokovno\n* Upravljanje izdaje\n* Oddaljena orodja\n* Sdk\n* Lupina (integrirana)\n* Lupina (izolirana)\n* Raziskovalec skupin\n* Testni strokovnjak\n* Zadnji\n* Visual C++ Redistributable\n* Razširitve spletnih orodij"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Informacije o servisiranju](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Izdaje \n* Agents\n* Vsi\n* Skupnost\n* Express za splet\n* Express za Windows\n* Express za namizje sistema Windows\n* IntelliTrace Collector\n* Modeling SDK\n* Multibyte MFC Library\n* Premium\n* Professional\n* Release Management\n* Remote Tools\n* SDK\n* Shell (integrirano)\n* Shell (izolirano)\n* Team Explorer\n* Test Professional\n* Ultimate\n* Visual C++ Redistributable\n* Razširitve spletnih orodij"

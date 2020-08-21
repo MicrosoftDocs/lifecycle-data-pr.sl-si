@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Strežnik za shranjevanje v sistemu Windows 2012 R2
-  description: Windows Storage Server 2012 R2 sledi pravilniku o fiksnem življenjskem ciklu.
+  title: Windows Storage Server 2012 R2
+  description: Windows Storage Server 2012 R2 sledi fiksnemu pravilniku o življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4a27e9c473e898353e7d8d5f47cf6e19274320d8
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863231"
-name: Strežnik za shranjevanje v sistemu Windows 2012 R2
+name: Windows Storage Server 2012 R2
 summary: >+
-  Windows Storage Server 2012 R2 sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Windows Storage Server 2012 R2 sledi [fiksnemu](/lifecycle/policies/fixed) pravilniku o življenjskem ciklu.
 
 
-  To velja za naslednje izdaje: Essentials, Standard, Delovna skupina
+  To velja za naslednje izdaje: Essentials, Standard, Workgroup
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2013
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Povezave \n* [Smernice o migracijah](/windows-server/upgrade/upgrade-2012r2-to-2019)\n\n> [!NOTE]\n> Osnovna in razširjena podpora za ta izdelek je bila razširjena, da bi strankam zagotovila standardno časovno premico prehoda življenjskega cikla.\n> [!NOTE]\n> Začetni datum za izdajo Essentials je september 25, 2014. \n\n## <a name=\"editions\"></a>Izdajah \n* Osnovni izrazi\n* Standardni\n* Workgroup"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Navodila za učinkovito selitev](/windows-server/upgrade/upgrade-2012r2-to-2019)\n\n> [!NOTE]\n> Osnovna in razširjena podpora za ta izdelek sta bili razširjeni, da bi strankam zagotovila standardno časovno premico prehoda življenjskega cikla.\n> [!NOTE]\n> Začetni datum za izdajo Essentials je 25. september 2014. \n\n## <a name=\"editions\"></a>Izdaje \n* Essentials\n* Standard\n* Delovna skupina"

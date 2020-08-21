@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Zaščita končne točke za Microsoft System Center 2012
-  description: Zaščita končne točke za Microsoft System Center 2012 sledi pravilniku o fiksnem življenjskem ciklu.
+  title: Microsoft System Center 2012 Endpoint Protection
+  description: Microsoft System Center 2012 Endpoint Protection sledi fiksnemu pravilniku o življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 831df2c41a088376f7cb34fb117163dc45ade4ed
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863041"
-name: Zaščita končne točke za Microsoft System Center 2012
+name: Microsoft System Center 2012 Endpoint Protection
 summary: >+
-  Zaščita končne točke za Microsoft System Center 2012 sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Microsoft System Center 2012 Endpoint Protection sledi [fiksnemu](/lifecycle/policies/fixed) pravilniku o življenjskem ciklu.
 
 
-  To velja za naslednje izdaje: za mac
+  To velja za naslednje izdaje: za Mac
 
 products:
 - msc
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Povezave \n* [Informacije o servisiranju](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n* [Smernice o migracijah](https://techcommunity.microsoft.com/t5/Configuration-Manager-Blog/End-of-Support-for-SCEP-for-Mac-and-SCEP-for-Linux-on-December/ba-p/286257)\n* [Pravilnik o servisnem paketu](/lifecycle/policies/fixed#service-packs)\n* [Dokumentacija sistema system Center](/system-center/#pivot=components&panel=components-all)\n\n> [!NOTE]\n> Stranke morajo ostati na tekočem z najnovejšo posodobitvijo platforme za preprečevanje zlonamerne programske opreme, ki bo v celoti podprta.\n\n## <a name=\"editions\"></a>Izdajah \n* za računalnike Mac"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Informacije o servisiranju](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n* [Navodila za učinkovito selitev](https://techcommunity.microsoft.com/t5/Configuration-Manager-Blog/End-of-Support-for-SCEP-for-Mac-and-SCEP-for-Linux-on-December/ba-p/286257)\n* [Pravilnik servisnih paketov](/lifecycle/policies/fixed#service-packs)\n* [Dokumentacija sistemskega centra](/system-center/#pivot=components&panel=components-all)\n\n> [!NOTE]\n> Stranke morajo biti v celoti podprte z najnovejšo posodobitvijo platforme proti zlonamerni programski opremi.\n\n## <a name=\"editions\"></a>Izdaje \n* za Mac"

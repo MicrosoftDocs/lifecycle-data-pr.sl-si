@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Vizualni studio 2019
-  description: Visual Studio 2019 sledi pravilniku o fiksnem življenjskem ciklu.
+  title: Visual Studio 2019
+  description: Visual Studio 2019 sledi fiksnemu pravilniku o življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3bb4a3be253fe45b27fa6baa8f165dc2fbb3ffd1
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872259"
-name: Vizualni studio 2019
+name: Visual Studio 2019
 summary: >+
-  Visual Studio 2019 sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Visual Studio 2019 sledi [fiksnemu](/lifecycle/policies/fixed) pravilniku o življenjskem ciklu.
 
 
-  To velja za naslednje izdaje: agenti, orodja za gradinje, Skupnost, Enterprise, za Mac, IntelliTrace Standalone Collector, Orodja za učinkovitost delovanja, Professional, Remote Tools, Team Explorer, Visual C ++ Redistributable
+  To velja za naslednje izdaje: Agents, Build Tools, Community, Enterprise, za Mac, IntelliTrace Standalone Collector, Orodja za učinkovitost delovanja, Professional, Remote Tools, Team Explorer, Visual C ++ Redistributable
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Version 16.0
   startDate: 04/02/2019
   endDate: 01/12/2021
-content: "\n## <a name=\"links\"></a>Povezave \n* [Napoved](https://devblogs.microsoft.com/visualstudio/tis-the-season-visual-studio-2019/)\n* [Informacije o servisiranju](/visualstudio/releases/2019/servicing)\n\n\n## <a name=\"editions\"></a>Izdajah \n* Agenti\n* Orodja za ustvarjanje\n* Comunity\n* Podjetja\n* za računalnike Mac\n* IntelliTrace Samostojni zbiralec\n* Orodja za učinkovitost delovanja\n* Strokovno\n* Oddaljena orodja\n* Raziskovalec skupin\n* Visual C++ Redistributable"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Obvestila](https://devblogs.microsoft.com/visualstudio/tis-the-season-visual-studio-2019/)\n* [Informacije o servisiranju](/visualstudio/releases/2019/servicing)\n\n\n## <a name=\"editions\"></a>Izdaje \n* Agents\n* Build Tools\n* Skupnost\n* Enterprise\n* za Mac\n* IntelliTrace Standalone Collector\n* Orodja za učinkovitost delovanja\n* Professional\n* Remote Tools\n* Team Explorer\n* Visual C++ Redistributable"
