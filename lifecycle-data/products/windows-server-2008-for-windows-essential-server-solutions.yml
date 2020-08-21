@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Server 2008 za rešitve windows essential strežnika
-  description: Windows Server 2008 for Windows Essential Server Solutions upošteva pravilnik o fiksnem življenjskem ciklu.
+  title: Windows Server 2008 za Windows Essential Server Solutions
+  description: Windows Server 2008 za Windows Essential Server Solutions sledi fiksnemu pravilniku o življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: a0f008702c636963333da20217a32768124fe020
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "839438"
-name: Windows Server 2008 za rešitve windows essential strežnika
+name: Windows Server 2008 za Windows Essential Server Solutions
 summary: >
-  Windows Server 2008 for Windows Essential Server Solutions upošteva pravilnik o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Windows Server 2008 za Windows Essential Server Solutions sledi [fiksnemu](/lifecycle/policies/fixed) pravilniku o življenjskem ciklu.
 
 
-  To velja za naslednje izdaje: Standardno, brez Hyper-V
+  To velja za naslednje izdaje: Standard, brez Hyper-V
 
 
   > [!IMPORTANT]
 
-  > Podpora za ta izdelek je končana. Glejte smernice za migracije spodaj.
+  > Podpora za ta izdelek je končana. Preberite spodnje smernice za selitev.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 02/18/2009
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Povezave \n* [Smernice o migracijah](https://aka.ms/AA1ovn4)\n* [Informacije o izdelku](https://cloudblogs.microsoft.com/windowsserver/2008/02/20/introducing-windows-essential-server-solutions/)\n\n\n## <a name=\"editions\"></a>Izdajah \n* Standardni\n* brez hiper-V"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Navodila za učinkovito selitev](https://aka.ms/AA1ovn4)\n* [Informacije o izdelku](https://cloudblogs.microsoft.com/windowsserver/2008/02/20/introducing-windows-essential-server-solutions/)\n\n\n## <a name=\"editions\"></a>Izdaje \n* Standard\n* brez Hyper-V"

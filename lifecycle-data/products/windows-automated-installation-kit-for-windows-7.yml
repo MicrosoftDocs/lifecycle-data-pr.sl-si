@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Komplet za samodejno namestitev sistema Windows za Windows 7
-  description: Komplet za samodejno namestitev sistema Windows za Windows 7 upošteva pravilnik o fiksnem življenjskem ciklu.
+  description: Komplet za samodejno namestitev sistema Windows za Windows 7 sledi fiksnemu pravilniku o življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: aef3eea94538c8956abb01f8b3e681e9932d18a5
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "838940"
 name: Komplet za samodejno namestitev sistema Windows za Windows 7
 summary: >
-  Komplet za samodejno namestitev sistema Windows za Windows 7 upošteva pravilnik [o fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Komplet za samodejno namestitev sistema Windows za Windows 7 sledi [fiksnemu](/lifecycle/policies/fixed) pravilniku o življenjskem ciklu.
 
 
 

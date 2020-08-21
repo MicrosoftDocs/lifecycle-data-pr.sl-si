@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Windows Small Business Server 2003
-  description: Microsoft Windows Small Business Server 2003 sledi pravilniku o fiksnem življenjskem ciklu.
+  description: Microsoft Windows Small Business Server 2003 sledi fiksnemu pravilniku o življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 8ac087fd1710a2deb48d9507f342d447d9c96b2c
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "839505"
 name: Microsoft Windows Small Business Server 2003
 summary: >+
-  Microsoft Windows Small Business Server 2003 sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Microsoft Windows Small Business Server 2003 sledi [fiksnemu](/lifecycle/policies/fixed) pravilniku o življenjskem ciklu.
 
 
   To velja za naslednje izdaje: Premium, Standard
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 12/16/2003
   endDate: 07/10/2007
-content: "\n## <a name=\"links\"></a>Povezave \n* [Pravilnik o servisnem paketu](/lifecycle/policies/fixed#service-packs)\n* [Smernice o migracijah](https://aka.ms/AA1ovn4)\n\n> [!NOTE]\n> Datum podpore za ta paket izdelkov je določen z zadevnimi življenjskimi cikli posameznega izdelka. Če želite določiti njegovo trajanje podpore, preglejte življenjski cikel posameznega izdelka.\n> [!NOTE]\n> Začetni datum za Windows Small Business Server 2003 Standard Edition je 16. \n\n## <a name=\"editions\"></a>Izdajah \n* Premije\n* Standardni"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Pravilnik servisnih paketov](/lifecycle/policies/fixed#service-packs)\n* [Navodila za učinkovito selitev](https://aka.ms/AA1ovn4)\n\n> [!NOTE]\n> Datum podpore za ta paket izdelkov je odvisen od življenjskega cikla posameznega sestavnega izdelka. Preverite življenjski cikel posameznega sestavnega dela, da določite njegovo dolžino podpore.\n> [!NOTE]\n> Začetni datum za Windows Small Business Server 2003 Standard Edition je 16. december 2003 \n\n## <a name=\"editions\"></a>Izdaje \n* Premium\n* Standard"

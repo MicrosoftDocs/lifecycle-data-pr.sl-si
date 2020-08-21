@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Storitve Windows Server Update 3.0
-  description: Storitve Windows Server Update Services 3.0 sledijo pravilniku o fiksnem življenjskem ciklu.
+  title: Windows Server Update Services 3.0
+  description: Storitve Windows Server Update Services 3.0 sledijo fiksnemu pravilniku o življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: b5e6ed046b5497010706f64c93962f1c4af0e2a0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "839807"
-name: Storitve Windows Server Update 3.0
+name: Windows Server Update Services 3.0
 summary: >
-  Storitve Windows Server Update Services 3.0 sledijo pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Storitve Windows Server Update Services 3.0 sledijo [fiksnemu](/lifecycle/policies/fixed) pravilniku o življenjskem ciklu.
 
 
 
   > [!IMPORTANT]
 
-  > Podpora je končana. Glejte smernice za migracije spodaj.
+  > Podpora je končana. Preberite spodnje smernice za selitev.
 products:
 - windows
 policyType: fixed
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 07/10/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>Povezave \n* [Smernice o migracijah](https://technet.microsoft.com/library/mt772341%28WS.11%29.aspx)\n* [Pravilnik o servisnem paketu](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Podpora je bila podaljšana z 7.11.2017 na 1.14.2020."
+content: "\n## <a name=\"links\"></a>Povezave \n* [Navodila za učinkovito selitev](https://technet.microsoft.com/library/mt772341%28WS.11%29.aspx)\n* [Pravilnik servisnih paketov](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Podpora je bila podaljšana iz 7.11.2017 na 1.14.2020."

@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Server 2008
-  description: Windows Server 2008 sledi pravilniku o fiksnem življenjskem ciklu.
+  description: Windows Server 2008 sledi fiksnemu pravilniku o življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: cb16ce7326c75c0c560a1b8a0078d03656d58c21
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "839809"
 name: Windows Server 2008
 summary: >
-  Windows Server 2008 sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Windows Server 2008 sledi [fiksnemu](/lifecycle/policies/fixed) pravilniku o življenjskem ciklu.
 
 
-  To velja za naslednje izdaje: Datacenter, Datacenter brez Hyper-V, Enterprise, Enterprise without Hyper-V, za sisteme, ki temeljijo na Itaniumu, Fundacija, Standard, Standard brez Hyper-V, Web
+  To velja za naslednje izdaje: Datacenter, Datacenter brez Hyper-V, Enterprise, Enterprise brez Hyper-V, za sisteme, ki temeljijo na Itaniumu, Foundation, Standard, Standard brez Hyper-V, Splet
 
 
   > [!IMPORTANT]
 
-  > Podpora za ta izdelek je končana. Glejte smernice za migracije spodaj.
+  > Podpora za ta izdelek je končana. Preberite spodnje smernice za selitev.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 05/06/2008
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Povezave \n* [Smernice o migracijah](https://aka.ms/AA1ovn4)\n* [Informacije o nadgradnji strežnika](/windows-server/upgrade/upgrade-overview)\n* [Razširjeni program za varnostno posodabljanje (ESU)](/lifecycle/faq/extended-security-updates)\n* [Pravilnik o servisnem paketu](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Razširjene varnostne posodobitve (ESU) so na voljo prek posebnih programov količinskega licenciranja za izdaje Datacenter, Standard, Enterprise in Embedded te izdaje izdelkov, za do dodatna tri leta po koncu podpore. Če želite izvedeti več, se obrnite na Microsoftovega partnerja ali skupino za račun. \n\nDatum ------------------------------- za izdajo----End\n\nRazširjena varnostna posodobitev leto 3---01/11/2022---01/10/2023\n\nRazširjena varnostna posodobitev leto 2---01/12/2021---01/11/2022\n\nPodaljšano varnostno posodobitev leto 1---01/14/2020---01/12/2021\n> [!NOTE]\n> Windows Server 2008 Foundation sprosti maja 21, 2009\n\n## <a name=\"editions\"></a>Izdajah \n* Datacenter\n* Datacenter brez hiper-V\n* Podjetja\n* Podjetje brez hiper-V\n* za sisteme, ki temeljijo na Itaniji\n* Foundation\n* Standardni\n* Standardna brez hiper-V\n* Spletni"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Navodila za učinkovito selitev](https://aka.ms/AA1ovn4)\n* [Informacije o nadgradnji strežnika](/windows-server/upgrade/upgrade-overview)\n* [Razširjeni program za varnostno posodobitev (ESU)?](/lifecycle/faq/extended-security-updates)\n* [Pravilnik servisnih paketov](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Razširjene varnostne posodobitve (ESU) so na voljo s posebnimi programi za izdajo dovoljenj za Datacenter, Standard, Enterprise in Embedded, največ tri dodatna leta po koncu podpore. Če želite izvedeti več, se obrnite na Microsoftovega partnerja ali skrbnike računa. \n\nIzdaja ------------------------------- Začetni datum ---- Končni datum\n\nRazširjena varnostna posodobitev 3. leto ---11.1.2022---10.1.2023\n\nRazširjena varnostna posodobitev 2. leto---12.1.2021---11.1.2022\n\nPodaljšano varnostno posodobitev 1. leto-- 14.1.2020---12.1.2021\n> [!NOTE]\n> Windows Server 2008 Foundation, izdan 21. maja 2009\n\n## <a name=\"editions\"></a>Izdaje \n* Datacenter\n* Datacenter brez Hyper-V\n* Enterprise\n* Enterprise brez Hyper-V\n* za sisteme, ki temeljijo na Itaniji\n* Foundation\n* Standard\n* Standard brez Hyper-V\n* Splet"

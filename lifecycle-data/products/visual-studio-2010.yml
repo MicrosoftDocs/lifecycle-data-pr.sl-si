@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Vizualni studio 2010
-  description: Visual Studio 2010 sledi pravilniku o fiksnem življenjskem ciklu.
+  title: Visual Studio 2010
+  description: Visual Studio 2010 sledi fiksnemu pravilniku o življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 30c112ab23bba45aaec60660ab85c362bcebf030
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "839102"
-name: Vizualni studio 2010
+name: Visual Studio 2010
 summary: >+
-  Visual Studio 2010 sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Visual Studio 2010 sledi [fiksnemu](/lifecycle/policies/fixed) pravilniku o življenjskem ciklu.
 
 
-  To velja za naslednje izdaje: zastopniki, All, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Performance Tools, Premium, Professional, Remote Debugger, SDK, Shell (Integrated), Shell (Izolirani), Team Agenti, Team Explorer, Test Professional, Orodja za Office System 4.0 Runtime, Ultimate, VB Express, Visual C # Express, Visual C + + Express, Visual Web Developer Express, Visualization & Modeling SDK
+  To velja za naslednje izdaje: Agents, vsi, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Performance Tools, Premium, Professional, Remote Debugger, SDK, Shell (Integrirano), Shell (Izolirani), Team Agenti, Team Explorer, Test Professional, Orodja za Office System 4.0 Runtime, Ultimate, VB Express, Visual C # Express, Visual C++ Express, Visual Web Developer Express, Visualization & Modeling SDK
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Povezave \n* [Pravilnik o servisnem paketu](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdajah \n* Agenti\n* Vse\n* ASP .NET MVC 4 (Slovenski)\n* Express\n* F# 2,0 Med izvajanjem\n* Upravljanje laboratorijev\n* Orodja za učinkovitost delovanja\n* Premije\n* Strokovno\n* Oddaljeni iskalnik napak\n* Sdk\n* Lupina (integrirana)\n* Lupina (izolirana)\n* Ekipni agenti\n* Raziskovalec skupin\n* Testni strokovnjak\n* Orodja za izvajanje sistema Office 4.0\n* Zadnji\n* VB ekspres\n* Vizualni C# Ekspres\n* Vizualni C++ ekspres\n* Ekspres za vizualni spletni razvijalec\n* Vizualizacija & SDK modeliranja"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Pravilnik servisnih paketov](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdaje \n* Agents\n* Vsi\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Runtime\n* Lab Management\n* Orodja za učinkovitost delovanja\n* Premium\n* Professional\n* Oddaljeni iskalnik napak\n* SDK\n* Shell (integrirano)\n* Shell (izolirano)\n* Ekipni agenti\n* Team Explorer\n* Test Professional\n* Orodja za izvajanje sistema Office 4.0\n* Ultimate\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Vizualizacija in Modeliranje SDK"

@@ -1,11 +1,11 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Exchange Server 2007
-  description: Exchange Server 2007 sledi pravilniku o fiksnem življenjskem ciklu.
+  description: Exchange Server 2007 sledi fiksnemu pravilniku o življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: cd642c6d536ae4d72e91589eccec3e35bfa24298
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "839022"
@@ -14,7 +14,7 @@ summary: >+
   Exchange Server 2007 sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
 
 
-  To velja za naslednje izdaje: podjetje, standardna
+  To velja za naslednje izdaje: Enterprise, Standard
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 03/08/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Povezave \n* [Pravilnik o servisnem paketu](/lifecycle/policies/fixed#service-packs)\n* [Smernice o migracijah](https://blogs.office.com/2016/04/19/exchange-server-2007-end-of-support-coming-next-year/#5wCZvLhOd8FgPf5j.97)\n\n\n## <a name=\"editions\"></a>Izdajah \n* Podjetja\n* Standardni"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Pravilnik servisnih paketov](/lifecycle/policies/fixed#service-packs)\n* [Navodila za učinkovito selitev](https://blogs.office.com/2016/04/19/exchange-server-2007-end-of-support-coming-next-year/#5wCZvLhOd8FgPf5j.97)\n\n\n## <a name=\"editions\"></a>Izdaje \n* Enterprise\n* Standard"
