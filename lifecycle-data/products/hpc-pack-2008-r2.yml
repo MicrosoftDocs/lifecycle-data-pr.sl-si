@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Paket HPC 2008 R2
-  description: HPC Pack 2008 R2 sledi pravilniku o fiksnem življenjskem ciklu.
+  title: HPC Pack 2008 R2
+  description: HPC Pack 2008 R2 sledi fiksnemu pravilniku o življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 85ea9272f46481e504a5c283c962a8ef7f5ace53
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "839687"
-name: Paket HPC 2008 R2
+name: HPC Pack 2008 R2
 summary: >
-  HPC Pack 2008 R2 sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  HPC Pack 2008 R2 sledi [fiksnemu](/lifecycle/policies/fixed) pravilniku življenjskem ciklu.
 
 
 
   > [!IMPORTANT]
 
-  > Podpora za ta izdelek je končana. Glejte smernice za migracije spodaj.
+  > Podpora za ta izdelek je končana. Preberite spodnje smernice za selitev.
 products:
 - windows
 policyType: fixed
@@ -41,4 +41,4 @@ releases:
 - version: Original Release
   startDate: 10/17/2010
   endDate: 01/08/2013
-content: "\n## <a name=\"links\"></a>Povezave \n* [Selitev strežnika Windows Server](https://azure.microsoft.com/migration/windows-server/)\n* [Smernice o migracijah](/powershell/high-performance-computing/overview?view=hpc19-ps)\n* [Pravilnik o servisnem paketu](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Windows Server Migration](https://azure.microsoft.com/migration/windows-server/)\n* [Navodila za učinkovito selitev](/powershell/high-performance-computing/overview?view=hpc19-ps)\n* [Pravilnik servisnih paketov](/lifecycle/policies/fixed#service-packs)"

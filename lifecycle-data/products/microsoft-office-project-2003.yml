@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office Project 2003 (v programu Microsoft Office Project 2003)
-  description: Microsoft Office Project 2003 sledi pravilniku o fiksnem življenjskem ciklu.
+  title: Microsoft Office Project 2003
+  description: Microsoft Office Project 2003 sledi fiksnemu pravilniku o življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 51b9bd9785cbcecf7248ab770a4a2423ad6135a1
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "839906"
-name: Microsoft Office Project 2003 (v programu Microsoft Office Project 2003)
-summary: "Microsoft Office Project 2003 sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.\n\nTo velja za naslednje izdaje: Professional, Standard\n\n> [!IMPORTANT]\n> Podpora za ta izdelek je končana. \n"
+name: Microsoft Office Project 2003
+summary: "Microsoft Office Project 2003 sledi [fiksnemu ](/lifecycle/policies/fixed) pravilniku o življenjskem ciklu.\n\nTo velja za naslednje izdaje: Professional, Standard\n\n> [!IMPORTANT]\n> Podpora za ta izdelek je končana. \n"
 products:
 - office
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 11/17/2003
   endDate: 07/27/2005
-content: "\n## <a name=\"links\"></a>Povezave \n* [Pravilnik o servisnem paketu](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdajah \n* Strokovno\n* Standardni"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Pravilnik servisnih paketov](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdaje \n* Professional\n* Standard"

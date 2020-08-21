@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft SharePoint 2010 (za internetna mesta)
-  description: Microsoft SharePoint 2010 (za internetna mesta) sledi pravilniku o nespremenljivem življenjskem ciklu.
+  description: Microsoft SharePoint 2010 (za internetna mesta) sledi fiksnemu pravilniku o življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 91cbc237303d2c4f7f73f93be5375206006b7909
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "839545"
 name: Microsoft SharePoint 2010 (za internetna mesta)
 summary: >+
-  Microsoft SharePoint 2010 (za internetna mesta) sledi pravilniku o [nespremenljivem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Microsoft SharePoint 2010 (za internetna mesta) sledi [fiksnemu](/lifecycle/policies/fixed) pravilniku o življenjskem ciklu.
 
 
   To velja za naslednje izdaje: za internetna mesta Enterprise, za internetna mesta Standard
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/15/2010
   endDate: 04/13/2021
-content: "\n## <a name=\"links\"></a>Povezave \n* [Dokumentacija o izdelku](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Dokumentacija za razvijalce](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> Datum konca podpore tega izdelka je bil podaljšan od 13.\n\n## <a name=\"editions\"></a>Izdajah \n* za internetna mesta Enterprise\n* za standardna spletna mesta"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Dokumentacija o izdelku](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Dokumentacija za razvijalce](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> datum konca podpore za ta izdelek je bil s 13. oktobra 2020 podaljšan do 13. aprila 2021.\n\n## <a name=\"editions\"></a>Izdaje \n* za internetna mesta Enterprise\n* za internetna mesta Standard"

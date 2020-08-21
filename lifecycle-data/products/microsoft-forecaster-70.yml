@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoftov napovedovalec 7.0
-  description: Microsoft Forecaster 7.0 sledi pravilniku o fiksnem življenjskem ciklu.
+  title: Microsoft Forecaster 7.0
+  description: Microsoft Forecaster 7.0 sledi fiksnemu pravilniku o življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: e9af608bbdf2d19517b58ebe46d545b09078be8d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "839587"
-name: Microsoftov napovedovalec 7.0
+name: Microsoft Forecaster 7.0
 summary: >+
-  Microsoft Forecaster 7.0 sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Microsoft Forecaster 7.0 sledi [fiksnemu](/lifecycle/policies/fixed) pravilniku o življenjskem ciklu.
 
 
 products:
@@ -40,4 +40,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Povezave \n* [Smernice o migracijah](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [Pravilnik o servisnem paketu](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Podpora za napovedovalec se konča na datum, ki je naveden, razen če je distribuiran kot komponenta izdelka Dynamics. Ko so datumi življenjskega cikla storitve Dynamics distribuirani z izdelkom Dynamics, preglasijo datum napovedi."
+content: "\n## <a name=\"links\"></a>Povezave \n* [Navodila za učinkovito selitev](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [Pravilnik servisnih paketov](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Podpora za Forecaster se konča na datum, ki je naveden, razen če se distribuira kot komponenta izdelka Dynamics. Ko se distribuirajo z izdelkom Dynamics, datumi življenjskega cikla Dynamics preglasijo napovedani datum."

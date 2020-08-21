@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Vista
-  description: Windows Vista sledi pravilniku o fiksnem življenjskem ciklu.
+  description: Windows Vista sledi fiksnemu pravilniku o življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: e2e6ab946bf405ed524f07047d055a786d7174dc
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "839086"
 name: Windows Vista
 summary: >
-  Windows Vista sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Windows Vista sledi [fiksnemu](/lifecycle/policies/fixed) pravilniku o življenjskem ciklu.
 
 
-  To velja za naslednje izdaje: Business, Business N, Enterprise, Enterprise X64, Home Basic, Home Basic 64-bit, Home Basic N, Home Basic N, Home Basic N 64-bit, Home Premium, Home Premium 64-bit, Starter, Ultimate, Ultimate 64-bit
+  To velja za naslednje izdaje: Business, Business N, Enterprise, Enterprise X64, Home Basic, Home Basic 64-bitni, Home Basic N, Home Basic N 64-bitni, Home Premium, Home Premium 64-bitni, Starter, Ultimate, Ultimate 64-bitni
 
 
   > [!IMPORTANT]
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2007
   endDate: 04/13/2010
-content: "\n## <a name=\"links\"></a>Povezave \n* [Smernice o migracijah](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Pomisleki glede nadgradnje in selitve sistema Windows](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Pravilnik o servisnem paketu](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdajah \n* Poslovne\n* Poslovni N\n* Podjetja\n* Podjetje X64\n* Osnovna domača stran\n* Domača osnovna 64-bitna\n* Osnovna domača N\n* Domača stran Osnovna N 64-bitna\n* Domača premija (Home Premium)\n* Domov Premium 64-bitna\n* Zaganjalnik\n* Zadnji\n* Končni 64-bitni"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Navodila za učinkovito selitev](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Upoštevanje nadgradnje in selitve sistema Windows](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Pravilnik servisnih paketov](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdaje \n* Business\n* Business N\n* Enterprise\n* Enterprise X64\n* Home Basic\n* Home Basic 64-bitni\n* Home Basic N\n* Home Basic N 64-bitni\n* Home Premium\n* Home Basic 64-bitni\n* Starter\n* Ultimate\n* Ultimate 64-bitni"

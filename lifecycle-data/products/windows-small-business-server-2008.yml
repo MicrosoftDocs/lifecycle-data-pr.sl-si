@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Small Business Server 2008
-  description: Windows Small Business Server 2008 upošteva pravilnik o fiksnem življenjskem ciklu.
+  description: Windows Small Business Server 2008 sledi fiksnemu pravilniku o življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: ca524a5b2238d362198454212c1b53d9946cdb05
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "839090"
 name: Windows Small Business Server 2008
-summary: "Windows Small Business Server 2008 upošteva pravilnik o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.\n\nTo velja za naslednje izdaje: Premium, Standard\n\n> [!IMPORTANT]\n> Podpora za ta izdelek je končana. \n\nDatum podpore za ta paket izdelkov je določen z zadevnimi življenjskimi cikli posameznega izdelka. Če želite določiti njegovo trajanje podpore, preglejte življenjski cikel posameznega izdelka.\n"
+summary: "Windows Small Business Server 2008 sledi [fiksnemu](/lifecycle/policies/fixed) pravilniku o življenjskem ciklu.\n\nTo velja za naslednje izdaje: Premium, Standard\n\n> [!IMPORTANT]\n> Podpora za ta izdelek je končana. \n\nDatum podpore za ta paket izdelkov je odvisen od življenjskega cikla posameznega sestavnega izdelka. Preverite življenjski cikel posameznega sestavnega dela, da določite njegovo dolžino podpore.\n"
 products:
 - windows
 policyType: fixed
@@ -21,4 +21,4 @@ releases:
 - version: Original Release
   startDate: 11/21/2008
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Povezave \n* [Smernice o migracijah](https://aka.ms/AA1ovn4)\n* [Windows Server 2008](/lifecycle/browse/listings/windows-server-2008)\n* [Exchange Server 2007](/lifecycle/browse/listings/exchange-server-2007)\n* [Storitve Microsoft Windows SharePoint Services 3.0](/lifecycle/browse/listings/microsoft-windows-sharepoint-services-30)\n\n\n## <a name=\"editions\"></a>Izdajah \n* Premije\n* Standardni"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Navodila za učinkovito selitev](https://aka.ms/AA1ovn4)\n* [Windows Server 2008](/lifecycle/browse/listings/windows-server-2008)\n* [Exchange Server 2007](/lifecycle/browse/listings/exchange-server-2007)\n* [Microsoft Windows SharePoint Services 3.0](/lifecycle/browse/listings/microsoft-windows-sharepoint-services-30)\n\n\n## <a name=\"editions\"></a>Izdaje \n* Premium\n* Standard"

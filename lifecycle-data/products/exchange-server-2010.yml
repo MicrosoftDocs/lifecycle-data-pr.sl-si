@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Exchange Server 2010
-  description: Exchange Server 2010 sledi pravilniku o fiksnem življenjskem ciklu.
+  description: Exchange Server 2010 sledi fiksnemu pravilniku o življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 5452228ee7f953f50a2f034c9cf646e7c85b53b3
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "839024"
 name: Exchange Server 2010
 summary: >+
-  Exchange Server 2010 sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Exchange Server 2010, sledi [fiksnemu](/lifecycle/policies/fixed) pravilniku o življenjskem ciklu.
 
 
-  To velja za naslednje izdaje: podjetje, standardna
+  To velja za naslednje izdaje: Enterprise, Standard
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 11/09/2009
   endDate: 10/11/2011
-content: "\n## <a name=\"links\"></a>Povezave \n* [Podaljšanje datuma](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/Microsoft-Extending-End-of-Support-for-Exchange-Server-2010-to/ba-p/753591)\n* [Smernice o migracijah](https://blogs.technet.microsoft.com/exchange/2018/04/10/exchange-2010-end-of-support-is-coming/)\n\n> [!NOTE]\n> Življenjski cikel strežnika Exchange Server 2010 je bil podaljšan.\n\n## <a name=\"editions\"></a>Izdajah \n* Podjetja\n* Standardni"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Podaljšanje datuma](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/Microsoft-Extending-End-of-Support-for-Exchange-Server-2010-to/ba-p/753591)\n* [Navodila za učinkovito selitev](https://blogs.technet.microsoft.com/exchange/2018/04/10/exchange-2010-end-of-support-is-coming/)\n\n> [!NOTE]\n> Življenjski cikel za Exchange Server 2010 je podaljšan.\n\n## <a name=\"editions\"></a>Izdaje \n* Enterprise\n* Standard"

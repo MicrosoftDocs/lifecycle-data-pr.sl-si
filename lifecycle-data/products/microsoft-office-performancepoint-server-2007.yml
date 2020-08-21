@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office PerformancePoint Server 2007
-  description: Microsoft Office PerformancePoint Server 2007 sledi pravilniku o fiksnem življenjskem ciklu.
+  description: Microsoft Office PerformancePoint Server 2007 sledi fiksnemu pravilniku o življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: da215a3c725cf1387921080e1df0a6df52747517
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "839912"
 name: Microsoft Office PerformancePoint Server 2007
 summary: >+
-  Microsoft Office PerformancePoint Server 2007 sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Microsoft Office PerformancePoint Server 2007 sledi  [fiksnemu](/lifecycle/policies/fixed) pravilniku o življenjskem ciklu.
 
 
-  To velja za te izdaje: 32 bitov, 64 bitnih
+  To velja za naslednje izdaje: 32 bitni, 64 bitni
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 12/20/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>Povezave \n* [Smernice o migracijah](https://support.office.com/article/PerformancePoint-Server-2007-End-of-Life-Roadmap-89d9feee-2285-419c-8c14-0f7f583536e0)\n* [Pravilnik o servisnem paketu](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdajah \n* 32 bitov\n* 64 bitov"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Navodila za učinkovito selitev](https://support.office.com/article/PerformancePoint-Server-2007-End-of-Life-Roadmap-89d9feee-2285-419c-8c14-0f7f583536e0)\n* [Pravilnik servisnih paketov](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdaje \n* 32 bitov\n* 64 bitov"
