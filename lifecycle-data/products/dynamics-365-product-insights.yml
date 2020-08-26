@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Vpogledi v dinamiko 365 izdelkov
+  description: V storitvi Dynamics 365 za izdelke poteka sodobni pravilnik življenjskega cikla.
+  ms.date: 08/25/2020
+  ms.openlocfilehash: 96ad93ad104312327e146d10a83d6b42943ab714
+  ms.sourcegitcommit: d28d18dd801693302858cb5086cabb3a5d2083f3
+  ms.translationtype: MT
+  ms.contentlocale: sl-SI
+  ms.lasthandoff: 08/26/2020
+  ms.locfileid: "911438"
+name: Vpogledi v dinamiko 365 izdelkov
+summary: >+
+  V storitvi Dynamics 365 za izdelke poteka [sodobni](/lifecycle/policies/modern) pravilnik življenjskega cikla.
+
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 10/01/2019
+releases:
+- version: Original Release
+  startDate: 10/01/2019
+content: ''
