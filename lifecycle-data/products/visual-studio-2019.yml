@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2019
-  description: Visual Studio 2019 sledi fiksnemu pravilniku o življenjskem ciklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 3bb4a3be253fe45b27fa6baa8f165dc2fbb3ffd1
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  description: Visual Studio 2019 je v skladu s pravilnikom o fiksnem življenjskem ciklu.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: d5638d558c441faed42d3fdcfd2e5e9b8a89d2a5
+  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
   ms.translationtype: HT
   ms.contentlocale: sl-SI
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "872259"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906895"
 name: Visual Studio 2019
 summary: >+
-  Visual Studio 2019 sledi [fiksnemu](/lifecycle/policies/fixed) pravilniku o življenjskem ciklu.
+  Visual Studio 2019 je v skladu s pravilnikom o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
 
 
-  To velja za naslednje izdaje: Agents, Build Tools, Community, Enterprise, za Mac, IntelliTrace Standalone Collector, Orodja za učinkovitost delovanja, Professional, Remote Tools, Team Explorer, Visual C ++ Redistributable
+  To velja za naslednje izdaje: Agents, Build Tools, Community, Enterprise, ESGH, for Mac, IntelliTrace Standalone Collector, Performance Tools, Professional, PSGH, PSM, Remote Tools, Team Explorer, Visual C++ Redistributable
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Version 16.0
   startDate: 04/02/2019
   endDate: 01/12/2021
-content: "\n## <a name=\"links\"></a>Povezave \n* [Obvestila](https://devblogs.microsoft.com/visualstudio/tis-the-season-visual-studio-2019/)\n* [Informacije o servisiranju](/visualstudio/releases/2019/servicing)\n\n\n## <a name=\"editions\"></a>Izdaje \n* Agents\n* Build Tools\n* Skupnost\n* Enterprise\n* za Mac\n* IntelliTrace Standalone Collector\n* Orodja za učinkovitost delovanja\n* Professional\n* Remote Tools\n* Team Explorer\n* Visual C++ Redistributable"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Obvestila](https://devblogs.microsoft.com/visualstudio/tis-the-season-visual-studio-2019/)\n* [Informacije o servisiranju](/visualstudio/releases/2019/servicing)\n\n\n## <a name=\"editions\"></a>Izdaje \n* Agents\n* Build Tools\n* Skupnost\n* Enterprise\n* ESGH \n* za Mac\n* IntelliTrace Standalone Collector\n* Orodja za učinkovitost delovanja\n* Professional\n* PSGH\n* PSM\n* Remote Tools\n* Team Explorer\n* Visual C++ Redistributable"
