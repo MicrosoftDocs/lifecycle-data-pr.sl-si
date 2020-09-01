@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Connected Services Framework 2.5
-  description: Microsoft Connected Services Framework 2.5 sledi pravilniku o fiksnem življenjskem ciklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 1475487e7ff1f7d6b5a54e58a3ba2b45e9a7ccf8
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Okvir storitve Microsoft Connected Services Framework 2,5
+  description: Program Microsoft Connected Services Framework 2,5 upošteva nespremenljiv pravilnik življenjskega cikla.
+  ms.date: 09/01/2020
+  keywords: Order Handling Standard Business Event 2.5,Server,Service Provider
+  ms.openlocfilehash: e0cdc315d310b2a6ed3c705261592af5be8ca851
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: sl-SI
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "839605"
-name: Microsoft Connected Services Framework 2.5
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "934134"
+name: Okvir storitve Microsoft Connected Services Framework 2,5
 summary: >+
-  Microsoft Connected Services Framework 2.5 sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Program Microsoft Connected Services Framework 2,5 upošteva [nespremenljiv](/lifecycle/policies/fixed) pravilnik življenjskega cikla.
 
 
-  To velja za naslednje izdaje: Standardni poslovni dogodek za obdelavo naročil 2.5, Strežnik, Ponudnik storitev
+  To velja za te izdaje: vrstni red za obravnavanje standardnih poslovnih dogodkov 2,5, strežnik, ponudnik storitev
 
 products:
 - connected-services-framework
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/26/2005
   endDate: 10/13/2015
-content: "\n\n\n## <a name=\"editions\"></a>Izdajah \n* Standardna poslovna prireditev za ravnanje z naročilom 2.5\n* Strežnik\n* Ponudnik storitev"
+content: "\n\n\n## <a name=\"editions\"></a>Izdaje \n* Vrstni red za obravnavanje standardnih poslovnih dogodkov 2,5\n* Strežnik\n* Ponudnik storitev"
