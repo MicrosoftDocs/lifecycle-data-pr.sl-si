@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office 2004 za Mac
-  description: Microsoft Office 2004 for Mac upošteva pravilnik o fiksnem življenjskem ciklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 14513bc7089568baf86dfe8f775cc25658cda7f4
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: Microsoft Office 2004 za Mac upošteva nespremenljiv pravilnik življenjskega cikla.
+  ms.date: 09/01/2020
+  keywords: Professional,Standard,Student and Teacher
+  ms.openlocfilehash: 12b63fa73b4b6a4bfc393cc62234147382a6d46a
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: sl-SI
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "839001"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "936871"
 name: Microsoft Office 2004 za Mac
 summary: >+
-  Microsoft Office 2004 for Mac upošteva pravilnik o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Microsoft Office 2004 za Mac upošteva [nespremenljiv](/lifecycle/policies/fixed) pravilnik življenjskega cikla.
 
 
-  To velja za naslednje izdaje: Professional, Standard, Študent in Učitelj
+  To velja za te izdaje: strokovna, standardna, študentka in učiteljica
 
 products:
 - office
@@ -26,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/13/2004
   endDate: 01/10/2012
-content: "\n\n\n## <a name=\"editions\"></a>Izdajah \n* Strokovno\n* Standardni\n* Študent in učitelj"
+content: "\n\n\n## <a name=\"editions\"></a>Izdaje \n* Professional\n* Standard\n* Student and Teacher"
