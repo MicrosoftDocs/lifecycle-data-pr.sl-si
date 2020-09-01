@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft 365
-  description: Microsoft 365 sledi sodobnemu pravilniku o življenjskem ciklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 305fc57c897c1f8b2eb95b170d5b8403e1ea35ee
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: Microsoft 365 sledi sodobni politiki življenjskega cikla.
+  ms.date: 09/01/2020
+  keywords: Business,Education,Enterprise,Government
+  ms.openlocfilehash: 49d1c65ad462a3ce987df621004cf7341ac4aa23
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: sl-SI
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "863229"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "935984"
 name: Microsoft 365
 summary: >+
-  Microsoft 365 sledi sodobnemu [pravilniku](/lifecycle/policies/modern) o življenjskem ciklu.
+  Microsoft 365 sledi [sodobni](/lifecycle/policies/modern) politiki življenjskega cikla.
 
 
-  To velja za naslednje izdaje: Podjetništvo, izobraževanje, podjetništvo, vlada
+  To velja za te izdaje: podjetja, izobraževanje, Enterprise, government
 
 products:
 - office
@@ -24,4 +25,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 09/22/2015
-content: "\n## <a name=\"links\"></a>Povezave \n* [Načrt za Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap)\n* [Sistemske zahteve](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n\n\n## <a name=\"editions\"></a>Izdajah \n* Poslovne\n* Izobraževanje\n* Podjetja\n* Vlada"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Načrt programa Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap)\n* [Sistemske zahteve](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n\n\n## <a name=\"editions\"></a>Izdaje \n* Business\n* Education\n* Enterprise\n* Government"
