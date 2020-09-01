@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Lync 2013 (v programu Lync 2013)
-  description: Lync 2013 sledi pravilniku o nespremenljivem življenjskem ciklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 009c0c9a5f3eae47f5abd1b83b81dcc98bba3482
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  title: Lync 2013
+  description: Lync 2013 upošteva nespremenljiv pravilnik življenjskega cikla.
+  ms.date: 09/01/2020
+  keywords: SDK,Standard
+  ms.openlocfilehash: a5523cba92283c421c42d23d9753864a0408bf01
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: sl-SI
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "862945"
-name: Lync 2013 (v programu Lync 2013)
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "933357"
+name: Lync 2013
 summary: >+
-  Lync 2013 sledi pravilniku o [nespremenljivem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Lync 2013 upošteva [nespremenljiv](/lifecycle/policies/fixed) pravilnik življenjskega cikla.
 
 
-  To velja za naslednje izdaje: SDK, Standard
+  To velja za te izdaje: SDK, standard
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/11/2023
-content: "\n\n> [!NOTE]\n> Izdaja odjemalca za Skype za podjetja 2015 je posodobitev odjemalca programa Lync 2013 in bo sledila istemu življenjskem ciklu izdelka.\nZačetni datum za SDK za Lync 2013 je 23. \n\n## <a name=\"editions\"></a>Izdajah \n* Sdk\n* Standardni"
+content: "\n\n> [!NOTE]\n> Izdaja odjemalca za Skype za podjetja 2015 je posodobitev odjemalca Lync 2013 in bo upoštevala enak življenjski cikel izdelkov.\nZačetni datum za Lync 2013 SDK je februar 23, 2013. \n\n## <a name=\"editions\"></a>Izdaje \n* SDK\n* Standard"
