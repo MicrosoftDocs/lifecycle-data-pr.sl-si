@@ -1,16 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Izraz 2
-  description: Izraz 2 sledi pravilniku o fiksnem življenjskem ciklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 0ff3dba3df24ff405a22bfacac75ea04ab227f90
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: Izraz 2 sledi pravilu stalnega življenjskega cikla.
+  ms.date: 09/01/2020
+  keywords: Blend,Design,Encoder,Studio,Web
+  ms.openlocfilehash: 5186f4bbb53b110f625835b0250418a4594bf78b
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: sl-SI
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "839020"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930841"
 name: Izraz 2
-summary: "Izraz 2 sledi pravilniku [o fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.\n\nTo velja za naslednje izdaje: Blend, Design, Encoder, Studio, Web\n\n> [!IMPORTANT]\n> Podpora je za ta izdelek končana. \n"
+summary: "Izraz 2 sledi pravilu [stalnega](/lifecycle/policies/fixed) življenjskega cikla.\n\nTo velja za te izdaje:» Blend «,» načrt «,» kodirnik «,» Studio «,» splet «\n\n> [!IMPORTANT]\n> Podpora se je končala za ta izdelek. \n"
 products:
 - expression
 policyType: fixed
@@ -22,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 07/24/2008
   endDate: 10/09/2018
-content: "\n\n\n## <a name=\"editions\"></a>Izdajah \n* Mešanica\n* Design\n* Encoder\n* Studio\n* Spletni"
+content: "\n\n\n## <a name=\"editions\"></a>Izdaje \n* Mešanica\n* Načrt\n* Encoder\n* Studio\n* Splet"

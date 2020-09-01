@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office 2016
-  description: Microsoft Office 2016 upošteva pravilnik o fiksnem življenjskem ciklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 0862856c981f0887a99cd499275edcda6f18533b
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: Microsoft Office 2016 upošteva nespremenljiv pravilnik življenjskega cikla.
+  ms.date: 09/01/2020
+  keywords: Home and Business,Home and Student,Personal,Professional,Professional Plus,Standard
+  ms.openlocfilehash: 7d2f310c7edad1f2fb5f6b6151add26c277c6ffe
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: sl-SI
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "863270"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930508"
 name: Microsoft Office 2016
 summary: >+
-  Microsoft Office 2016 upošteva pravilnik o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Microsoft Office 2016 upošteva [nespremenljiv](/lifecycle/policies/fixed) pravilnik življenjskega cikla.
 
 
-  To velja za naslednje izdaje: Dom in podjetja, Dom in študent, Osebni, Professional, Professional Plus, Standard
+  To velja za te izdaje: doma in v podjetjih, doma in v študentskem, osebnem, strokovnem, strokovnem plusu, standardu
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 09/22/2015
   endDate: 10/14/2025
-content: "\n\n\n## <a name=\"editions\"></a>Izdajah \n* Dom in podjetja\n* Dom in študent\n* Osebne\n* Strokovno\n* Profesionalni plus\n* Standardni"
+content: "\n\n\n## <a name=\"editions\"></a>Izdaje \n* Home and Business\n* Home and Student\n* Personal\n* Professional\n* Professional Plus\n* Standard"

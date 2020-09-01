@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Izraz 3
-  description: Izraz 3 sledi pravilniku o fiksnem življenjskem ciklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9544cb1ac337a36e0e9d12b4afde25d392bdd767
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: Izraz 3 sledi pravilu stalnega življenjskega cikla.
+  ms.date: 09/01/2020
+  keywords: Design,Encoder,Studio,Web
+  ms.openlocfilehash: 406642d42292645f0a1f233b77937ba831d08671
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: sl-SI
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "839018"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930767"
 name: Izraz 3
 summary: >+
-  Izraz 3 sledi pravilniku [o fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Izraz 3 sledi pravilu [stalnega](/lifecycle/policies/fixed) življenjskega cikla.
 
 
-  To velja za naslednje izdaje: Oblikovanje, Kodirnik, Studio, Splet
+  To velja za te izdaje:» načrt «,» kodirnik «,» Studio «,» splet «
 
 products:
 - expression
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/19/2009
   endDate: 01/14/2020
-content: "\n\n> [!NOTE]\n> Začetni datum za Expression Design 3 je november 19, 2009. \n\n## <a name=\"editions\"></a>Izdajah \n* Design\n* Encoder\n* Studio\n* Spletni"
+content: "\n\n> [!NOTE]\n> Začetni datum za oblikovanje izraza 3 je november 19, 2009. \n\n## <a name=\"editions\"></a>Izdaje \n* Načrt\n* Encoder\n* Studio\n* Splet"
