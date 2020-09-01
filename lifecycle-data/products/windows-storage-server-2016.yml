@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Strežnik za shranjevanje v sistemu Windows 2016
-  description: Windows Storage Server 2016 upošteva pravilnik o fiksnem življenjskem ciklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: f29c2a9498dac1ce791c1b9f1967d132a0bdec98
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  title: Strežnik Windows za shranjevanje 2016
+  description: Windows Storage Server 2016 upošteva nespremenljiv pravilnik življenjskega cikla.
+  ms.date: 09/01/2020
+  keywords: Standard,Workgroup
+  ms.openlocfilehash: 3c0a7d1d5f6f5a73282c35ad96c1b0a036f938d1
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: sl-SI
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "863023"
-name: Strežnik za shranjevanje v sistemu Windows 2016
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "938981"
+name: Strežnik Windows za shranjevanje 2016
 summary: >+
-  Windows Storage Server 2016 upošteva pravilnik o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Windows Storage Server 2016 upošteva [nespremenljiv](/lifecycle/policies/fixed) pravilnik življenjskega cikla.
 
 
-  To velja za naslednje izdaje: Standard, Delovna skupina
+  To velja za naslednje izdaje: Standard, Workgroup
 
 products:
 - windows
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/15/2016
   endDate: 01/12/2027
-content: "\n## <a name=\"links\"></a>Povezave \n* [Pogosta vprašanja o življenjskem ciklu - Izdelki sistema Windows](/lifecycle/faq/windows)\n* [Informacije o izdelku](/windows-server/storage/whats-new-in-storage)\n\n\n## <a name=\"editions\"></a>Izdajah \n* Standardni\n* Workgroup"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Pogosta vprašanja o življenjskem ciklu – Izdelki Windows](/lifecycle/faq/windows)\n* [Informacije o izdelku](/windows-server/storage/whats-new-in-storage)\n\n\n## <a name=\"editions\"></a>Izdaje \n* Standard\n* Delovna skupina"
