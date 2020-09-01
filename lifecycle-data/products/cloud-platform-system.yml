@@ -2,19 +2,20 @@
 metadata:
   title: Sistem platform v oblaku
   description: Sistem platform Cloud upošteva nespremenljiv pravilnik življenjskega cikla.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: 132fd3832cd1d0927fe7ce6af7eb8e0a21e8d308
-  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 77f8b0e296d10279130459a1c0917c04382c26bc
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: sl-SI
-  ms.lasthandoff: 08/12/2020
-  ms.locfileid: "891896"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "932062"
 name: Sistem platform v oblaku
 summary: >+
   Sistem platform Cloud upošteva [nespremenljiv](/lifecycle/policies/fixed) pravilnik življenjskega cikla.
 
 
-  To velja za te izdaje: standard
+  To velja za naslednje izdaje: Standard
 
 products:
 - azure
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/29/2015
   endDate: 07/12/2022
-content: "\n\n> [!NOTE]\n> Podpora za sistem platform Cloud je razširjena, kot je prikazano, da vsem strankam zagotovite standardno časovnico prehoda življenjskega cikla.\n> [!NOTE]\n> Sistem platform sistema Cloud, ki se je začel septembra 18, 2017.\n\n## <a name=\"editions\"></a>Naklada \n* Standard"
+content: "\n\n> [!NOTE]\n> Podpora za sistem platform Cloud je razširjena, kot je prikazano, da vsem strankam zagotovite standardno časovnico prehoda življenjskega cikla.\n> [!NOTE]\n> Sistem platform sistema Cloud, ki se je začel septembra 18, 2017.\n\n## <a name=\"editions\"></a>Izdaje \n* Standard"
