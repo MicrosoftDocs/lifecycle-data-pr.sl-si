@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows vgrajeni ročni 6,5
-  description: Vgrajeni ročni ročnem računalniku 6.5 sistema Windows sledi pravilniku o fiksnem življenjskem ciklu.
+  title: Windows Embedded Handheld 6.5
+  description: Windows Embedded Handheld 6.5 je v skladu s pravilnikom o fiksnem življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 71c30eb001e204d63d06c5292d491587d580b83b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863291"
-name: Windows vgrajeni ročni 6,5
+name: Windows Embedded Handheld 6.5
 summary: >
-  Vgrajeni ročni ročnem računalniku 6.5 sistema Windows sledi pravilniku [o fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Windows Embedded Handheld 6.5 je v skladu s pravilnikom o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
 
 
 
   > [!IMPORTANT]
 
-  > Podpora je končana. Glejte smernice za migracije spodaj.
+  > Podpora je končana. Preberite spodnje smernice za selitev.
 products:
 - windows
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 12/17/2010
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Povezave \n* [Smernice o migracijah](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Dokumentacija sistema Windows za IoT](/windows/iot-core/)"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Navodila za učinkovito selitev](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Dokumentacija sistema Windows za IoT](/windows/iot-core/)"

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft BizTalk Accelerator za hitro 2,3
-  description: Microsoft BizTalk Accelerator for SWIFT 2,3 upošteva pravilnik stalnega življenjskega cikla.
+  title: Microsoft BizTalk pospeševalnik za SWIFT 2.3
+  description: Microsoft BizTalk pospeševalnik za SWIFT 2.3 je v skladu s pravilnikom o fiksnem življenjskem ciklu.
   ms.date: 08/12/2020
   ms.openlocfilehash: 255f9cf85c3d65c0f2a538c76f9db4eb2489d6b0
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893552"
-name: Microsoft BizTalk Accelerator za hitro 2,3
+name: Microsoft BizTalk pospeševalnik za SWIFT 2.3
 summary: >+
-  Microsoft BizTalk Accelerator for SWIFT 2,3 upošteva pravilnik [stalnega](/lifecycle/policies/fixed) življenjskega cikla.
+  Microsoft BizTalk pospeševalnik za SWIFT 2.3 je v skladu s pravilnikom o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
 
 
-  To velja za te izdaje: Enterprise, standard
+  To velja za naslednje izdaje: Enterprise, Standard
 
 products:
 - microsoft-servers
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 06/21/2006
   endDate: 10/14/2008
-content: "\n## <a name=\"links\"></a>Povezave \n* [Pravilnik servisnega paketa](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Naklada \n* Podjetje\n* Standard"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Pravilnik servisnih paketov](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdaje \n* Enterprise\n* Standard"

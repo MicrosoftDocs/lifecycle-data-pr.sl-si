@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Aplikacije Dynamics 365 for Customer Engagement, različica 9.0.2 (posodobitev na mestu uporabe)
-  description: Aplikacije Dynamics 365 for Customer Engagement, različica 9.0.2 (posodobitev na mestu uporabe), sledi pravilniku o fiksnem življenjskem ciklu.
+  title: Dynamics 365 za aplikacije Customer Engagement, različica 9.0.2 (posodobitev na mestu uporabe)
+  description: Dynamics 365 za aplikacije Customer Engagement, različica 9.0.2 (posodobitev na mestu uporabe) je v skladu s pravilnikom o fiksnem življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 11e70e4e8ef3fb18ab06a385fbe4d9a434121ac6
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872214"
-name: Aplikacije Dynamics 365 for Customer Engagement, različica 9.0.2 (posodobitev na mestu uporabe)
+name: Dynamics 365 za aplikacije Customer Engagement, različica 9.0.2 (posodobitev na mestu uporabe)
 summary: >+
-  Aplikacije Dynamics 365 for Customer Engagement, različica 9.0.2 (posodobitev na mestu uporabe), sledi [pravilniku o fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Dynamics 365 za aplikacije Customer Engagement, različica 9.0.2 (posodobitev na mestu uporabe) je v skladu s pravilnikom o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
 
 
 products:
