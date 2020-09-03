@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Business Solutions for Analytics-- Namizje FRx 6.7
-  description: Microsoft Business Solutions for Analytics- Namizje FRx 6.7 sledi pravilniku o fiksnem življenjskem ciklu.
+  title: Microsoftove poslovne rešitve - za namizje FRx 6.7
+  description: Microsoftove poslovne rešitve - za namizje FRx 6.7 so v skladu s pravilnikom o fiksnem življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: ba731ed0c09140b17a3ebf628e7383065aa65714
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "839624"
-name: Microsoft Business Solutions for Analytics-- Namizje FRx 6.7
+name: Microsoftove poslovne rešitve - za namizje FRx 6.7
 summary: >+
-  Microsoft Business Solutions for Analytics- Namizje FRx 6.7 sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Microsoftove poslovne rešitve - za namizje FRx 6.7 so v skladu s pravilnikom o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2004
   endDate: 07/08/2014
-content: "\n\n> [!NOTE]\n> Podpora za FRx se konča na datum, ki ni naveden, razen če je distribuiran kot komponenta izdelka Dynamics. Ko so datumi življenjskega cikla Storitve Dynamics distribuirani z izdelkom Dynamics, preglasijo datume FRx."
+content: "\n\n> [!NOTE]\n> Podpora za FRx se konča na datum, ki je naveden, razen če se distribuira kot komponenta izdelka Dynamics. Ko se distribuirajo z izdelkom Dynamics, datumi življenjskega cikla Dynamics preglasijo napovedani datum."

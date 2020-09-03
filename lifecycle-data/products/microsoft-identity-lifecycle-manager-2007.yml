@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoftov upravitelj življenjskega cikla identitete 2007
-  description: Microsoft Identity Lifecycle Manager 2007 sledi pravilniku o fiksnem življenjskem ciklu.
+  title: Microsoft Identity Lifecycle Manager 2007
+  description: Microsoft Identity Lifecycle Manager 2007 je v skladu s pravilnikom o fiksnem življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: e87de30d9ecd945c0aa172fa69f570a981114ab2
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "839255"
-name: Microsoftov upravitelj življenjskega cikla identitete 2007
+name: Microsoft Identity Lifecycle Manager 2007
 summary: >+
-  Microsoft Identity Lifecycle Manager 2007 sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Microsoft Identity Lifecycle Manager 2007 je v skladu s pravilnikom o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/30/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Povezave \n* [Smernice o migracijah](/previous-versions/mim/ff608268(v=ws.10)?redirectedfrom=MSDN)\n* [Pravilnik o servisnem paketu](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Navodila za učinkovito selitev](/previous-versions/mim/ff608268(v=ws.10)?redirectedfrom=MSDN)\n* [Pravilnik servisnih paketov](/lifecycle/policies/fixed#service-packs)"

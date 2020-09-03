@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows vdelan 8
-  description: Windows Embedded 8 sledi pravilniku o fiksnem življenjskem ciklu.
+  title: Windows Embedded 8
+  description: Windows Embedded 8 je v skladu s pravilnikom o fiksnem življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: f4d8f0d9d9388cb8b8187fbe923022a2b537ba3b
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "839465"
-name: Windows vdelan 8
+name: Windows Embedded 8
 summary: >+
-  Windows Embedded 8 sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Windows Embedded 8 je v skladu s pravilnikom o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
 
 
   To velja za naslednje izdaje: Pro, Standard
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Povezave \n* [Pogosta vprašanja o življenjskem ciklu - Izdelki sistema Windows](/lifecycle/faq/windows)\n* [Windows embedded 8.1 (Vdelano v Windows 8.1)](/lifecycle/products/windows-embedded-81-pro?branch=live)\n\n> [!NOTE]\n> Stranke morajo preseliti v Windows Emdedded 8.1, da ostanejo podprte.\n\n## <a name=\"editions\"></a>Izdajah \n* Pro\n* Standardni"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Pogosta vprašanja o življenjskem ciklu – Izdelki Windows](/lifecycle/faq/windows)\n* [Windows Embedded 8.1](/lifecycle/products/windows-embedded-81-pro?branch=live)\n\n> [!NOTE]\n> Stranke se morajo preseliti na Windows Emdedded 8.1, da ostanejo podprte.\n\n## <a name=\"editions\"></a>Izdaje \n* Pro\n* Standard"
