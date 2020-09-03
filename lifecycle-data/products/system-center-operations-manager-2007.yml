@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Upravitelj operacij sistemskega centra 2007
-  description: System Center Operations Manager 2007 sledi pravilniku o fiksnem življenjskem ciklu.
+  title: System Center Operations Manager 2007
+  description: System Center Operations Manager 2007 je v skladu s pravilnikom o fiksnem življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 8efa21f33b388d13bbe5ca14c03dc2275d9d5b78
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "839484"
-name: Upravitelj operacij sistemskega centra 2007
-summary: "System Center Operations Manager 2007 sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.\n\n\n> [!IMPORTANT]\n> Podpora za ta izdelek je končana. Glejte smernice za migracije spodaj. \n"
+name: System Center Operations Manager 2007
+summary: "System Center Operations Manager 2007 je v skladu s pravilnikom o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.\n\n\n> [!IMPORTANT]\n> Podpora za ta izdelek je končana. Preberite spodnje smernice za selitev. \n"
 products:
 - msc
 policyType: fixed
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 06/23/2007
   endDate: 04/14/2009
-content: "\n## <a name=\"links\"></a>Povezave \n* [Smernice o migracijah](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)\n* [Pravilnik o servisnem paketu](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Navodila za učinkovito selitev](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)\n* [Pravilnik servisnih paketov](/lifecycle/policies/fixed#service-packs)"

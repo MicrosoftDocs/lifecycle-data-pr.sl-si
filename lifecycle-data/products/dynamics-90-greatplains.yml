@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Velika ravnica Dynamics 9.0
-  description: Dynamics 9.0 GreatPlains upošteva pravilnik o fiksnem življenjskem ciklu.
+  title: Dynamics 9.0 GreatPlains
+  description: Dynamics 9.0 GreatPlains je v skladu s pravilnikom o fiksnem življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0015493ad223e4603a77b348f406d9a2df47d315
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "839033"
-name: Velika ravnica Dynamics 9.0
+name: Dynamics 9.0 GreatPlains
 summary: >
-  Dynamics 9.0 GreatPlains upošteva pravilnik o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Dynamics 9.0 GreatPlains je v skladu s pravilnikom o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
 
 
 
