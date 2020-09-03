@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows vgrajena 8 industrija
-  description: Windows Embedded 8 Industry sledi pravilniku o fiksnem življenjskem ciklu.
+  title: Windows Embedded 8 Industry
+  description: Windows Embedded 8 Industry je v skladu s pravilnikom o fiksnem življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9ea7dea72b8c455d30007ba3b166f43cf59a4822
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "862856"
-name: Windows vgrajena 8 industrija
+name: Windows Embedded 8 Industry
 summary: >
-  Windows Embedded 8 Industry sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Windows Embedded 8 Industry je v skladu s pravilnikom o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
 
 
   To velja za naslednje izdaje: Enterprise, Pro
@@ -19,7 +19,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Stranke morajo preseliti v Windows 8.1, da ostanejo podprte.
+  > Stranke se morajo preseliti v Windows 8.1, da ostanejo podprte.
 products:
 - windows
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/24/2013
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Povezave \n* [Selitev smernic](https://www.microsoft.com/download/details.aspx?id=40279)\n* [Pogosta vprašanja o življenjskem ciklu - Izdelki sistema Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Izdajah \n* Podjetja\n* Pro"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Navodila za selitev](https://www.microsoft.com/download/details.aspx?id=40279)\n* [Pogosta vprašanja o življenjskem ciklu – Izdelki Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Izdaje \n* Enterprise\n* Pro"

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft BizTalk adapterji za gostiteljski sistem 2,0
-  description: Microsoft BizTalk adapterji za gostiteljske sisteme 2,0 upošteva nespremenljiv pravilnik življenjskega cikla.
+  title: Adapterji Microsoft BizTalk za gostiteljske sisteme 2.0
+  description: Microsoft BizTalk Adapterji za gostiteljske sisteme 2.0 je v skladu s pravilnikom o fiksnem življenjskem ciklu.
   ms.date: 08/12/2020
   ms.openlocfilehash: 425db6cb5918efdf9afc544d8a0e8bb554ce695c
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893515"
-name: Microsoft BizTalk adapterji za gostiteljski sistem 2,0
+name: Adapterji Microsoft BizTalk za gostiteljske sisteme 2.0
 summary: >+
-  Microsoft BizTalk adapterji za gostiteljske sisteme 2,0 upošteva [nespremenljiv](/lifecycle/policies/fixed) pravilnik življenjskega cikla.
+  Microsoft BizTalk Adapterji za gostiteljske sisteme 2.0 je v skladu s pravilnikom o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
 
 
-  To velja za te izdaje: razvijalec, standardno
+  To velja za naslednje izdaje: Developer, Standard
 
 products:
 - microsoft-servers
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/21/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Povezave \n* [Usmerjanje selitve](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>Naklada \n* Razvijalec\n* Standard"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Navodila za učinkovito selitev](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>Izdaje \n* Razvijalec\n* Standard"

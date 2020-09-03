@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Sistemski center service manager pol letni kanal
-  description: Sistemski center Service Manager Semi Letni kanal sledi sodobnemu pravilniku o življenjskem ciklu.
+  title: System Center Service Manager polletni kanal
+  description: System Center Service Manager polletni kanal, je v skladu s pravilnikom o fiksnem življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 37355211dc2600ad5f372f914e386a836b5c4be9
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872260"
-name: Sistemski center service manager pol letni kanal
+name: System Center Service Manager polletni kanal
 summary: >
-  Sistemski center Service Manager Semi Letni kanal sledi sodobnemu [pravilniku](/lifecycle/policies/modern) o življenjskem ciklu.
+  System Center Service Manager polletni kanal sledi  [sodobnemu](/lifecycle/policies/modern) pravilniku o življenjskem ciklu.
 
 
 
   > [!IMPORTANT]
 
-  > Podpora je končana. Glejte smernice za migracije spodaj.
+  > Podpora je končana. Preberite spodnje smernice za selitev.
 products:
 - msc
 policyType: modern-on-prem
@@ -31,4 +31,4 @@ releases:
 - version: Version 1801
   startDate: 02/08/2018
   endDate: 08/08/2019
-content: "\n## <a name=\"links\"></a>Povezave \n* [Smernice o migracijah](/system-center/scsm/upgrade-sm?view=sc-sm-2019)"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Navodila za učinkovito selitev](/system-center/scsm/upgrade-sm?view=sc-sm-2019)"

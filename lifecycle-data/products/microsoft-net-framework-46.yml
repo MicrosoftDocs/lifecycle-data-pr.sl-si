@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft .NET Framework 4.6
-  description: Microsoft .NET Framework 4.6 sledi pravilniku o življenjskem ciklu komponente.
+  description: Microsoft .NET Framework 4.6 je v skladu s pravilnikom o fiksnem življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1505b81ae5333b02ddda8778583baea94b516a5c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "862938"
 name: Microsoft .NET Framework 4.6
 summary: >+
-  Microsoft .NET Framework 4.6 sledi pravilniku [o življenjskem](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) ciklu komponente.
+  Microsoft .NET Framework 4.6 je v skladu s pravilnikom o [fiksnem](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) življenjskem ciklu.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 07/29/2015
-content: "\n## <a name=\"links\"></a>Povezave \n* [Pogosta vprašanja o življenjskem ciklu ogrodja .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Informacije o izdelku](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-46)\n\n> [!NOTE]\n> Ogrodje .NET Framework je komponenta operacijskega sistema Windows. Komponente prejmejo enako podporo kot nadrejeni izdelek ali platforma."
+content: "\n## <a name=\"links\"></a>Povezave \n* [Pogosta vprašanja o življenjskem ciklu ogrodja .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Informacije o izdelku](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-46)\n\n> [!NOTE]\n> Ogrodje .NET Framework je komponenta operacijskega sistema Windows. Za komponente je na voljo enaka podpora kot za nadrejeni izdelek ali platformo."
