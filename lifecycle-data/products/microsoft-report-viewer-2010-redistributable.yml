@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Report Viewer 2010 Redistributable
-  description: Microsoft Report Viewer 2010 Redistributable sledi pravilniku o fiksnem življenjskem ciklu.
+  title: Paket za nadaljnjo distribucijo programa Microsoft Report Viewer 2010
+  description: Paket za nadaljnjo distribucijo programa Microsoft Report Viewer 2010 je v skladu s pravilnikom o fiksnem življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: f4e1569165a222cc013d2d9fd58074f6cef98816
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "838983"
-name: Microsoft Report Viewer 2010 Redistributable
+name: Paket za nadaljnjo distribucijo programa Microsoft Report Viewer 2010
 summary: >+
-  Microsoft Report Viewer 2010 Redistributable sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Paket za nadaljnjo distribucijo programa Microsoft Report Viewer 2010 je v skladu s pravilnikom o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
 
 
 products:

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: mikroskop BizTalk fileact ter interact prilagojevalec zakaj meres
-  description: Microsoft BizTalk FileAct in vmesniki InterAct za SWIFT sledijo pravilniku o fiksnem življenjskem ciklu.
+  title: Microsoft BizTalk FileAct in InterAct Adapters for SWIFT
+  description: Vmesnika Microsoft BizTalk FileAct in InterAct za SWIFT sta v skladu s pravilnikom o fiksnem življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 654ca219f5eb9869d6bae2aaaef848a48af3560e
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "839633"
-name: mikroskop BizTalk fileact ter interact prilagojevalec zakaj meres
+name: Microsoft BizTalk FileAct in InterAct Adapters for SWIFT
 summary: >+
-  Microsoft BizTalk FileAct in vmesniki InterAct za SWIFT sledijo pravilniku [o fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Vmesnika Microsoft BizTalk FileAct in InterAct za SWIFT sta v skladu s pravilnikom o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
 
 
 products:

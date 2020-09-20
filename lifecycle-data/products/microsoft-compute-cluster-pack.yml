@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoftov paket gruče za račune
-  description: Paket gruče Microsoft Compute sledi pravilniku o fiksnem življenjskem ciklu.
+  title: Microsoft Compute Cluster Pack
+  description: Microsoft Compute Cluster Pack je v skladu s pravilnikom o fiksnem življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: e3817378573c09880c2d9970b69e387402d0c6b1
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "839607"
-name: Microsoftov paket gruče za račune
+name: Microsoft Compute Cluster Pack
 summary: >
-  Paket gruče Microsoft Compute sledi pravilniku [o fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Microsoft Compute Cluster Pack je v skladu s pravilnikom o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
 
 
 
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 09/06/2006
   endDate: 04/08/2008
-content: "\n## <a name=\"links\"></a>Povezave \n* [Pravilnik o servisnem paketu](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Pravilnik servisnih paketov](/lifecycle/policies/fixed#service-packs)"
