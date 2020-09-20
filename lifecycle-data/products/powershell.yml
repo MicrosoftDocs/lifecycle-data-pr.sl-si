@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: PowerShell
-  description: PowerShell sledi sodobni politiki življenjskega cikla.
+  description: PowerShell je v skladu s sodobnim pravilnikom o življenjskem ciklu.
   ms.date: 09/02/2020
   keywords: ''
   ms.openlocfilehash: 5819d863d735920cdb08f70b8280348c152ca27c
   ms.sourcegitcommit: 33a446990607d1c24303bd86e45d4e4de34e56a5
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 09/02/2020
   ms.locfileid: "945235"
 name: PowerShell
 summary: >+
-  PowerShell sledi [sodobni](/lifecycle/policies/modern) politiki življenjskega cikla.
+  Windows Server je v skladu s [sodobnim](/lifecycle/policies/modern) pravilnikom o življenjskem ciklu.
 
 
 products:
@@ -34,4 +34,4 @@ releases:
 - version: PowerShell 6.x
   startDate: 01/19/2018
   endDate: 09/04/2020
-content: "\n## <a name=\"links\"></a>Povezave \n* [Informacije o servisiranju](https://aka.ms/pslifecycle)\n\n> [!NOTE]\n> Oglejte si podrobne informacije o življenjskem ciklu lupine PowerShell na povezavi informacije o servisiranju."
+content: "\n## <a name=\"links\"></a>Povezave \n* [Informacije o servisiranju](https://aka.ms/pslifecycle)\n\n> [!NOTE]\n> Podrobne informacije o življenjskem ciklu PowerShell si lahko ogledate na povezavi z informacijami o vzdrževanju."
