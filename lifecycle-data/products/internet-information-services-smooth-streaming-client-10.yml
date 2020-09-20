@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Internet information services Smooth Streaming Client 1.0
-  description: Internet Information Services Smooth Streaming Client 1.0 upošteva pravilnik o življenjskem ciklu komponent.
+  title: Internet Information Services Smooth Streaming Client 1.0
+  description: Internet Information Services Smooth Streaming Client 1.0 je v skladu s pravilnikom o fiksnem življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: cff48fdf69039eed9e23b9534c01ea004fba6696
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "839669"
-name: Internet information services Smooth Streaming Client 1.0
+name: Internet Information Services Smooth Streaming Client 1.0
 summary: >+
-  Internet Information Services Smooth Streaming Client 1.0 upošteva pravilnik o [življenjskem](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) ciklu komponent.
+  Internet Information Services Smooth Streaming Client 1.0 je v skladu s pravilnikom o [fiksnem](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) življenjskem ciklu.
 
 
 products:

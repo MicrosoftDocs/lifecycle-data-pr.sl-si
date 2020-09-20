@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Visiove storitve v SharePoint Onlineu
-  description: Visiove storitve v SharePoint Onlineu sledijo sodobnemu pravilniku o življenjskem ciklu.
+  title: Storitve Visio v programu SharePoint Online
+  description: Visio Services in SharePoint Online je v skladu s sodobnim pravilnikom o življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a6c493769f21589c572611837326a9535f56840
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "839106"
-name: Visiove storitve v SharePoint Onlineu
+name: Storitve Visio v programu SharePoint Online
 summary: >+
-  Visiove storitve v SharePoint Onlineu sledijo [sodobnemu pravilniku](/lifecycle/policies/modern) o življenjskem ciklu.
+  Visio Services in SharePoint Online je v skladu s [sodobnim](/lifecycle/policies/modern) pravilnikom o življenjskem ciklu.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 04/16/2010
   endDate: 09/30/2020
-content: "\n## <a name=\"links\"></a>Povezave \n* [Smernice o migracijah](https://techcommunity.microsoft.com/t5/Office-Retirement-Blog/Visio-Web-Access-aka-Visio-Services-Updates/ba-p/109541)"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Navodila za učinkovito selitev](https://techcommunity.microsoft.com/t5/Office-Retirement-Blog/Visio-Web-Access-aka-Visio-Services-Updates/ba-p/109541)"

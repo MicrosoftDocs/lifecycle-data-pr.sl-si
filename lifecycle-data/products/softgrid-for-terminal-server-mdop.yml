@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Softgrid za terminalski strežnik (MDOP)
-  description: Softgrid za terminalski strežnik (MDOP) sledi pravilniku o fiksnem življenjskem ciklu.
+  title: Softgrid for Terminal Server (MDOP)
+  description: Softgrid for Terminal Server (MDOP) je v skladu s pravilnikom o fiksnem življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 678dd6057802afee1e92f8bba4296ee1b620a97d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "838952"
-name: Softgrid za terminalski strežnik (MDOP)
+name: Softgrid for Terminal Server (MDOP)
 summary: >+
-  Softgrid za terminalski strežnik (MDOP) sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Softgrid for Terminal Server (MDOP) je v skladu s pravilnikom o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2007
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Povezave \n* [Pogosta vprašanja o življenjskem ciklu - Splošno](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> Izključuje različice, ki so bile prej de-podprte. Za podporo za ta izdelek veljajo pogoji njegove pridobitve."
+content: "\n## <a name=\"links\"></a>Povezave \n* [Pogosta vprašanja o življenjskem ciklu – splošno](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> Izključuje različice, ki so bile prej odstranjene. Podpora za ta izdelek je na voljo na podlagi pogojev njegovega nakupa."
