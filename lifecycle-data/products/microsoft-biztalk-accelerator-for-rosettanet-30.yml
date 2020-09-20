@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft BizTalk Accelerator za RosettaNet 3,0
-  description: Microsoft BizTalk Accelerator za RosettaNet 3,0 upošteva nespremenljiv pravilnik življenjskega cikla.
+  title: Microsoft BizTalk Accelerator for RosettaNet 3.0
+  description: Microsoft BizTalk Accelerator for RosettaNet 3.0 je v skladu s fiksnim pravilnikom o življenjskem ciklu.
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: 1a27e01c802b94c72dbcab51e79d200fb0877182
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934837"
-name: Microsoft BizTalk Accelerator za RosettaNet 3,0
+name: Microsoft BizTalk Accelerator for RosettaNet 3.0
 summary: >+
-  Microsoft BizTalk Accelerator za RosettaNet 3,0 upošteva [nespremenljiv](/lifecycle/policies/fixed) pravilnik življenjskega cikla.
+  Microsoft BizTalk Accelerator for RosettaNet 3.0 je v skladu s [fiksnim](/lifecycle/policies/fixed) pravilnikom o življenjskem ciklu.
 
 
   To velja za naslednje izdaje: Enterprise, Standard
