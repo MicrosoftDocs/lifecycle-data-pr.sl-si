@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoftov agent za uvajanje 2013
-  description: Microsoftov agent za uvajanje 2013 upošteva pravilnik o fiksnem življenjskem ciklu.
+  title: Microsoft Deployment Agent 2013
+  description: Microsoft Deployment Agent 2013 je v skladu s fiksnim pravilnikom o življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: d81680178f3fc6d72450bbf62cbf11ccb7ef8dc5
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "862965"
-name: Microsoftov agent za uvajanje 2013
+name: Microsoft Deployment Agent 2013
 summary: >+
-  Microsoftov agent za uvajanje 2013 upošteva pravilnik [o fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Microsoft Deployment Agent 2013 je v skladu s [fiksnim](/lifecycle/policies/fixed) pravilnikom o življenjskem ciklu.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 04/09/2024
-content: "\n\n> [!NOTE]\n> Za agenta za uvajanje 2013 bo posodobitev 4 podprta v skladu s smernicami pravilnika do 4.9.2024."
+content: "\n\n> [!NOTE]\n> Za Deployment Agent 2013 bo 4. posodobitev podprta v skladu s smernicami pravilnika do 9. 4. 2024."

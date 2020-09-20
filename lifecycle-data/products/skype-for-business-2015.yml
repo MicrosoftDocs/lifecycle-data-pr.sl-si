@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Skype za podjetja 2015
-  description: Skype za podjetja 2015 sledi pravilniku o fiksnem življenjskem ciklu.
+  title: Skype for Business 2015
+  description: Skype za podjetja 2015 je v skladu s fiksnim pravilnikom o življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: bd853629ca9a63be5ed31cb94084c5b161cb82cc
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863217"
-name: Skype za podjetja 2015
+name: Skype for Business 2015
 summary: >+
-  Skype za podjetja 2015 sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Skype za podjetja 2015 je v skladu s [fiksnim](/lifecycle/policies/fixed) pravilnikom o življenjskem ciklu.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/11/2023
-content: "\n\n> [!NOTE]\n> Odjemalec: izdaja odjemalca za Skype za podjetja 2015 je posodobitev odjemalca programa Lync 2013 in bo sledila istemu življenjskem ciklu izdelka."
+content: "\n\n> [!NOTE]\n> Odjemalec: Izdaja odjemalca Skype za podjetja 2015 je posodobitev za odjemalca Lync 2013 in bo skaldna z istim življenjskim ciklom izdelka."

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics 365 Business Central
-  description: Dynamics 365 Business Central upošteva sodobni pravilnik o življenjskem ciklu.
+  description: Dynamics 365 Business Central je v skladu s sodobnim pravilnikom o življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: d4bcea33ffede77bb781ed2167ad9097af8fbe57
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863103"
 name: Dynamics 365 Business Central
 summary: >+
-  Dynamics 365 Business Central upošteva sodobni [pravilnik o](/lifecycle/policies/modern) življenjskem ciklu.
+  Dynamics 365 Business Central je v skladu s [sodobnim](/lifecycle/policies/modern) pravilnikom o življenjskem ciklu.
 
 
 products:

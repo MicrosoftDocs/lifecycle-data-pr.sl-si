@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: PowerPoint 2011 za Računalnike Mac
-  description: PowerPoint 2011 for Mac upošteva pravilnik o fiksnem življenjskem ciklu.
+  title: PowerPoint 2011 for Mac
+  description: PowerPoint 2011 for Mac je v skladu s fiksnim pravilnikom o življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: d0fe8d525c158c363a39793b7e30850693dc93e5
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863254"
-name: PowerPoint 2011 za Računalnike Mac
+name: PowerPoint 2011 for Mac
 summary: >+
-  PowerPoint 2011 for Mac upošteva pravilnik o [fiksnem življenjskem](/lifecycle/policies/fixed) ciklu.
+  PowerPoint 2011 for Mac je v skladu s [fiksnim](/lifecycle/policies/fixed) pravilnikom o življenjskem ciklu.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> Osnovna podpora za Microsoft Office for Mac 2011 je razširjena, kot je prikazano, da se vsem strankam zagotovi standardna časovna premica prehoda v življenjskem ciklu"
+content: "\n\n> [!NOTE]\n> Osnovna podpora za Microsoft Office for Mac 2011 je razširjena, kot je prikazano, da se vsem strankam zagotovi standardna časovnica prehoda življenjskega cikla."

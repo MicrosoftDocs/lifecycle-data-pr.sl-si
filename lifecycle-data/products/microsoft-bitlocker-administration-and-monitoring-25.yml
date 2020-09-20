@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Skrbništvo in nadzor microsoft BitLocker 2.5
-  description: Skrbništvo in nadzor microsoft BitLocker 2.5 sledita pravilniku o fiksnem življenjskem ciklu.
+  title: Microsoft BitLocker Administration and Monitoring 2.5
+  description: Microsoft BitLocker Administration and Monitoring 2.5 je v skladu s fiksnim pravilnikom o življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: fe5d94e98de4c880815a7bad0a2ae5dd42a74600
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863150"
-name: Skrbništvo in nadzor microsoft BitLocker 2.5
+name: Microsoft BitLocker Administration and Monitoring 2.5
 summary: >+
-  Skrbništvo in nadzor microsoft BitLocker 2.5 sledita pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Microsoft BitLocker Administration and Monitoring 2.5  je v skladu s [fiksnim](/lifecycle/policies/fixed) pravilnikom o življenjskem ciklu.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/01/2014
   endDate: 10/11/2016
-content: "\n## <a name=\"links\"></a>Povezave \n* [Pravilnik o servisnem paketu](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Pravilnik servisnih paketov](/lifecycle/policies/fixed#service-packs)"

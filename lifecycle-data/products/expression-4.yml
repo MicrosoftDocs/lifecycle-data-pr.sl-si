@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Izraz 4
-  description: Izraz 4 upošteva nespremenljiv pravilnik življenjskega cikla.
+  title: Expression 4
+  description: Expression 4 je v skladu s fiksnim pravilnikom o življenjskem ciklu.
   ms.date: 09/01/2020
   keywords: Design,Encoder,Studio Ultimate,Web
   ms.openlocfilehash: ad3463184e4da721215fe51169c93401d2d9c848
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930878"
-name: Izraz 4
+name: Expression 4
 summary: >+
-  Izraz 4 upošteva [nespremenljiv](/lifecycle/policies/fixed) pravilnik življenjskega cikla.
+  Expression 4 je v skladu s [fiksnim](/lifecycle/policies/fixed) pravilnikom o življenjskem ciklu.
 
 
-  To velja za te izdaje: načrt, kodirnik, Studio Ultimate, Web
+  To velja za naslednje izdaje: Design, Encoder, Studio Ultimate, Web
 
 products:
 - expression
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 08/26/2010
   endDate: 07/14/2020
-content: "\n\n> [!NOTE]\n> Konec redne podpore za Expression Studio Ultimate 4 je oktober 13, 2015.\n\n## <a name=\"editions\"></a>Izdaje \n* Načrt\n* Encoder\n* Studio Ultimate\n* Splet"
+content: "\n\n> [!NOTE]\n> Konec osnovne podpore za Expression Studio Ultimate 4 je 13. oktober 2015.\n\n## <a name=\"editions\"></a>Izdaje \n* Design\n* Encoder\n* Studio Ultimate\n* Splet"

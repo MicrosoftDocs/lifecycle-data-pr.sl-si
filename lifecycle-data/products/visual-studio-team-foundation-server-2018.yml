@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Strežnik visual studio team fundacije 2018
-  description: Strežnik Visual Studio Team Foundation Server 2018 sledi pravilniku o fiksnem življenjskem ciklu.
+  title: Visual Studio Team Foundation Server 2018
+  description: Visual Studio Team Foundation Server 2018 je v skladu s fiksnim pravilnikom o življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 6d1d0f045180b541ab90be9f3f553445004bd58c
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872279"
-name: Strežnik visual studio team fundacije 2018
+name: Visual Studio Team Foundation Server 2018
 summary: >+
-  Strežnik Visual Studio Team Foundation Server 2018 sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Visual Studio Team Foundation Server 2018 je v skladu s [fiksnim](/lifecycle/policies/fixed) pravilnikom o življenjskem ciklu.
 
 
 products:

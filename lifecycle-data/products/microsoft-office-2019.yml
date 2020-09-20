@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office 2019
-  description: Microsoft Office 2019 upošteva nespremenljiv pravilnik življenjskega cikla.
+  description: Microsoft Office 2019 je v skladu s fiksnim pravilnikom o življenjskem ciklu.
   ms.date: 09/01/2020
   keywords: Home and Business,Home and Student,Personal,Professional,Professional Academic,Professional Plus,Standard
   ms.openlocfilehash: 902490302b48c61548ee755b3765506bb1e53b04
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930397"
 name: Microsoft Office 2019
 summary: >+
-  Microsoft Office 2019 upošteva [nespremenljiv](/lifecycle/policies/fixed) pravilnik življenjskega cikla.
+  Microsoft Office 2019 je v skladu s [fiksnim](/lifecycle/policies/fixed) pravilnikom o življenjskem ciklu.
 
 
-  To velja za te izdaje: doma in v podjetjih, doma in v študentskem, osebnem, strokovnem, strokovnem akademskem, strokovnem plusu, standardu
+  To velja za naslednje izdaje: Home and Business, Home and Student, Personal, Professional, Professional Academic, Professional Plus, Standard
 
 products:
 - office
