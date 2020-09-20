@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Sistem za upravljanje dinamike na drobno 1,3
-  description: Sistem za upravljanje dinamike na drobno 1,3 upošteva stalni pravilnik življenjskega cikla.
+  title: Dynamics Retail Management System 1.3
+  description: Dynamics Retail Management System 1.3 je v skladu s fiksnim pravilnikom o življenjskem ciklu.
   ms.date: 09/01/2020
   keywords: Headquarters,Store Operations
   ms.openlocfilehash: a3713fd375b666673f687b89fe23492b072c8c3b
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "931722"
-name: Sistem za upravljanje dinamike na drobno 1,3
+name: Dynamics Retail Management System 1.3
 summary: >+
-  Sistem za upravljanje dinamike na drobno 1,3 upošteva [stalni](/lifecycle/policies/fixed) pravilnik življenjskega cikla.
+  Dynamics Retail Management System 1.3 je v skladu s [fiksnim](/lifecycle/policies/fixed) pravilnikom o življenjskem ciklu.
 
 
-  To velja za naslednje izdaje: Sedež, poslovanje trgovin
+  To velja za naslednje izdaje: Headquarters, Store Operations
 
 products:
 - dynamics

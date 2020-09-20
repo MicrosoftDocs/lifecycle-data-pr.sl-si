@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoftova orodja za diagnostiko in obnovitev 8.0
-  description: Microsoftova orodja za diagnostiko in obnovitev 8.0 sledi pravilniku o fiksnem življenjskem ciklu.
+  title: Microsoftov komplet orodij za diagnostiko in obnovitev 8.0
+  description: Microsoftov komplet orodij za diagnostiko in obnovitev 8.0 je v skladu s fiksnim pravilnikom o življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 38a98f28c3d9ef2fd1844a3083b3a6fcb52e1b5b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "862960"
-name: Microsoftova orodja za diagnostiko in obnovitev 8.0
+name: Microsoftov komplet orodij za diagnostiko in obnovitev 8.0
 summary: >+
-  Microsoftova orodja za diagnostiko in obnovitev 8.0 sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Microsoftov komplet orodij za diagnostiko in obnovitev 8.0 je v skladu s [fiksnim](/lifecycle/policies/fixed) pravilnikom o življenjskem ciklu.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2012
   endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>Povezave \n* [Pravilnik o servisnem paketu](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Pravilnik servisnih paketov](/lifecycle/policies/fixed#service-packs)"

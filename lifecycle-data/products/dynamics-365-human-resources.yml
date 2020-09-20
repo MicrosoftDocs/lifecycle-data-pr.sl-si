@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Človeški viri dynamics 365
-  description: Kadrovski viri Dynamics 365 sledijo sodobnemu pravilniku o življenjskem ciklu.
+  title: Dynamics 365 Human Resources
+  description: Dynamics 365 Human Resources je v skladu s sodobnim pravilnikom o življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: a7014b000d8d7613d8ca9eb2a2c3595083b9951c
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872224"
-name: Človeški viri dynamics 365
+name: Dynamics 365 Human Resources
 summary: >+
-  Kadrovski viri Dynamics 365 sledijo [sodobnemu pravilniku](/lifecycle/policies/modern) o življenjskem ciklu.
+  Dynamics 365 Human Resources je v skladu s [sodobnim](/lifecycle/policies/modern) pravilnikom o življenjskem ciklu.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 03/27/2020
-content: "\n## <a name=\"links\"></a>Povezave \n* [Smernice o migracijah](https://aka.ms/D365HRpost)\n\n> [!NOTE]\n> Aplikacija Core HR (ki je bila prej vključena v program Dynamics 365 Talent) se je ponovno začela kot človeški viri dynamics 365."
+content: "\n## <a name=\"links\"></a>Povezave \n* [Navodila za učinkovito selitev](https://aka.ms/D365HRpost)\n\n> [!NOTE]\n> Aplikacija Core HR app (prej vključena v storitev Dynamics 365 Talent) je znova na voljo kot Dynamics 365 Human Resources."
