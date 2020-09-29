@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics NAV 2017 (v mestu Dynamics NAV 2017)
-  description: Dynamics NAV 2017 sledi pravilniku o fiksnem življenjskem ciklu.
+  title: Dynamics NAV 2017
+  description: Dynamics NAV 2017 je v skladu s fiksnim pravilnikom o življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1b936cca350da64d99a63eb15f0571e477cdb3ea
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863168"
-name: Dynamics NAV 2017 (v mestu Dynamics NAV 2017)
+name: Dynamics NAV 2017
 summary: >+
-  Dynamics NAV 2017 sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Dynamics NAV 2017 je v skladu s [fiksnim](/lifecycle/policies/fixed) pravilnikom o življenjskem ciklu.
 
 
 products:

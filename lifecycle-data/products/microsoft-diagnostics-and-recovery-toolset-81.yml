@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoftova orodja za diagnostiko in obnovitev 8.1
-  description: Microsoftova orodja za diagnostiko in obnovitev 8.1 upošteva pravilnik o fiksnem življenjskem ciklu.
+  title: Microsoftov komplet orodij za diagnostiko in obnovitev 8.1
+  description: Microsoft Diagnostics and Recovery Toolset 8.1 je v skladu s fiksnim pravilnikom o življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7b9a4a5bc7ccc7e9849b0e5acaaf305a57485025
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863144"
-name: Microsoftova orodja za diagnostiko in obnovitev 8.1
+name: Microsoftov komplet orodij za diagnostiko in obnovitev 8.1
 summary: >+
-  Microsoftova orodja za diagnostiko in obnovitev 8.1 upošteva pravilnik o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Microsoft Diagnostics and Recovery Toolset 8.1 je v skladu s [fiksnim](/lifecycle/policies/fixed) pravilnikom o življenjskem ciklu.
 
 
 products:

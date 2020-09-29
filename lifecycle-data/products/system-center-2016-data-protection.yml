@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: System Center 2016 Varstvo podatkov
-  description: System Center 2016 Data Protection sledi pravilniku o fiksnem življenjskem ciklu.
+  title: System Center 2016 Data Protection
+  description: System Center 2016 Data Protection je v skladu s fiksnim pravilnikom o življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7b2a2ebb813f79280e3a37ee9346697f601538a4
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863248"
-name: System Center 2016 Varstvo podatkov
+name: System Center 2016 Data Protection
 summary: >+
-  System Center 2016 Data Protection sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  System Center 2016 Data Protection je v skladu s [fiksnim](/lifecycle/policies/fixed) pravilnikom o življenjskem ciklu.
 
 
 products:

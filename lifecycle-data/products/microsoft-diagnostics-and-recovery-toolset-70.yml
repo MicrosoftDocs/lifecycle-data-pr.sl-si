@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoftova orodja za diagnostiko in obnovitev 7.0
-  description: Microsoftova orodja za diagnostiko in obnovitev 7.0 upošteva pravilnik o fiksnem življenjskem ciklu.
+  title: Microsoftov komplet orodij za diagnostiko in obnovitev 7.0
+  description: Microsoft Diagnostics and Recovery Toolset 7.0 je v skladu s fiksnim pravilnikom o življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: a1ae88ae75ff9aa63d4c88e100393608f958300e
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "862962"
-name: Microsoftova orodja za diagnostiko in obnovitev 7.0
+name: Microsoftov komplet orodij za diagnostiko in obnovitev 7.0
 summary: >+
-  Microsoftova orodja za diagnostiko in obnovitev 7.0 upošteva pravilnik o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Microsoft Diagnostics and Recovery Toolset 7.0 je v skladu s [fiksnim](/lifecycle/policies/fixed) pravilnikom o življenjskem ciklu.
 
 
 products:
