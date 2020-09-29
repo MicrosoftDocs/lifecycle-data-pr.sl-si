@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Automotive 4,2 (Slovenski)
-  description: Windows Automotive 4.2 sledi pravilniku o fiksnem življenjskem ciklu.
+  title: Windows Automotive 4.2
+  description: Windows Automotive 4.2 je v skladu s fiksnim pravilnikom o življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: a2671ea93a2852928c59d836ed4ebc8412963b61
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "838938"
-name: Windows Automotive 4,2 (Slovenski)
+name: Windows Automotive 4.2
 summary: >
-  Windows Automotive 4.2 sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Windows Automotive 4.2 je v skladu s [fiksnim](/lifecycle/policies/fixed) pravilnikom o življenjskem ciklu.
 
 
 

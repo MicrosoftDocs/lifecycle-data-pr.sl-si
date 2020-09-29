@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Konzola za upravljanje varnosti strežnika Microsoft Forefront Server
-  description: Konzola microsoft Forefront Server Security Management Console sledi pravilniku o fiksnem življenjskem ciklu.
+  title: Microsoft Forefront Server Security Management Console
+  description: Microsoft Forefront Server Security Management Console je v skladu s fiksnim pravilnikom o življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 79937f95580b655b318e965e2ef659931323ff8d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "839582"
-name: Konzola za upravljanje varnosti strežnika Microsoft Forefront Server
+name: Microsoft Forefront Server Security Management Console
 summary: >+
-  Konzola microsoft Forefront Server Security Management Console sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Microsoft Forefront Server Security Management Console je v skladu s [fiksnim](/lifecycle/policies/fixed) pravilnikom o življenjskem ciklu.
 
 
 products:
