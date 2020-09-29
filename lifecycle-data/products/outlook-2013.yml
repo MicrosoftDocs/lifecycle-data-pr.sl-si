@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Outlook 2013
-  description: V programu Outlook 2013 je pravilnik o stalnem življenjskem ciklu.
+  description: Outlook 2013 je v skladu s fiksnim pravilnikom o življenjskem ciklu.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 2678d0bb53f3c29f23028aa934729776d1c73d7c
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "926808"
 name: Outlook 2013
 summary: >+
-  V programu Outlook 2013 je pravilnik o [stalnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Outlook 2013 je v skladu s [fiksnim](/lifecycle/policies/fixed) pravilnikom o življenjskem ciklu.
 
 
   To velja za naslednje izdaje: Standard

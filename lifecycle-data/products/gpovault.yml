@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: GPOVault
-  description: GPOVault upošteva nespremenljiv pravilnik življenjskega cikla.
+  description: GPOVault je v skladu s fiksnim pravilnikom o življenjskem ciklu.
   ms.date: 09/01/2020
   keywords: 1.0,2.0,Enterprise 1.0,Enterprise 2.0
   ms.openlocfilehash: 9b9051b56046f5f3605b877b3562039ea241bfe3
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "936021"
 name: GPOVault
 summary: >+
-  GPOVault upošteva [nespremenljiv](/lifecycle/policies/fixed) pravilnik življenjskega cikla.
+  GPOVault je v skladu s [fiksnim](/lifecycle/policies/fixed) pravilnikom o življenjskem ciklu.
 
 
-  To velja za te izdaje: 1,0, 2,0, Enterprise 1,0, Enterprise 2,0
+  To velja za naslednje izdaje: 1.0, 2.0, Enterprise 1.0, Enterprise 2.0
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2007
   endDate: 01/12/2010
-content: "\n\n> [!NOTE]\n> Podpora za ta izdelek je na voljo na podlagi pogojev njegovega nakupa. \n\n## <a name=\"editions\"></a>Izdaje \n* 1,0\n* 2,0\n* Enterprise 1,0\n* Enterprise 2,0"
+content: "\n\n> [!NOTE]\n> Podpora za ta izdelek je na voljo na podlagi pogojev njegovega nakupa. \n\n## <a name=\"editions\"></a>Izdaje \n* 1.0\n* 2.0\n* Enterprise 1.0\n* Enterprise 2.0"
