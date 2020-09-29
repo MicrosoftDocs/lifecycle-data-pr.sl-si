@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Project Server 2019
-  description: Project Server 2019 upošteva nespremenljiv pravilnik življenjskega cikla.
+  description: Project Server 2019 je v skladu s fiksnim pravilnikom o življenjskem ciklu.
   ms.date: 09/02/2020
   keywords: ''
   ms.openlocfilehash: a6d1929104c2e7fa0172f1b3208ce0a0022bc160
   ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 09/02/2020
   ms.locfileid: "941428"
 name: Project Server 2019
 summary: >+
-  Project Server 2019 upošteva [nespremenljiv](/lifecycle/policies/fixed) pravilnik življenjskega cikla.
+  Project Server 2019 je v skladu s [fiksnim](/lifecycle/policies/fixed) pravilnikom o življenjskem ciklu.
 
 
 products:
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 10/22/2018
   endDate: 07/14/2026
-content: "\n\n> [!NOTE]\n> Glejte dokumentacija o [izdelku](https://docs.microsoft.com/project/project-server-2013-and-2016) in [razvijalcu](https://developer.microsoft.com/project/docs) ."
+content: "\n\n> [!NOTE]\n> Oglejte si dokumentacijo za [izdelke](https://docs.microsoft.com/project/project-server-2013-and-2016) in [razvijalce](https://developer.microsoft.com/project/docs)."

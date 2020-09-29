@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Utor 3,1
-  description: Groove 3,1 upošteva nespremenljiv pravilnik življenjskega cikla.
+  title: Groove 3.1
+  description: Groove 3.1 sledi pravilniku o fiksnem življenjskem ciklu.
   ms.date: 09/03/2020
   keywords: Enterprise Backup Service,Enterprise Data Bridge,Enterprise Relay Server,Hosted Management Services,Hosted Relay Services,Office Project,Virtual Office File Sharing,Virtual Office Professional,Web Services Development Kit
   ms.openlocfilehash: 19dab25c567ea1b34565a675dffe9c99c6c21ba5
   ms.sourcegitcommit: 59291eb409a67c9e002fd0e45e37aca76d599df0
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 09/03/2020
   ms.locfileid: "950871"
-name: Utor 3,1
+name: Groove 3.1
 summary: >+
-  Groove 3,1 upošteva [nespremenljiv](/lifecycle/policies/fixed) pravilnik življenjskega cikla.
+  Groove 3.1 sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
 
 
-  To velja za te izdaje: Enterprise backup Service, Enterprise Data Bridge, Enterprise Relay Server, gostujoče upravljavske storitve, gostujoče relejne storitve, Office Project, virtualna skupna raba Officeovih datotek, navidezni Office Professional, razvoj spletnih storitev kit
+  To velja za naslednje izdaje: Enterprise Backup Service, Enterprise Data Bridge, Enterprise Relay Server, Hosted Management Services, Hosted Relay Services, Office Project, Virtual Office File Sharing, Virtual Office Professional, Web Services Development Kit
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/01/2004
   endDate: 04/16/2010
-content: "\n\n\n## <a name=\"editions\"></a>Izdaje \n* Storitev varnostnega kopiranja za podjetja\n* Podatkovni most Enterprise\n* Strežnik za posredovanje podjetja\n* Gostujoče upravljavske storitve\n* Gostujoče storitve releja\n* Office Project\n* Navidezna skupna raba datotek v Officeu\n* Navidezni Office Professional\n* Komplet za razvoj spletnih storitev"
+content: "\n\n\n## <a name=\"editions\"></a>Izdaje \n* Enterprise Backup Service\n* Enterprise Data Bridge\n* Enterprise Relay Server\n* Hosted Management Services\n*  Hosted Relay Services\n* Office Project\n* Virtual Office File Sharing\n* Virtual Office Professional\n* Web Services Development Kit"
