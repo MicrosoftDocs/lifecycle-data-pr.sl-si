@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Poslovni portal za Microsoft Business Solutions
-  description: Poslovni portal za Microsoft Business Solutions upošteva nespremenljiv pravilnik življenjskega cikla.
+  title: Poslovni portal Microsoftovih poslovnih rešitev
+  description: Poslovni portal Microsoftovih poslovnih rešitev je v skladu s fiksnim pravilnikom o življenjskem ciklu.
   ms.date: 08/19/2020
   ms.openlocfilehash: 2b4116c3d6461616b1e36ab86d5606900be3ec6c
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "904524"
-name: Poslovni portal za Microsoft Business Solutions
+name: Poslovni portal Microsoftovih poslovnih rešitev
 summary: >+
-  Poslovni portal za Microsoft Business Solutions upošteva [nespremenljiv](/lifecycle/policies/fixed) pravilnik življenjskega cikla.
+  Poslovni portal Microsoftovih poslovnih rešitev je v skladu s [fiksnim](/lifecycle/policies/fixed) pravilnikom o življenjskem ciklu.
 
 
 products:
@@ -30,4 +30,4 @@ releases:
 - version: Business Solutions Business Portal 1.2
   startDate: 07/18/2003
   endDate: 12/31/2004
-content: "\n\n> [!NOTE]\n> Microsoft Business Solutions Business portal 2,5 je bil podprt le, če je bil uporabljen z velikimi Plains 8,0 ali Salomon 6,0."
+content: "\n\n> [!NOTE]\n> Poslovni portal Microsoftovih poslovnih rešitev 2.5 je bil podprt le, če se je uporabljal s programom Great Plains 8.0 ali Solomon 6.0."

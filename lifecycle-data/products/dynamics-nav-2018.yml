@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics NAV 2018
-  description: Dinamika NAV 2018 upošteva nespremenljiv pravilnik življenjskega cikla.
+  description: Dynamics NAV 2018 je v skladu s fiksnim pravilnikom o življenjskem ciklu.
   ms.date: 08/12/2020
   ms.openlocfilehash: 489342ec129c87ad40c1d7e2579109dc4f4a8227
   ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 08/12/2020
   ms.locfileid: "891822"
 name: Dynamics NAV 2018
 summary: >+
-  Dinamika NAV 2018 upošteva [nespremenljiv](/lifecycle/policies/fixed) pravilnik življenjskega cikla.
+  Dynamics NAV 2018 je v skladu s [fiksnim](/lifecycle/policies/fixed) pravilnikom o življenjskem ciklu.
 
 
 products:

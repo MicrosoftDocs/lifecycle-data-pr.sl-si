@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Strežnik Azure DevOps
-  description: Strežnik Azure DevOps upošteva nespremenljiv pravilnik življenjskega cikla.
+  title: Azure DevOps Server
+  description: Azure DevOps Server je v skladu s pravilnikom o fiksnem življenjskem ciklu.
   ms.date: 08/27/2020
   ms.openlocfilehash: 8b92f5abaadb0973aa3b220683011ec4a9b03fb2
   ms.sourcegitcommit: 0adb28bbd953e938286d5b8fb03cab57a2d18b3b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 08/27/2020
   ms.locfileid: "922998"
-name: Strežnik Azure DevOps
+name: Azure DevOps Server
 summary: >+
-  Strežnik Azure DevOps upošteva [nespremenljiv](/lifecycle/policies/fixed) pravilnik življenjskega cikla.
+  Azure DevOps Server je v skladu s pravilnikom o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
 
 
 products:

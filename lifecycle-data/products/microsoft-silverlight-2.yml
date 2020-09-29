@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Silverlight 2
-  description: Microsoft Silverlight 2 upošteva nespremenljiv pravilnik življenjskega cikla.
+  description: Microsoft Silverlight 2 sledi fiksnemu pravilniku o življenjskem ciklu.
   ms.date: 08/19/2020
   ms.openlocfilehash: 618979f69c809bc5e02dc991417fa3162f59279a
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "904525"
 name: Microsoft Silverlight 2
 summary: >+
-  Microsoft Silverlight 2 upošteva [nespremenljiv](/lifecycle/policies/fixed) pravilnik življenjskega cikla.
+  Microsoft Silverlight 2 je v skladu s [fiksnim](/lifecycle/policies/fixed) pravilnikom o življenjskem ciklu.
 
 
 products:

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Upravitelj konfiguracije Microsoft System center (LTSB-različica 1606)
-  description: Upravitelj konfiguracije Microsoft System center (LTSB-različica 1606) upošteva nespremenljiv pravilnik življenjskega cikla.
+  title: Microsoft System Center Configuration Manager (LTSB - različica 1606)
+  description: Microsoft System Center Configuration Manage (LTSB - različica 1606) sledi fiksnemu pravilniku o življenjskem ciklu.
   ms.date: 08/20/2020
   ms.openlocfilehash: 606034d7f3694f3e06a47bdc5e1a45561102c238
   ms.sourcegitcommit: f5095aa6fc41dcc71c883cae08719b5b6bf9585c
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 08/20/2020
   ms.locfileid: "905988"
-name: Upravitelj konfiguracije Microsoft System center (LTSB-različica 1606)
+name: Microsoft System Center Configuration Manager (LTSB - različica 1606)
 summary: >+
-  Upravitelj konfiguracije Microsoft System center (LTSB-različica 1606) upošteva [nespremenljiv](/lifecycle/policies/fixed) pravilnik življenjskega cikla.
+  Microsoft System Center Configuration Manage (LTSB - različica 1606) sledi [fiksnemu](/lifecycle/policies/fixed) pravilniku o življenjskem ciklu.
 
 
 products:
