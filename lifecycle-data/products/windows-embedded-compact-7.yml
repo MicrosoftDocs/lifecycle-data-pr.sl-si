@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows vgrajeni kompaktni 7
-  description: Vgrajeni stisni 7 sistema Windows sledi pravilniku o fiksnem življenjskem ciklu.
+  title: Windows Embedded Compact 7
+  description: Windows Embedded Compact 7 je v skladu s fiksnim pravilnikom o življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 6a72f68217243c9b2160dca4aa9136ae5d21f16b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863234"
-name: Windows vgrajeni kompaktni 7
+name: Windows Embedded Compact 7
 summary: >+
-  Vgrajeni stisni 7 sistema Windows sledi [pravilniku o fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Windows Embedded Compact 7 je v skladu s [fiksnim](/lifecycle/policies/fixed) pravilnikom o življenjskem ciklu.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 03/15/2011
   endDate: 04/13/2021
-content: "\n## <a name=\"links\"></a>Povezave \n* [Smernice o migracijah](https://support.microsoft.com/help/4057281)"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Navodila za učinkovito selitev](https://support.microsoft.com/help/4057281)"
