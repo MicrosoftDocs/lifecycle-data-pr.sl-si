@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: SharePoint Server 2016
-  description: Strežnik SharePoint Server 2016 upošteva nespremenljiv pravilnik življenjskega cikla.
+  description: SharePoint Server 2016 je v skladu s fiksnim pravilnikom o življenjskem ciklu.
   ms.date: 09/01/2020
   keywords: ''
   ms.openlocfilehash: 14f1c2b997bd6d39354b686f28c341218d41abc5
   ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 09/02/2020
   ms.locfileid: "941750"
 name: SharePoint Server 2016
 summary: >+
-  Strežnik SharePoint Server 2016 upošteva [nespremenljiv](/lifecycle/policies/fixed) pravilnik življenjskega cikla.
+  SharePoint Server 2016 je v skladu s [fiksnim](/lifecycle/policies/fixed) pravilnikom o življenjskem ciklu.
 
 
 products:
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 05/01/2016
   endDate: 07/14/2026
-content: "\n## <a name=\"links\"></a>Povezave \n* [Informacije o servisiranju](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n\n> [!NOTE]\n> Glejte dokumentacija o [izdelku](https://docs.microsoft.com/sharepoint/sharepoint-server) in [razvijalcu](https://developer.microsoft.com/sharepoint/docs)"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Informacije o servisiranju](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n\n> [!NOTE]\n> Glejte dokumentacijo [izdelka](https://docs.microsoft.com/sharepoint/sharepoint-server) in dokumentacijo za [razvijalce](https://developer.microsoft.com/sharepoint/docs)."
