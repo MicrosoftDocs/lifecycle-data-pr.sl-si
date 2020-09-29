@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Plus! Digitalna predstavnostna izdaja
-  description: Microsoft Plus! Digital Media Edition upošteva pravilnik o fiksnem življenjskem ciklu.
+  title: Microsoft Plus! Digital Media Edition
+  description: Microsoft Plus! Digital Media Edition je v skladu s fiksnim pravilnikom o življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 70735dde8da269fd12ebf6dabba3dcdbe33fbe76
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "838986"
-name: Microsoft Plus! Digitalna predstavnostna izdaja
+name: Microsoft Plus! Digital Media Edition
 summary: >+
-  Microsoft Plus! Digital Media Edition upošteva pravilnik o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Microsoft Plus! Digital Media Edition je v skladu s [fiksnim](/lifecycle/policies/fixed) pravilnikom o življenjskem ciklu.
 
 
 products:
