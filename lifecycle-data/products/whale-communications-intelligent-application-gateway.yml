@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Inteligentni prehod aplikacije Kit za komunikacijo
-  description: Pravilnik o nespremenljivem življenjskem ciklu za komunikacijo kitov
+  title: Whale Communications Intelligent Application Gateway
+  description: Whale Communications Intelligent Application Gateway sledi fiksnemu pravilniku o življenjskem ciklu.
   ms.date: 08/21/2020
   ms.openlocfilehash: 4946cfbd0c53706853138bd707157a5c318b8dc6
   ms.sourcegitcommit: bc7fcda30191f92db77ed2e7f74d5816ac276a55
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "907157"
-name: Inteligentni prehod aplikacije Kit za komunikacijo
+name: Whale Communications Intelligent Application Gateway
 summary: >+
-  Pravilnik o [nespremenljivem](/lifecycle/policies/fixed) življenjskem ciklu za komunikacijo kitov
+  Whale Communications Intelligent Application Gateway sledi [fiksnemu](/lifecycle/policies/fixed) pravilniku o življenjskem ciklu.
 
 
 products:

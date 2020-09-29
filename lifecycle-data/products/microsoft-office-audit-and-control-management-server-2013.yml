@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office Audit in Control Server za upravljanje 2013
-  description: Microsoft Office Audit in Control Management Server 2013 sledita pravilniku o stalnem življenjskem ciklu.
+  title: Microsoft Office Audit and Control Management Server 2013
+  description: Microsoft Office Audit and Control Management Server 2013 je v skladu s fiksnim pravilnikom o življenjskem ciklu.
   ms.date: 08/21/2020
   ms.openlocfilehash: 95c21c2239aee0e4e83c2caf5dc3752c0915b58e
   ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "907927"
-name: Microsoft Office Audit in Control Server za upravljanje 2013
+name: Microsoft Office Audit and Control Management Server 2013
 summary: >+
-  Microsoft Office Audit in Control Management Server 2013 sledita pravilniku o [stalnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Microsoft Office Audit and Control Management Server 2013 je v skladu s [fiksnim](/lifecycle/policies/fixed) pravilnikom o življenjskem ciklu.
 
 
 products:

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Strežnik Azure DevOps 2019
-  description: Azure DevOps Server 2019 sledi pravilniku o fiksnem življenjskem ciklu.
+  title: Azure DevOps Server 2019
+  description: Azure DevOps Server 2019  je v skladu s fiksnim pravilnikom o življenjskem ciklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: a15d9ba4c905a38a9743b959a5b36e8e3f24ec3b
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872244"
-name: Strežnik Azure DevOps 2019
+name: Azure DevOps Server 2019
 summary: >+
-  Azure DevOps Server 2019 sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Azure DevOps Server 2019 je v skladu s [fiksnim](/lifecycle/policies/fixed) pravilnikom o življenjskem ciklu.
 
 
 products:

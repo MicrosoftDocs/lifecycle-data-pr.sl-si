@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Komplet za razvoj programske opreme za Microsoft PlayReady Server '
-  description: Komplet za razvoj programske opreme za Microsoft PlayReady Server sledi določenemu pravilniku življenjskega cikla.
+  title: 'Komplet za razvoj programske opreme strežnika Microsoft PlayReady '
+  description: Komplet za razvoj programske opreme strežnika Microsoft PlayReady sledi pravilniku o fiksnem življenjskem ciklu.
   ms.date: 08/21/2020
   ms.openlocfilehash: ad1436e285d41225be4fd96438e78cecfe455916
   ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "908038"
-name: 'Komplet za razvoj programske opreme za Microsoft PlayReady Server '
+name: 'Komplet za razvoj programske opreme strežnika Microsoft PlayReady '
 summary: >+
-  Komplet za razvoj programske opreme za Microsoft PlayReady Server sledi [določenemu](/lifecycle/policies/fixed) pravilniku življenjskega cikla.
+  Komplet za razvoj programske opreme strežnika Microsoft PlayReady je v skladu s pravilnikom o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
 
 
 products:
