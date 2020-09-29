@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Publisher 2013
-  description: Publisher 2013 upošteva nespremenljiv pravilnik življenjskega cikla.
+  description: Publisher 2013 je v skladu s fiksnim pravilnikom o življenjskem ciklu.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 351331904acc01202c407f88c65b40ec18af6907
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "926179"
 name: Publisher 2013
 summary: >+
-  Publisher 2013 upošteva [nespremenljiv](/lifecycle/policies/fixed) pravilnik življenjskega cikla.
+  Publisher 2013 je v skladu s [fiksnim](/lifecycle/policies/fixed) pravilnikom o življenjskem ciklu.
 
 
   To velja za naslednje izdaje: Standard

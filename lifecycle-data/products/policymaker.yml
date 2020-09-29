@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Oblikovanju politike
-  description: Pravilnik sledi nespremenljivemu življenjskem ciklu.
+  title: PolicyMaker
+  description: PolicyMaker sledi fiksnemu pravilniku o življenjskem ciklu.
   ms.date: 09/01/2020
   keywords: Application Security,Outlook Edition,Professional 9.0,Registry Extension 2.0,Share Manager 1.0,Software Update 1.0,Software Update 2.0,Standard 1.0,Standard 2.0
   ms.openlocfilehash: be11ae6bee427a5aa059ec56cb88f007bb5134ec
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sl-SI
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938056"
-name: Oblikovanju politike
+name: PolicyMaker
 summary: >+
-  Pravilnik sledi [nespremenljivemu](/lifecycle/policies/fixed) življenjskem ciklu.
+  PolicyMaker sledi [fiksnemu](/lifecycle/policies/fixed) pravilniku o življenjskem ciklu.
 
 
-  To velja za te izdaje: varnost aplikacije, Outlook Edition, Professional 9,0, podaljšanje registra 2,0, skupna raba upravitelja 1,0, posodobitev programske opreme 1,0, posodobitev programske opreme 2,0, standardna 1,0, standardna 2,0
+  To velja za naslednje izdaje: Varnost programov, Outlook Edition, Professional 9.0, Registry Extension 2.0, Share Manager 1.0, Software Update 1.0, Software Update 2.0, Standard 1.0, Standard 2.0
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2007
   endDate: 01/12/2010
-content: "\n\n> [!NOTE]\n> Podpora za ta izdelek je na voljo na podlagi pogojev njegovega nakupa.\n\n## <a name=\"editions\"></a>Izdaje \n* Varnost aplikacije\n* Outlook Edition\n* Strokovna 9,0\n* Pripona registra 2,0\n* Skupna raba upravitelja 1,0\n* Posodobitev programske opreme 1,0\n* Posodobitev programske opreme 2,0\n* Standardna 1,0\n* Standardna 2,0"
+content: "\n\n> [!NOTE]\n> Podpora za ta izdelek je na voljo na podlagi pogojev njegovega nakupa.\n\n## <a name=\"editions\"></a>Izdaje \n* Varnost programov\n* Outlook Edition\n* Professional 9.0\n* Registry Extension 2.0\n* Share Manager 1.0\n* Software Update 1.0\n* Software Update 2.0\n* Standard 1.0\n* Standard 2.0"
