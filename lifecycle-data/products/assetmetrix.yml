@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: AssetMetrix
+  description: AssetMetrix je v skladu s sodobnim pravilnikom o življenjskem ciklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: db5a90d3b938f0b8b7a8311d5b0092e445818ae8
+  ms.sourcegitcommit: 36daddf71b03a8e6938fa973778bf6c67b1bd663
+  ms.translationtype: HT
+  ms.contentlocale: sl-SI
+  ms.lasthandoff: 10/14/2020
+  ms.locfileid: "1154222"
+name: AssetMetrix
+summary: >+
+  AssetMetrix je v skladu s [sodobnim](/lifecycle/policies/modern) pravilnikom o življenjskem ciklu.
+
+
+products:
+- msc
+policyType: modern-online
+supportDates:
+  start: 12/01/2007
+  end: 07/08/2008
+releases:
+- version: Original Release
+  startDate: 12/01/2007
+  endDate: 07/08/2008
+content: "\n## <a name=\"links\"></a>Povezave \n* [Pogosta vprašanja o življenjskem ciklu – splošno](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> Podpora za ta izdelek je na voljo na podlagi pogojev njegovega nakupa."
