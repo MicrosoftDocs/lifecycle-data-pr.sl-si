@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Server 2012 R2
-  description: Windows Server 2012 R2 sledi fiksnemu pravilniku o življenjskem ciklu.
+  description: Windows Server 2012 R2 je v skladu s fiksnim pravilnikom o življenjskem ciklu.
   ms.date: 09/01/2020
   keywords: Datacenter,Essentials,for Embedded Systems,Foundation,Standard
   ms.openlocfilehash: 42ac3c78b1d65c205a93a1041fdc4f029edec3f5
@@ -12,10 +12,10 @@ metadata:
   ms.locfileid: "939499"
 name: Windows Server 2012 R2
 summary: >+
-  Windows Server 2012 R2 sledi pravilniku o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Windows Server 2012 R2 sledi [fiksnemu](/lifecycle/policies/fixed) pravilniku o življenjskem ciklu.
 
 
-  To velja za naslednje izdaje: Datacenter, Essentials, za vgrajene sisteme, Foundation, Standard
+  To velja za naslednje izdaje: Datacenter, Essentials, for Embedded Systems, Foundation, Standard
 
 products:
 - windows
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2013
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Povezave \n* [Navodila za učinkovito selitev](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> Osnovna in razširjena podpora za ta izdelek sta bili razširjeni, da bi strankam zagotovila standardno časovno premico prehoda življenjskega cikla.\n\n## <a name=\"editions\"></a>Izdaje \n* Datacenter\n* Essentials\n* za vgrajene sisteme\n* Foundation\n* Standard"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Navodila za učinkovito selitev](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> Osnovna in razširjena podpora za ta izdelek sta bili razširjeni, da bi strankam zagotovila standardno časovno premico prehoda življenjskega cikla.\n\n## <a name=\"editions\"></a>Izdaje \n* Datacenter\n* Essentials\n* for Embedded Systems\n* Foundation\n* Standard"

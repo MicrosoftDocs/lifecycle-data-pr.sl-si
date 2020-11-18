@@ -15,7 +15,7 @@ summary: >
   Microsoft Application Virtualization 4.5 sledi [fiksnemu](/lifecycle/policies/fixed) pravilniku o življenjskem ciklu.
 
 
-  To velja za naslednje izdaje: za Terminal Services, za namizja sistema Windows
+  To velja za naslednje izdaje: for Terminal Services, for Windows Desktops
 
 
   > [!IMPORTANT]
@@ -38,4 +38,4 @@ releases:
 - version: Original Release
   startDate: 11/23/2008
   endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>Povezave \n* [Navodila za učinkovito selitev](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Pravilnik servisnih paketov](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Ker odjemalec App-V 4.6 uporablja strežnik App-V 4.5, bo strežnik App-V 4.5 še naprej podprt glede na datume življenjskega cikla aplikacije V 4.6, kadar je v uporabi s podprtim odjemalcem App-V 4.6.\n\n## <a name=\"editions\"></a>Izdaje \n* za terminalske storitve\n* za namizja sistema Windows"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Navodila za učinkovito selitev](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Pravilnik servisnih paketov](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Ker odjemalec App-V 4.6 uporablja strežnik App-V 4.5, bo strežnik App-V 4.5 še naprej podprt glede na datume življenjskega cikla aplikacije V 4.6, kadar je v uporabi s podprtim odjemalcem App-V 4.6.\n\n## <a name=\"editions\"></a>Izdaje \n* for Terminal Services\n* for Windows Desktops"

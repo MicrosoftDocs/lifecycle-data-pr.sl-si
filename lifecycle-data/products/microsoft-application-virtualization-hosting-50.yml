@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Application Virtualization Hosting 5.0 za namizne računalnike Windows
-  description: Microsoft Application Virtualization Hosting 5.0 za namizja sistema Windows sledi fiksnemu pravilniku o življenjskem ciklu.
+  title: Microsoft Application Virtualization Hosting 5.0 for Windows Desktops
+  description: Microsoft Application Virtualization Hosting 5.0 for Windows Desktops sledi fiksnemu pravilniku o življenjskem ciklu.
   ms.date: 09/01/2020
   keywords: for Windows Desktops
   ms.openlocfilehash: 640b1312c2eba7e693edbd82f34378619036195e
@@ -10,12 +10,12 @@ metadata:
   ms.contentlocale: sl-SI
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "935392"
-name: Microsoft Application Virtualization Hosting 5.0 za namizne računalnike Windows
+name: Microsoft Application Virtualization Hosting 5.0 for Windows Desktops
 summary: >+
-  Microsoft Application Virtualization Hosting 5.0 za namizja sistema Windows sledi [fiksnemu](/lifecycle/policies/fixed) pravilniku o življenjskem ciklu.
+  Microsoft Application Virtualization Hosting 5.0 for Windows Desktops sledi [fiksnemu](/lifecycle/policies/fixed) pravilniku o življenjskem ciklu.
 
 
-  To velja za naslednje izdaje: za namizja sistema Windows
+  To velja za naslednje izdaje: for Windows Desktops
 
 products:
 - windows
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2012
   endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>Povezave \n* [Informacije o izdelku](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Pravilnik servisnih paketov](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdaje \n* za namizja sistema Windows"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Informacije o izdelku](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Pravilnik servisnih paketov](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdaje \n* for Windows Desktops"

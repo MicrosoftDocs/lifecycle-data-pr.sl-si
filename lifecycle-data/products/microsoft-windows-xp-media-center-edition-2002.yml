@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Windows XP Media Center Edition 2002
-  description: Microsoft Windows XP Media Center Edition 2002 je v skladu s pravilnikom o fiksnem življenjskem ciklu.
+  description: Microsoft Windows XP Media Center Edition 2002 je v skladu s fiksnim pravilnikom o življenjskem ciklu.
   ms.date: 09/01/2020
   keywords: Media Center
   ms.openlocfilehash: d7d46a764f708d0f79166a7b3d4a746cc022446c
@@ -12,10 +12,10 @@ metadata:
   ms.locfileid: "928991"
 name: Microsoft Windows XP Media Center Edition 2002
 summary: >+
-  Microsoft Windows XP Media Center Edition 2002 je v skladu s pravilnikom o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Microsoft Windows XP Media Center Edition 2002 je v skladu s [fiksnim](/lifecycle/policies/fixed) pravilnikom o življenjskem ciklu.
 
 
-  To velja za naslednje izdaje: Medijsko središče
+  To velja za naslednje izdaje: Media Center
 
 products:
 - windows
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/28/2002
   endDate: 04/08/2014
-content: "\n\n\n## <a name=\"editions\"></a>Izdaje \n* Medijsko središče"
+content: "\n\n\n## <a name=\"editions\"></a>Izdaje \n* Media Center"

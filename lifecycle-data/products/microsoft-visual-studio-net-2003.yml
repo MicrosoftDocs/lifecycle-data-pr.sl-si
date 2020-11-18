@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Visual Studio .NET 2003
-  description: Microsoft Visual Studio .NET 2003 je v skladu s pravilnikom o fiksnem življenjskem ciklu.
+  description: Microsoft Visual Studio .NET 2003 je v skladu s fiksnim pravilnikom o življenjskem ciklu.
   ms.date: 09/10/2020
   keywords: Enterprise Architect,Enterprise Developer,J#,Professional,Standard
   ms.openlocfilehash: 4046adf6f4a20e8c0edfd77c6314c2ecbd321cb2
@@ -12,7 +12,7 @@ metadata:
   ms.locfileid: "999408"
 name: Microsoft Visual Studio .NET 2003
 summary: >+
-  Microsoft Visual Studio .NET 2003 je v skladu s pravilnikom o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
+  Microsoft Visual Studio .NET 2003 je v skladu s [fiksnim](/lifecycle/policies/fixed) pravilnikom o življenjskem ciklu.
 
 
   To velja za naslednje izdaje: Enterprise Architect, Enterprise Developer, J#, Professional, Standard

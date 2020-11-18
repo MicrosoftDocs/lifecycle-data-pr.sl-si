@@ -15,7 +15,7 @@ summary: >+
   Visual Studio 2012 sledi [fiksnemu](/lifecycle/policies/fixed) pravilniku o življenjskem ciklu.
 
 
-  To velja za naslednje izdaje: Agents, Community 2013, Express za splet, Express za Windows 8, Express za namizje sistema Windows, IntelliTrace Collector, Microsoft Azure Tools, Premium, Professional, Remote Tools, Shell (Integrirano), Shell (Izolirani), Podatkovna orodja strežnika SQL, Team Explorer, Test Professional 2013, Ultimate, Visual C + + Redistributable, Razširitve spletnih orodij
+  To velja za naslednje izdaje: Agents, Community 2013, Express for Web, Express for Windows 8, Express for Windows Desktop, IntelliTrace Collector, Microsoft Azure Tools, Premium, Professional, Remote Tools, Shell (integrirano), Shell (ločeno), SQL Server Data Tools, Team Explorer, Test Professional 2013, Ultimate, Visual C++ Redistributable, Web Tools Extensions
 
 products:
 - vs
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 10/31/2012
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Povezave \n* [Življenjski cikel in servisiranje izdelkov Visual Studio](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Izdaje \n* Agents\n* Community 2013\n* Express za splet\n* Express za Windows 8\n* Express za namizje sistema Windows\n* IntelliTrace Collector\n* Microsoft Azure Tools\n* Premium\n* Professional\n* Remote Tools\n* Shell (integrirano)\n* Shell (izolirano)\n* Podatkovna orodja strežnika SQL Server\n* Team Explorer\n* Test Professional 2013\n* Ultimate\n* Visual C++ Redistributable\n* Razširitve spletnih orodij"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Življenjski cikel in vzdrževanje izdelkov Visual Studio](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Izdaje \n* Agents\n* Community 2013\n* Express for Web\n* Express for Windows 8\n* Express for Windows Desktop\n* IntelliTrace Collector\n* Microsoft Azure Tools\n* Premium\n* Professional\n* Remote Tools\n* Shell (integrirano)\n* Shell (izolirano)\n* SQL Server Data Tools\n* Team Explorer\n* Test Professional 2013\n* Ultimate\n* Visual C++ Redistributable\n* Web Tools Extensions"

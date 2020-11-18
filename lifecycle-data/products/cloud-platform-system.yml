@@ -1,6 +1,6 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Sistem platforme v oblaku
+  title: Cloud Platform System
   description: Cloud Platform System je v skladu s fiksnim pravilnikom o življenjskem ciklu.
   ms.date: 09/01/2020
   keywords: Standard
@@ -10,7 +10,7 @@ metadata:
   ms.contentlocale: sl-SI
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "932062"
-name: Sistem platforme v oblaku
+name: Cloud Platform System
 summary: >+
   Cloud Platform System je v skladu s [fiksnim](/lifecycle/policies/fixed) pravilnikom o življenjskem ciklu.
 
