@@ -15,7 +15,7 @@ summary: >+
   Office XP sledi [fiksnemu](/lifecycle/policies/fixed) pravilniku o življenjskem ciklu.
 
 
-  To velja za naslednje izdaje: Developer, Professional, orodja za preverjanje, standard, spletne komponente
+  To velja za naslednje izdaje: Developer, Professional, Proofing Tools, Standard, Web Components
 
 products:
 - office
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 05/31/2001
   endDate: 12/31/2002
-content: "\n\n\n## <a name=\"editions\"></a>Izdaje \n* Razvijalec\n* Professional\n* Orodja za preverjanje\n* Standard\n* Spletne komponente"
+content: "\n\n\n## <a name=\"editions\"></a>Izdaje \n* Developer\n* Professional\n* Proofing Tools\n* Standard\n* Web Components"

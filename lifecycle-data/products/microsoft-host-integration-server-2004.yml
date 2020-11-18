@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Host Integration Server 2004
-  description: Microsoft Host Integration Server 2004 je v skladu s pravilnikom o fiksnem življenjskem ciklu.
+  description: Microsoft Host Integration Server 2004 je v skladu s fiksnim pravilnikom o življenjskem ciklu.
   ms.date: 09/10/2020
   keywords: Developer,Enterprise,Standard
   ms.openlocfilehash: f25ad096e73a81539c8d2c5ae6f9512c7a8dcf40
@@ -11,7 +11,7 @@ metadata:
   ms.lasthandoff: 09/10/2020
   ms.locfileid: "1001887"
 name: Microsoft Host Integration Server 2004
-summary: "Microsoft Host Integration Server 2004 je v skladu s pravilnikom o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.\n\nTo velja za naslednje izdaje: Developer, Enterprise, Standard\n\n> [!IMPORTANT]\n> Podpora za ta izdelek je končana. \n"
+summary: "Microsoft Host Integration Server 2004 je v skladu s [fiksnim](/lifecycle/policies/fixed) pravilnikom o življenjskem ciklu.\n\nTo velja za naslednje izdaje: Developer, Enterprise, Standard\n\n> [!IMPORTANT]\n> Podpora za ta izdelek je končana. \n"
 products:
 - microsoft-servers
 policyType: fixed
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2004
   endDate: 07/14/2008
-content: "\n## <a name=\"links\"></a>Povezave \n* [Pravilnik servisnih paketov](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdaje \n* Razvijalec\n* Enterprise\n* Standard"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Pravilnik servisnih paketov](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdaje \n* Developer\n* Enterprise\n* Standard"

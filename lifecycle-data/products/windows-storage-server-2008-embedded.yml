@@ -15,7 +15,7 @@ summary: >+
   Windows Storage Server 2008 Embedded sledi [fiksnemu](/lifecycle/policies/fixed) pravilniku o življenjskem ciklu.
 
 
-  To velja za naslednje izdaje: 32-bitni, 64-bitni, Basic, Basic 32-bitni, Enterprise, Standard, Workgroup
+  To velja za naslednje izdaje: 32 Bit, 64 Bit, Basic, Basic 32-Bit, Enterprise, Standard, Workgroup
 
 products:
 - windows
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/19/2009
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Povezave \n* [Navodila za učinkovito selitev](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> Podpora za ta izdelek se je končala. Glej spodaj za smernice za selitev.\n\n## <a name=\"editions\"></a>Izdaje \n* 32 bitov\n* 64 bitov\n* Basic\n* Basic 32-bitni\n* Enterprise\n* Standard\n* Delovna skupina"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Navodila za učinkovito selitev](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> Podpora za ta izdelek se je končala. Glej spodaj za smernice za selitev.\n\n## <a name=\"editions\"></a>Izdaje \n* 32 Bit\n* 64 Bit\n* Basic\n* Basic 32-Bit\n* Enterprise\n* Standard\n* Workgroup"

@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Application Virtualization 5.0
-  description: Microsoft Application Virtualization 5.0 sledi pravilniku o fiksnem življenjskem ciklu.
+  description: Microsoft Application Virtualization 5.0 sledi fiksnemu pravilniku o življenjskem ciklu.
   ms.date: 09/01/2020
   keywords: for Remote Desktop Services,for Terminal Services,for Windows Desktops
   ms.openlocfilehash: 9606d01862383fc90e328d1fe65da5151014db76
@@ -15,7 +15,7 @@ summary: >+
   Microsoft Application Virtualization 5.0 sledi [fiksnemu ](/lifecycle/policies/fixed)pravilniku o življenjskem ciklu.
 
 
-  To velja za naslednje izdaje: za storitve oddaljenega namizja, terminalske storitve, za namizja sistema Windows
+  To velja za naslednje izdaje: for Remote Desktop Services, for Terminal Services, for Windows Desktops
 
 products:
 - windows
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2012
   endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>Povezave \n* [Informacije o izdelku](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [Pravilnik servisnih paketov](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdaje \n* za storitve oddaljenega namizja\n* za terminalske storitve\n* za namizja sistema Windows"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Informacije o izdelku](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [Pravilnik servisnih paketov](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdaje \n* for Remote Desktop Services\n* for Terminal Services\n* for Windows Desktops"
