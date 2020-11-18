@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Azure Pack (v sistemu Windows Server 2012 R2)
-  description: Paket Windows Azure (v sistemu Windows Server 2012 R2) je v skladu s fiksnim pravilnikom o življenjskem ciklu.
+  title: Windows Azure Pack (on Windows Server 2012 R2)
+  description: Windows Azure Pack (on Windows Server 2012 R2) je v skladu s fiksnim pravilnikom o življenjskem ciklu.
   ms.date: 10/19/2020
   keywords: 
   ms.openlocfilehash: 38fe3e0f5e46d996504b594c78e8717330b720c0
@@ -10,12 +10,12 @@ metadata:
   ms.contentlocale: sl-SI
   ms.lasthandoff: 10/19/2020
   ms.locfileid: "1160954"
-name: Windows Azure Pack (v sistemu Windows Server 2012 R2)
+name: Windows Azure Pack (on Windows Server 2012 R2)
 summary: >+
-  Paket Windows Azure (v sistemu Windows Server 2012 R2) je v skladu s [fiksnim](/lifecycle/policies/fixed) pravilnikom o življenjskem ciklu.
+  Windows Azure Pack (on Windows Server 2012 R2) je v skladu s [fiksnim](/lifecycle/policies/fixed) pravilnikom o življenjskem ciklu.
 
 
-  To velja za naslednje izdaje: sistem Windows Server 2012 R2
+  To velja za naslednje izdaje: on Windows Server 2012 R2
 
 products:
 - windows
@@ -31,4 +31,4 @@ releases:
 - version: V2 Web Sites
   startDate: 01/14/2014
   endDate: 07/12/2022
-content: "\n## <a name=\"links\"></a>Povezave \n* [Datumi življenjskega cikla podpore za Windows Azure Pack Web Sites V2](https://azure.github.io/AppService/2017/01/19/Revisiting-Windows-Azure-Pack-Web-Sites-V2-Support-Lifecycle-Dates.html)\n* [Informacije o izdelku: Windows Azure Pack za Windows Server ](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))\n\n\n## <a name=\"editions\"></a>Izdaje \n* na Windows Server 2012 R2"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Datumi življenjskega cikla podpore za Windows Azure Pack Web Sites V2](https://azure.github.io/AppService/2017/01/19/Revisiting-Windows-Azure-Pack-Web-Sites-V2-Support-Lifecycle-Dates.html)\n* [Informacije o izdelku: Windows Azure Pack for Windows Server ](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))\n\n\n## <a name=\"editions\"></a>Izdaje \n* on Windows Server 2012 R2"
