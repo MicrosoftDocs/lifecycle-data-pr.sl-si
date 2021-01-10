@@ -1,25 +1,25 @@
 ---
 title: Izvoz podatkov o življenjskem ciklu
 description: Izvoz informacij o življenjskem ciklu izdelka
-ms.date: 11/29/2020
+ms.date: 01/06/2021
 layout: ContentPage
-ms.openlocfilehash: 210af0cf60630cbdbf43847641022283aca78366
-ms.sourcegitcommit: 272dedcf92e644b57865e78c716f937b66e534c3
+ms.openlocfilehash: 4a27cd96ddaa1b3d128d9f1d711504d88c28e36e
+ms.sourcegitcommit: f24c8653f7fd67e5b3f9f41e17b47edcecb5856e
 ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "1335901"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "1367580"
 ---
-# <a name="lifecycle-data-export"></a><span data-ttu-id="efd80-103">Izvoz podatkov o življenjskem ciklu</span><span class="sxs-lookup"><span data-stu-id="efd80-103">Lifecycle data export</span></span>
+# <a name="lifecycle-data-export"></a><span data-ttu-id="59493-103">Izvoz podatkov o življenjskem ciklu</span><span class="sxs-lookup"><span data-stu-id="59493-103">Lifecycle data export</span></span>
 
-## <a name="export-all-products"></a><span data-ttu-id="efd80-104">Izvoz vseh izdelkov</span><span class="sxs-lookup"><span data-stu-id="efd80-104">Export all products</span></span>
-<span data-ttu-id="efd80-105">Izvozite podatke življenjskega cikla za vse izdelke tako, da kliknete spodaj:</span><span class="sxs-lookup"><span data-stu-id="efd80-105">Export lifecycle data for all products by clicking below:</span></span>
+## <a name="export-all-products"></a><span data-ttu-id="59493-104">Izvoz vseh izdelkov</span><span class="sxs-lookup"><span data-stu-id="59493-104">Export all products</span></span>
+<span data-ttu-id="59493-105">Izvozite podatke življenjskega cikla za vse izdelke tako, da kliknete spodaj:</span><span class="sxs-lookup"><span data-stu-id="59493-105">Export lifecycle data for all products by clicking below:</span></span>
 
 > [!div class="nextstepaction"]
-> [<span data-ttu-id="efd80-106">Izvozi vse izdelke</span><span class="sxs-lookup"><span data-stu-id="efd80-106">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
+> [<span data-ttu-id="59493-106">Izvozi vse izdelke</span><span class="sxs-lookup"><span data-stu-id="59493-106">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-family-and-group"></a><span data-ttu-id="efd80-107">Izvoz izdelkov po družini in skupini</span><span class="sxs-lookup"><span data-stu-id="efd80-107">Export products by Family and Group</span></span>
-<span data-ttu-id="efd80-108">Izberite družino in nato skupino, ki jo želite izvoziti.</span><span class="sxs-lookup"><span data-stu-id="efd80-108">Select a Family and then a Group to export.</span></span> <span data-ttu-id="efd80-109">Opomba: Izvoz se začne, ko je izbrana vrednost skupine.</span><span class="sxs-lookup"><span data-stu-id="efd80-109">Note: Export will begin when Group value is selected.</span></span> 
+## <a name="export-products-by-family-and-group"></a><span data-ttu-id="59493-107">Izvoz izdelkov po družini in skupini</span><span class="sxs-lookup"><span data-stu-id="59493-107">Export products by Family and Group</span></span>
+<span data-ttu-id="59493-108">Izberite družino in nato skupino, ki jo želite izvoziti.</span><span class="sxs-lookup"><span data-stu-id="59493-108">Select a Family and then a Group to export.</span></span> <span data-ttu-id="59493-109">Opomba: Izvoz se začne, ko je izbrana vrednost skupine.</span><span class="sxs-lookup"><span data-stu-id="59493-109">Note: Export will begin when Group value is selected.</span></span> 
 
 > [!div class="op_multi_selector" title1="Družina" title2="Skupina"]
 > - [(.NET | Vse)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='.NET'))
@@ -81,13 +81,12 @@ ms.locfileid: "1335901"
 > - [(Windows | Varnost)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Windows',group='Security'))
 > - [Windows | Strežnik](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Windows',group='Server'))
 
-## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="efd80-170">Izvoz izdelkov do konca datuma podpore</span><span class="sxs-lookup"><span data-stu-id="efd80-170">Export products by end of support date</span></span>
-<span data-ttu-id="efd80-171">Izberite leto, če želite videti izdelke, ki dosegajo konec podpore.</span><span class="sxs-lookup"><span data-stu-id="efd80-171">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="efd80-172">Opomba: Izvoz se bo začel, ko izberete vrednost »Leto«.</span><span class="sxs-lookup"><span data-stu-id="efd80-172">Note: Export will begin when Year value is selected.</span></span>
+## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="59493-170">Izvoz izdelkov do konca datuma podpore</span><span class="sxs-lookup"><span data-stu-id="59493-170">Export products by end of support date</span></span>
+<span data-ttu-id="59493-171">Izberite leto, če želite videti izdelke, ki dosegajo konec podpore.</span><span class="sxs-lookup"><span data-stu-id="59493-171">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="59493-172">Opomba: Izvoz se bo začel, ko izberete vrednost »Leto«.</span><span class="sxs-lookup"><span data-stu-id="59493-172">Note: Export will begin when Year value is selected.</span></span>
 
 > [!div class="op_single_selector"]
 > - [Naslednjih 12 mesecev](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportMonths=12))
 > - [Naslednjih 6 mesecev](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportMonths=6))
-> - [2015](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2015))
 > - [2016](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2016))
 > - [2017](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2017))
 > - [2018](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2018))
