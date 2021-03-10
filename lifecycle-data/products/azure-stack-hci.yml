@@ -1,0 +1,26 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Azure Stack HCI
+  description: Azure Stack HCI je v skladu s pravilnikom o sodobnem življenjskem ciklu.
+  ms.date: 02/24/2021
+  keywords: 
+  ms.openlocfilehash: 263c4f6660d917cefe34c046751e3c46b217fc1d
+  ms.sourcegitcommit: 222ed88a41f7bfe4a9382b99a44b7ce8babc6f51
+  ms.translationtype: HT
+  ms.contentlocale: sl-SI
+  ms.lasthandoff: 03/04/2021
+  ms.locfileid: "1453751"
+name: Azure Stack HCI
+summary: >+
+  Azure Stack HCI je v skladu s [sodobnim](/lifecycle/policies/modern) pravilnikom o življenjskem ciklu.
+
+
+products:
+- azure
+policyType: modern-on-prem
+supportDates:
+  start: 12/10/2020
+releases:
+- version: Original Release
+  startDate: 12/10/2020
+content: "\n## <a name=\"links\"></a>Povezave \n* [Sistemske zahteve](/azure-stack/hci/overview#what-you-need-for-azure-stack-hci)\n* [Opombe ob izdaji](/azure-stack/hci/release-notes)\n* [Posodobi gruče sklada Azure HCI](/azure-stack/hci/manage/update-cluster)"
