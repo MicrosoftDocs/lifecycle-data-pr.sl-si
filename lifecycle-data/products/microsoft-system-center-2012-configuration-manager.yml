@@ -2,13 +2,14 @@
 metadata:
   title: Upravitelj konfiguracije Microsoft System Center 2012
   description: Upravitelj konfiguracije za Microsoft System Center 2012 sledi fiksnemu pravilniku o življenjskem ciklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: dce8796f280b29e070bbf1d5bab55452f6e706e7
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 03/12/2021
+  keywords: 
+  ms.openlocfilehash: b550f4d818fcc32d871457dc01fc4d0a93149c7d
+  ms.sourcegitcommit: 8465b0fa45ee2c451d1f1eaf7be9a1544cdad17f
   ms.translationtype: HT
   ms.contentlocale: sl-SI
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "863043"
+  ms.lasthandoff: 03/12/2021
+  ms.locfileid: "1462960"
 name: Upravitelj konfiguracije Microsoft System Center 2012
 summary: >+
   Upravitelj konfiguracije za Microsoft System Center 2012 sledi [fiksnemu](/lifecycle/policies/fixed) pravilniku o življenjskem ciklu.
@@ -31,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Povezave \n* [Pravilnik servisnih paketov](/lifecycle/policies/fixed#service-packs)\n* [Dokumentacija sistemskega centra](/system-center/#pivot=components&panel=components-all)\n* [Viri sistemskega centra](https://www.microsoft.com/system-center/resources)"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Pravilnik servisnih paketov](/lifecycle/policies/fixed#service-packs)\n* [Dokumentacija sistemskega centra](/system-center/#pivot=components&panel=components-all)\n* [Viri sistemskega centra](https://www.microsoft.com/system-center/resources)\n* [Navodila za učinkovito selitev](https://techcommunity.microsoft.com/t5/configuration-manager-blog/system-center-2012-configuration-manager-is-approaching-end-of/ba-p/1650899)"
