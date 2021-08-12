@@ -3,12 +3,12 @@ metadata:
   title: Microsoft Report Viewer Redistributable 2012
   description: Paket za nadaljnjo distribucijo programa Microsoft Report Viewer 2012 je v skladu s pravilnikom o fiksnem življenjskem ciklu.
   ms.date: 08/19/2020
-  ms.openlocfilehash: 851327e620d35cbb94eb2f0df86755e04c75eaac
-  ms.sourcegitcommit: 9d254d51934063ec1dd8c7e0e5fcb53ccc7257b3
+  ms.openlocfilehash: d9d31a6701cfd6d0d043e6a911cac37577ccf6de1dc6802c0a818d656be9a968
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: sl-SI
-  ms.lasthandoff: 08/20/2020
-  ms.locfileid: "905053"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2523948"
 name: Microsoft Report Viewer Redistributable 2012
 summary: >+
   Paket za nadaljnjo distribucijo programa Microsoft Report Viewer 2012 je v skladu s pravilnikom o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
