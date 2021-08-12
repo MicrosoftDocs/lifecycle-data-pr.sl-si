@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 10 2016 LTSB
-  description: Windows 10 2016 LTSB sledi fiksnemu pravilniku o življenjskem ciklu.
+  title: LTSB za Windows 10 Enterprise 2016
+  description: LTSB za Windows 10 2016 sledi fiksnemu pravilniku o življenjskem ciklu.
   ms.date: 09/01/2020
   keywords: Enterprise
-  ms.openlocfilehash: 040fad2c1269808928c0f239a64f575b98f458f6
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 9b16ea02691f718f181186174f2f727dd80633b14833ee67383a25ddab70d63c
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: sl-SI
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938500"
-name: Windows 10 2016 LTSB
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2510702"
+name: LTSB za Windows 10 Enterprise 2016
 summary: >+
-  Windows 10 2016 LTSB sledi [fiksnemu](/lifecycle/policies/fixed) pravilniku o življenjskem ciklu.
+  LTSB za Windows 10 2016 sledi [fiksnemu](/lifecycle/policies/fixed) pravilniku o življenjskem ciklu.
 
 
   To velja za naslednje izdaje: Enterprise
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 08/02/2016
   endDate: 10/13/2026
-content: "\n## <a name=\"links\"></a>Povezave \n* [Ponovna izdaja oktobrske posodobitve za Windows 10 (različica 1809)](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [Windows kot storitev (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Pogosta vprašanja o sistemu LTSC za Windows 10](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n\n\n## <a name=\"editions\"></a>Izdaje \n* Enterprise"
+content: "\n## <a name=\"links\"></a>Povezave \n* [Ponovna izdaja oktoberske posodobitve za Windows 10 (različica 1809)](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [Windows kot storitev (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Pogosta vprašanja o sistemu LTSC za Windows 10](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n\n\n## <a name=\"editions\"></a>Izdaje \n* Enterprise"
