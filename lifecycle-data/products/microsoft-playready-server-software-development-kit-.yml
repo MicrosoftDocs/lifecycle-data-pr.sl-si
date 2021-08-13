@@ -3,25 +3,19 @@ metadata:
   title: 'Komplet za razvoj programske opreme strežnika Microsoft PlayReady '
   description: Komplet za razvoj programske opreme strežnika Microsoft PlayReady sledi pravilniku o fiksnem življenjskem ciklu.
   ms.date: 08/21/2020
-  ms.openlocfilehash: ad1436e285d41225be4fd96438e78cecfe455916
-  ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
-  ms.translationtype: HT
-  ms.contentlocale: sl-SI
-  ms.lasthandoff: 08/21/2020
-  ms.locfileid: "908038"
 name: 'Komplet za razvoj programske opreme strežnika Microsoft PlayReady '
-summary: >+
+summary: |+
   Komplet za razvoj programske opreme strežnika Microsoft PlayReady je v skladu s pravilnikom o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
 
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 07/15/2009
   end: 10/14/2014
 releases:
-- version: Original Release
-  startDate: 07/15/2009
-  endDate: 10/14/2014
-content: ''
+  - version: Original Release
+    startDate: 07/15/2009
+    endDate: 10/14/2014
+content: |+
