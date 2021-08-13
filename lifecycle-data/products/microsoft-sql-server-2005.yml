@@ -3,45 +3,57 @@ metadata:
   title: Microsoft SQL Server 2005
   description: Microsoft SQL Server 2005 sledi fiksnemu pravilniku o življenjskem ciklu.
   ms.date: 09/01/2020
-  keywords: Compact,Developer,Embedded,Enterprise,Enterprise for Itanium-based Systems,Enterprise X64,Express,Express with Advanced Services,Standard,Standard for Itanium-based Systems,Standard X64,Workgroup
-  ms.openlocfilehash: ca451e6716bf5aed78c86dd83737d59a46a8203d
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: sl-SI
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "929768"
+  keywords: 'Compact,Developer,Embedded,Enterprise,Enterprise for Itanium-based Systems,Enterprise X64,Express,Express with Advanced Services,Standard,Standard for Itanium-based Systems,Standard X64,Workgroup'
 name: Microsoft SQL Server 2005
-summary: >
+summary: |
   Microsoft SQL Server 2005 sledi [fiksnemu](/lifecycle/policies/fixed) pravilniku o življenjskem ciklu.
-
 
   To velja za naslednje izdaje: Compact, Developer, Embedded, Enterprise, Enterprise za sisteme, ki temeljijo na Itaniumu, Enterprise X64, Express, Express z naprednimi storitvami, Standard, Standard za sisteme, ki temeljijo na Itaniumu, Standard X64, Workgroup
 
-
   > [!IMPORTANT]
-
   > Podpora za ta izdelek je končana. Preberite spodnje smernice za selitev.
 products:
-- sql-server
+  - sql-server
 policyType: fixed
 supportDates:
   start: 01/14/2006
   end: 04/12/2011
   extendedEnd: 04/12/2016
 releases:
-- version: Service Pack 4
-  startDate: 12/13/2010
-  endDate: 04/12/2016
-- version: Service Pack 3
-  startDate: 12/15/2008
-  endDate: 01/10/2012
-- version: Service Pack 2
-  startDate: 02/19/2007
-  endDate: 01/12/2010
-- version: Service Pack 1
-  startDate: 04/18/2006
-  endDate: 04/08/2008
-- version: Original Release
-  startDate: 01/14/2006
-  endDate: 07/10/2007
-content: "\n## <a name=\"links\"></a>Povezave \n* [Navodila za učinkovito selitev](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Pravilnik servisnih paketov](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft SQL Server 2005 Compact Edition, izdan 19. februarja 2007.\n\n## <a name=\"editions\"></a>Izdaje \n* Compact\n* Razvijalec\n* Vdelan\n* Enterprise\n* Enterprise za sisteme, ki temeljijo na Itaniumu\n* Enterprise X64\n* Express\n* Express z naprednimi storitvami\n* Standard\n* Standard za sisteme, ki temeljijo na Itaniji\n* Standard x64\n* Delovna skupina"
+  - version: Service Pack 4
+    startDate: 12/13/2010
+    endDate: 04/12/2016
+  - version: Service Pack 3
+    startDate: 12/15/2008
+    endDate: 01/10/2012
+  - version: Service Pack 2
+    startDate: 02/19/2007
+    endDate: 01/12/2010
+  - version: Service Pack 1
+    startDate: 04/18/2006
+    endDate: 04/08/2008
+  - version: Original Release
+    startDate: 01/14/2006
+    endDate: 07/10/2007
+content: |
+
+  ## <a name="links"></a>Povezave 
+  * [Navodila za učinkovito selitev](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)
+  * [Pravilnik servisnih paketov](/lifecycle/policies/fixed#service-packs)
+
+  > [!NOTE]
+  > Microsoft SQL Server 2005 Compact Edition, izdan 19. februarja 2007.
+
+  ## <a name="editions"></a>Izdaje 
+  * Compact
+  * Razvijalec
+  * Vdelan
+  * Enterprise
+  * Enterprise za sisteme, ki temeljijo na Itaniumu
+  * Enterprise X64
+  * Express
+  * Express z naprednimi storitvami
+  * Standard
+  * Standard za sisteme, ki temeljijo na Itaniji
+  * Standard x64
+  * Delovna skupina
