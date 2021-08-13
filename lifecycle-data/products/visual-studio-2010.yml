@@ -3,17 +3,10 @@ metadata:
   title: Visual Studio 2010
   description: Visual Studio 2010 sledi fiksnemu pravilniku o življenjskem ciklu.
   ms.date: 05/28/2021
-  keywords: vsto,Agents,All,ASP .NET MVC 4,Express,F# 2.0 Runtime,Lab Management,Performance Tools,Premium,Professional,Professional w/MSDN ,PSM,Remote Debugger,SDK,Shell (Integrated),Shell (Isolated),Team Agents,Team Explorer,Test Professional,Ultimate,Ultimate with MSDN,Visual Basic Express,Visual C# Express,Visual C++ Express,Visual Web Developer Express,Visualization & Modeling SDK
-  ms.openlocfilehash: 3458cbccdbd3a27120cadd0dcc0df44834425297
-  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
-  ms.translationtype: HT
-  ms.contentlocale: sl-SI
-  ms.lasthandoff: 06/25/2021
-  ms.locfileid: "2029966"
+  keywords: 'vsto,Agents,All,ASP .NET MVC 4,Express,F# 2.0 Runtime,Lab Management,Performance Tools,Premium,Professional,Professional w/MSDN ,PSM,Remote Debugger,SDK,Shell (Integrated),Shell (Isolated),Team Agents,Team Explorer,Test Professional,Ultimate,Ultimate with MSDN,Visual Basic Express,Visual C# Express,Visual C++ Express,Visual Web Developer Express,Visualization & Modeling SDK'
 name: Visual Studio 2010
-summary: >+
+summary: |+
   Visual Studio 2010 sledi [fiksnemu](/lifecycle/policies/fixed) pravilniku o življenjskem ciklu.
-
 
 
   To velja za naslednje izdaje: Agents, All, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Performance Tools, Premium, Professional, Professional w/MSDN , PSM, Remote Debugger, SDK, Shell (Integrated), Shell (Isolated), Team Agents, Team Explorer, Test Professional, Ultimate, Ultimate with MSDN, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualization & Modeling SDK
@@ -21,17 +14,53 @@ summary: >+
 
 
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 06/29/2010
   end: 07/14/2015
   extendedEnd: 07/14/2020
 releases:
-- version: Service Pack 1
-  startDate: 03/08/2011
-  endDate: 07/14/2020
-- version: Original Release
-  startDate: 06/29/2010
-  endDate: 04/10/2012
-content: "\n\n## <a name=\"links\"></a>Povezave \n* [Pravilnik servisnih paketov](/lifecycle/policies/fixed#service-packs)\n\n\n> [!NOTE]\n> Izvajalno okolje Visual Studio 2010 Tools for Office (VSTO) je priloženo različicam Visual Studio in Microsoft Office in sledi življenjskemu ciklu nadrejenega izdelka. Lahko ga prenesete tudi ločeno, [tukaj](https://www.microsoft.com/download/details.aspx?id=56961).\n\n\n## <a name=\"editions\"></a>Izdaje \n* Agents\n* Vsi\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Runtime\n* Lab Management\n* Orodja za učinkovitost delovanja\n* Premium\n* Professional\n* Profesionalni w/MSDN \n* PSM\n* Oddaljeni iskalnik napak\n* SDK\n* Shell (integrirano)\n* Shell (izolirano)\n* Ekipni agenti\n* Team Explorer\n* Test Professional\n* Ultimate\n* Ultimate with MSDN\n* Visual Studio Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Vizualizacija in Modeliranje SDK"
+  - version: Service Pack 1
+    startDate: 03/08/2011
+    endDate: 07/14/2020
+  - version: Original Release
+    startDate: 06/29/2010
+    endDate: 04/10/2012
+content: |+
+
+
+  ## <a name="links"></a>Povezave 
+  * [Pravilnik servisnih paketov](/lifecycle/policies/fixed#service-packs)
+
+
+  > [!NOTE]
+  > Izvajalno okolje Visual Studio 2010 Tools for Office (VSTO) je priloženo različicam Visual Studio in Microsoft Office in sledi življenjskemu ciklu nadrejenega izdelka. Lahko ga prenesete tudi ločeno, [tukaj](https://www.microsoft.com/download/details.aspx?id=56961).
+
+
+  ## <a name="editions"></a>Izdaje 
+  * Agents
+  * Vsi
+  * ASP .NET MVC 4
+  * Express
+  * F# 2.0 Runtime
+  * Lab Management
+  * Orodja za učinkovitost delovanja
+  * Premium
+  * Professional
+  * Profesionalni w/MSDN 
+  * PSM
+  * Oddaljeni iskalnik napak
+  * SDK
+  * Shell (integrirano)
+  * Shell (izolirano)
+  * Ekipni agenti
+  * Team Explorer
+  * Test Professional
+  * Ultimate
+  * Ultimate with MSDN
+  * Visual Studio Express
+  * Visual C# Express
+  * Visual C++ Express
+  * Visual Web Developer Express
+  * Vizualizacija in Modeliranje SDK
