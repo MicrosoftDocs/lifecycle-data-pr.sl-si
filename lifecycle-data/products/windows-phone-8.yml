@@ -3,24 +3,22 @@ metadata:
   title: Windows Phone 8
   description: Windows Phone 8 je v skladu s pravilnikom o fiksnem življenjskem ciklu.
   ms.date: 08/19/2020
-  ms.openlocfilehash: 414496ab55aa39619921de70d0df779cc4403a50
-  ms.sourcegitcommit: 37ac01a1d5492bb2bf54cbd018ea34074db8c998
-  ms.translationtype: HT
-  ms.contentlocale: sl-SI
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "940947"
 name: Windows Phone 8
-summary: >+
+summary: |+
   Windows Phone 8 je v skladu s pravilnikom o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
 
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 12/14/2012
   end: 07/08/2014
 releases:
-- version: Original Release
-  startDate: 12/14/2012
-content: "\n\n> [!NOTE]\n> Microsoft bo zagotavljal posodobitve za operacijski sistem, vključno z varnostnimi posodobitvami, 36 mesecev po začetnem datumu življenjskega cikla. Te posodobitve bodo postopne, posamezna posodobitev pa bo temeljila na posodobitvi, ki je bila pred njo. Če želijo ohraniti podporo, morajo stranke namestiti vse posodobljene različice. Distribucijo teh dodatnih posodobitev morda nadzira operater mobilne telefonije ali proizvajalec telefona, pri katerem ste kupili telefon, in namestitev bo zahtevala predhodno posodobitev vašega telefona. Razpoložljivost posodobitev bo odvisna tudi od države, regije in strojne opreme."
+  - version: Original Release
+    startDate: 12/14/2012
+content: |+
+
+
+  > [!NOTE]
+  > Microsoft bo zagotavljal posodobitve za operacijski sistem, vključno z varnostnimi posodobitvami, 36 mesecev po začetnem datumu življenjskega cikla. Te posodobitve bodo postopne, posamezna posodobitev pa bo temeljila na posodobitvi, ki je bila pred njo. Če želijo ohraniti podporo, morajo stranke namestiti vse posodobljene različice. Distribucijo teh dodatnih posodobitev morda nadzira operater mobilne telefonije ali proizvajalec telefona, pri katerem ste kupili telefon, in namestitev bo zahtevala predhodno posodobitev vašega telefona. Razpoložljivost posodobitev bo odvisna tudi od države, regije in strojne opreme.
