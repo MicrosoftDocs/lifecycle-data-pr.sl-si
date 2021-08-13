@@ -3,33 +3,33 @@ metadata:
   title: Upravitelj konfiguracije Microsoft System Center 2012
   description: Upravitelj konfiguracije za Microsoft System Center 2012 sledi fiksnemu pravilniku o življenjskem ciklu.
   ms.date: 03/12/2021
-  keywords: 
-  ms.openlocfilehash: b550f4d818fcc32d871457dc01fc4d0a93149c7d
-  ms.sourcegitcommit: 8465b0fa45ee2c451d1f1eaf7be9a1544cdad17f
-  ms.translationtype: HT
-  ms.contentlocale: sl-SI
-  ms.lasthandoff: 03/12/2021
-  ms.locfileid: "1462960"
+  keywords: null
 name: Upravitelj konfiguracije Microsoft System Center 2012
-summary: >+
+summary: |+
   Upravitelj konfiguracije za Microsoft System Center 2012 sledi [fiksnemu](/lifecycle/policies/fixed) pravilniku o življenjskem ciklu.
 
 
 products:
-- msc
+  - msc
 policyType: fixed
 supportDates:
   start: 05/30/2012
   end: 07/11/2017
   extendedEnd: 07/12/2022
 releases:
-- version: Service Pack 2
-  startDate: 05/12/2015
-  endDate: 07/12/2022
-- version: Service Pack 1
-  startDate: 12/15/2012
-  endDate: 07/12/2016
-- version: Original Release
-  startDate: 05/30/2012
-  endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Povezave \n* [Pravilnik servisnih paketov](/lifecycle/policies/fixed#service-packs)\n* [Dokumentacija sistemskega centra](/system-center/#pivot=components&panel=components-all)\n* [Viri sistemskega centra](https://www.microsoft.com/system-center/resources)\n* [Navodila za učinkovito selitev](https://techcommunity.microsoft.com/t5/configuration-manager-blog/system-center-2012-configuration-manager-is-approaching-end-of/ba-p/1650899)"
+  - version: Service Pack 2
+    startDate: 05/12/2015
+    endDate: 07/12/2022
+  - version: Service Pack 1
+    startDate: 12/15/2012
+    endDate: 07/12/2016
+  - version: Original Release
+    startDate: 05/30/2012
+    endDate: 01/14/2014
+content: |+
+
+  ## <a name="links"></a>Povezave 
+  * [Pravilnik servisnih paketov](/lifecycle/policies/fixed#service-packs)
+  * [Dokumentacija sistemskega centra](/system-center/#pivot=components&panel=components-all)
+  * [Viri sistemskega centra](https://www.microsoft.com/system-center/resources)
+  * [Navodila za učinkovito selitev](https://techcommunity.microsoft.com/t5/configuration-manager-blog/system-center-2012-configuration-manager-is-approaching-end-of/ba-p/1650899)
