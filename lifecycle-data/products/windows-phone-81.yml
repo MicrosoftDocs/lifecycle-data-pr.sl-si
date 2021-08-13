@@ -3,29 +3,27 @@ metadata:
   title: Windows Phone 8.1
   description: Windows Phone 8.1 sledi fiksnemu pravilniku o življenjskem ciklu.
   ms.date: 07/28/2020
-  ms.openlocfilehash: d81cd34117e63701bf48f128d7d3aafdd93ac581
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: sl-SI
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "863118"
 name: Windows Phone 8.1
-summary: >
+summary: |
   Windows Phone 8.1 sledi [fiksnemu](/lifecycle/policies/fixed) pravilniku o življenjskem ciklu.
 
 
-
   > [!IMPORTANT]
-
   > Podpora za ta izdelek je končana.
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 06/24/2014
   end: 07/11/2017
 releases:
-- version: Original Release
-  startDate: 06/24/2014
-  endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>Povezave \n* [Pogosta vprašanja o Windows Phone 8.1](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)\n\n> [!NOTE]\n> Microsoft bo zagotavljal posodobitve za operacijski sistem, vključno z varnostnimi posodobitvami, 36 mesecev po začetnem datumu življenjskega cikla. Te posodobitve bodo postopne, posamezna posodobitev pa bo temeljila na posodobitvi, ki je bila pred njo. Če želijo ohraniti podporo, morajo stranke namestiti vse posodobljene različice. Distribucijo teh dodatnih posodobitev morda nadzira operater mobilne telefonije ali proizvajalec telefona, pri katerem ste kupili telefon, in namestitev bo zahtevala predhodno posodobitev vašega telefona. Razpoložljivost posodobitev bo odvisna tudi od države, regije in strojne opreme."
+  - version: Original Release
+    startDate: 06/24/2014
+    endDate: 07/11/2017
+content: |+
+
+  ## <a name="links"></a>Povezave 
+  * [Pogosta vprašanja o Windows Phone 8.1](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)
+
+  > [!NOTE]
+  > Microsoft bo zagotavljal posodobitve za operacijski sistem, vključno z varnostnimi posodobitvami, 36 mesecev po začetnem datumu življenjskega cikla. Te posodobitve bodo postopne, posamezna posodobitev pa bo temeljila na posodobitvi, ki je bila pred njo. Če želijo ohraniti podporo, morajo stranke namestiti vse posodobljene različice. Distribucijo teh dodatnih posodobitev morda nadzira operater mobilne telefonije ali proizvajalec telefona, pri katerem ste kupili telefon, in namestitev bo zahtevala predhodno posodobitev vašega telefona. Razpoložljivost posodobitev bo odvisna tudi od države, regije in strojne opreme.

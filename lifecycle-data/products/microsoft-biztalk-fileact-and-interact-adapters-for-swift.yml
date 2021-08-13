@@ -3,26 +3,20 @@ metadata:
   title: Microsoft BizTalk FileAct in InterAct Adapters for SWIFT
   description: Vmesnika Microsoft BizTalk FileAct in InterAct za SWIFT sta v skladu s pravilnikom o fiksnem življenjskem ciklu.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 654ca219f5eb9869d6bae2aaaef848a48af3560e
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: sl-SI
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "839633"
 name: Microsoft BizTalk FileAct in InterAct Adapters for SWIFT
-summary: >+
+summary: |+
   Vmesnika Microsoft BizTalk FileAct in InterAct za SWIFT sta v skladu s pravilnikom o [fiksnem](/lifecycle/policies/fixed) življenjskem ciklu.
 
 
 products:
-- microsoft-servers
+  - microsoft-servers
 policyType: fixed
 supportDates:
   start: 04/10/2007
   end: 04/10/2012
   extendedEnd: 04/11/2017
 releases:
-- version: Original Release
-  startDate: 04/10/2007
-  endDate: 04/11/2017
-content: ''
+  - version: Original Release
+    startDate: 04/10/2007
+    endDate: 04/11/2017
+content: |+
