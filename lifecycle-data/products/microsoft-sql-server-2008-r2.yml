@@ -2,64 +2,54 @@
 metadata:
   title: Microsoft SQL Server 2008 R2
   description: Microsoft SQL Server 2008 R2 sledi fiksnemu pravilniku o življenjskem ciklu.
-  ms.date: 04/23/2021
-  keywords: null
+  ms.date: 08/31/2021
+  keywords: 
+  ms.openlocfilehash: 8b01fd4da97f575b8fb19e16fd4aa1a221140af8
+  ms.sourcegitcommit: b7b46fb942fa16a0d96d486f6b591e470c048157
+  ms.translationtype: HT
+  ms.contentlocale: sl-SI
+  ms.lasthandoff: 09/21/2021
+  ms.locfileid: "3460732"
 name: Microsoft SQL Server 2008 R2
-summary: |+
+summary: >+
   Microsoft SQL Server 2008 R2 sledi [fiksnemu](/lifecycle/policies/fixed) pravilniku o življenjskem ciklu.
+
+
 
   To velja za naslednje izdaje: Datacenter, Developer, Enterprise, Express, Express z naprednimi storitvami, za vgrajene sisteme, Standard, Standard izdaja za mala podjetja, Splet, Delovna skupina
 
+
+
 products:
-  - sql-server
+- sql-server
 policyType: fixed
 supportDates:
   start: 07/20/2010
   end: 07/08/2014
   extendedEnd: 07/09/2019
 releases:
-  - version: Extended Security Update Year 3
-    startDate: 07/14/2021
-    endDate: 07/12/2022
-  - version: Extended Security Update Year 2
-    startDate: 07/15/2020
-    endDate: 07/13/2021
-  - version: Extended Security Update Year 1
-    startDate: 07/09/2019
-    endDate: 07/14/2020
-  - version: Service Pack 3
-    startDate: 07/07/2014
-    endDate: 07/09/2019
-  - version: Service Pack 2
-    startDate: 07/26/2012
-    endDate: 10/13/2015
-  - version: Service Pack 1
-    startDate: 07/12/2011
-    endDate: 10/08/2013
-  - version: Original Release
-    startDate: 07/20/2010
-    endDate: 07/10/2012
-content: |
-  > [!TIP]
-  > *Razširjene varnostne posodobitve (ESU) so na voljo za izdaje Datacenter, Standard, Enterprise in Embedded tega izdelka za največ tri dodatna leta po koncu podpore. Če želite izvedeti več, se obrnite na Microsoftovega partnerja ali skrbnike računa. 
-
-  ## <a name="links"></a>Povezave 
-  * [Konec podpore za SQL Server 2008 in Windows Server 2008](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)
-  * [Konec podpore za SQL Server](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)
-  * [Pravilnik servisnih paketov](/lifecycle/policies/fixed#service-packs)
-  * [Razširjeni program za varnostno posodobitev (ESU)?](/lifecycle/faq/extended-security-updates)
-
-  > [!NOTE]
-  > Samo za IA64, bo servisni paket SP2 podprt do 7.9.2019. Za več informacij si oglejte spletni dnevnik skupnosti SQL Release Services.
-
-  ## <a name="editions"></a>Izdaje 
-  * Datacenter
-  * Razvijalec
-  * Enterprise
-  * Express
-  * Express z naprednimi storitvami
-  * za vgrajene sisteme
-  * Standard
-  * Standardna izdaja za mala podjetja
-  * Splet
-  * Delovna skupina
+- version: Extended Security Update Year 4 (Azure only)
+  startDate: 07/13/2022
+  endDate: 07/11/2023
+- version: Extended Security Update Year 3
+  startDate: 07/14/2021
+  endDate: 07/12/2022
+- version: Extended Security Update Year 2
+  startDate: 07/15/2020
+  endDate: 07/13/2021
+- version: Extended Security Update Year 1
+  startDate: 07/09/2019
+  endDate: 07/14/2020
+- version: Service Pack 3
+  startDate: 07/07/2014
+  endDate: 07/09/2019
+- version: Service Pack 2
+  startDate: 07/26/2012
+  endDate: 10/13/2015
+- version: Service Pack 1
+  startDate: 07/12/2011
+  endDate: 10/08/2013
+- version: Original Release
+  startDate: 07/20/2010
+  endDate: 07/10/2012
+content: "> [!TIP]\n> *Razširjene varnostne posodobitve (ESU) so na voljo za izdaje Datacenter, Standard, Enterprise in Embedded tega izdelka za največ tri dodatna leta po koncu podpore. Če želite izvedeti več, se obrnite na Microsoftovega partnerja ali skrbnike računa. \n\n\n## <a name=\"links\"></a>Povezave \n* [Konec podpore za SQL Server 2008 in Windows Server 2008](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [Konec podpore za SQL Server](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Pravilnik servisnih paketov](/lifecycle/policies/fixed#service-packs)\n* [Razširjeni program za varnostno posodobitev (ESU)?](/lifecycle/faq/extended-security-updates)\n\n\n> [!NOTE]\n> Samo za IA64, bo servisni paket SP2 podprt do 7.9.2019. Za več informacij si oglejte spletni dnevnik skupnosti SQL Release Services.\n\n\n## <a name=\"editions\"></a>Izdaje \n* Datacenter\n* Razvijalec\n* Enterprise\n* Express\n* Express z naprednimi storitvami\n* za vgrajene sisteme\n* Standard\n* Standardna izdaja za mala podjetja\n* Splet\n* Delovna skupina"
