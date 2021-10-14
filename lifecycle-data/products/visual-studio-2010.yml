@@ -2,65 +2,36 @@
 metadata:
   title: Visual Studio 2010
   description: Visual Studio 2010 sledi fiksnemu pravilniku o življenjskem ciklu.
-  ms.date: 05/28/2021
-  keywords: 'vsto,Agents,All,ASP .NET MVC 4,Express,F# 2.0 Runtime,Lab Management,Performance Tools,Premium,Professional,Professional w/MSDN ,PSM,Remote Debugger,SDK,Shell (Integrated),Shell (Isolated),Team Agents,Team Explorer,Test Professional,Ultimate,Ultimate with MSDN,Visual Basic Express,Visual C# Express,Visual C++ Express,Visual Web Developer Express,Visualization & Modeling SDK'
+  ms.date: 10/07/2021
+  keywords: vsto,Express for Web,Express for Windows Phone,Premium,Professional,Test Professional,Ultimate,Visual Basic Express,Visual C# Express,Visual C++ Express,Visual Web Developer Express
+  ms.openlocfilehash: eea7c383adbd91aeea6893503808cc7ec675ea8f
+  ms.sourcegitcommit: f740c7c0a548d726572fda7cefa9ec8b630a27c7
+  ms.translationtype: HT
+  ms.contentlocale: sl-SI
+  ms.lasthandoff: 10/07/2021
+  ms.locfileid: "3510963"
 name: Visual Studio 2010
-summary: |+
+summary: >+
   Visual Studio 2010 sledi [fiksnemu](/lifecycle/policies/fixed) pravilniku o življenjskem ciklu.
 
 
-  To velja za naslednje izdaje: Agents, All, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Performance Tools, Premium, Professional, Professional w/MSDN , PSM, Remote Debugger, SDK, Shell (Integrated), Shell (Isolated), Team Agents, Team Explorer, Test Professional, Ultimate, Ultimate with MSDN, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualization & Modeling SDK
+
+  To velja za naslednje izdaje: Express for Web, Express for Windows Phone, Premium, Professional, Test Professional, Ultimate, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express
 
 
 
 products:
-  - vs
+- vs
 policyType: fixed
 supportDates:
   start: 06/29/2010
   end: 07/14/2015
   extendedEnd: 07/14/2020
 releases:
-  - version: Service Pack 1
-    startDate: 03/08/2011
-    endDate: 07/14/2020
-  - version: Original Release
-    startDate: 06/29/2010
-    endDate: 04/10/2012
-content: |+
-
-
-  ## <a name="links"></a>Povezave 
-  * [Pravilnik servisnih paketov](/lifecycle/policies/fixed#service-packs)
-
-
-  > [!NOTE]
-  > Izvajalno okolje Visual Studio 2010 Tools for Office (VSTO) je priloženo različicam Visual Studio in Microsoft Office in sledi življenjskemu ciklu nadrejenega izdelka. Lahko ga prenesete tudi ločeno, [tukaj](https://www.microsoft.com/download/details.aspx?id=56961).
-
-
-  ## <a name="editions"></a>Izdaje 
-  * Agents
-  * Vsi
-  * ASP .NET MVC 4
-  * Express
-  * F# 2.0 Runtime
-  * Lab Management
-  * Orodja za učinkovitost delovanja
-  * Premium
-  * Professional
-  * Profesionalni w/MSDN 
-  * PSM
-  * Oddaljeni iskalnik napak
-  * SDK
-  * Shell (integrirano)
-  * Shell (izolirano)
-  * Ekipni agenti
-  * Team Explorer
-  * Test Professional
-  * Ultimate
-  * Ultimate with MSDN
-  * Visual Studio Express
-  * Visual C# Express
-  * Visual C++ Express
-  * Visual Web Developer Express
-  * Vizualizacija in Modeliranje SDK
+- version: Service Pack 1
+  startDate: 03/08/2011
+  endDate: 07/14/2020
+- version: Original Release
+  startDate: 06/29/2010
+  endDate: 04/10/2012
+content: "\n\n## <a name=\"links\"></a>Povezave \n* [Pravilnik servisnih paketov](/lifecycle/policies/fixed#service-packs)\n\n\n> [!NOTE]\n> Različice naslednjih komponent okolja Visual Studio 2010 so dobavljene in podprte kot del življenjskega cikla okolja Visual Studio 2010: Agenti, All, ASP.NET MVC 4, F# 2.0 Runtime, VSTO Runtime, Lab Management, Orodja za učinkovitost, Professional z MSDN, PSM, Remote Debugger, SDK, Lupina (integrirano), Lupina (izolirano), Team Agents, Team Explorer, Ultimate z MSDN, Visualization & Modelling SDK.\n\n\n## <a name=\"editions\"></a>Izdaje \n* Express za splet\n* Express za Windows Phone\n* Premium\n* Professional\n* Test Professional\n* Ultimate\n* Visual Studio Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express"
