@@ -1,0 +1,36 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Azure Active Directory (AD) Povezovalnik
+  description: Azure Active Directory (AD) Povezovalnik upošteva sodobni pravilnik o življenjskem ciklu.
+  ms.date: 11/02/2021
+  keywords: AD Connect,AD Sync
+  ms.openlocfilehash: ab854d18a930222cbf10394b623b57c7b660c2b4
+  ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
+  ms.translationtype: HT
+  ms.contentlocale: sl-SI
+  ms.lasthandoff: 11/04/2021
+  ms.locfileid: "3560330"
+name: Azure Active Directory (AD) Povezovalnik
+summary: >+
+  Azure Active Directory (AD) Connect je v skladu s [sodobnim](/lifecycle/policies/modern) pravilnikom o življenjskem ciklu.
+
+
+
+
+
+  > [!IMPORTANT]
+
+  > 31. avgusta 2022 bodo ukinjene vse različice 1.x Azure Active Directory (Azure AD) Povezovalnik, ker vključujejo komponente sistema SQL Server 2012, ki ne bodo več podprte. Nadgradite na najnovejšo izdajo imenika [Azure AD Povezovalnik različico 2.x](https://www.microsoft.com/download/details.aspx?id=47594) ali [Azure AD Povezovalnik sinhronizacije v oblaku](https://docs.microsoft.com/azure/active-directory/cloud-sync/what-is-cloud-sync).
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 09/01/2014
+releases:
+- version: Version 2.x
+  startDate: 09/30/2021
+- version: Version 1.x
+  startDate: 09/01/2014
+  endDate: 08/31/2022
+content: "\n\n## <a name=\"links\"></a>Povezave \n* [Informacije o servisiranju](/azure/active-directory/hybrid/reference-connect-version-history)\n* [Azure AD Povezovalnik sinhronizacije v oblaku](/azure/active-directory/cloud-sync/what-is-cloud-sync)\n* [Azure AD Connect v2.0](/azure/active-directory/hybrid/whatis-azure-ad-connect-v2)\n\n\n> [!NOTE]\n> Storitev Azure AD Sync je bila sprva izdana septembra 2014 in je v juniju 2015 spremenila svoje ime v Azure AD Povezovalnik z različico 1.0.8641.0."

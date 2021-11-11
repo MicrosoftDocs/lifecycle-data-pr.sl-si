@@ -2,30 +2,32 @@
 metadata:
   title: Microsoft Edge
   description: Microsoft Edge je v skladu s sodobnim pravilnikom o življenjskem ciklu.
-  ms.date: 07/17/2021
-  keywords: null
+  ms.date: 11/03/2021
+  keywords: IE; browser; Internet Explorer
+  ms.openlocfilehash: aeeec6371116d5551ed604a7c3cd5ccefc46117d
+  ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
+  ms.translationtype: HT
+  ms.contentlocale: sl-SI
+  ms.lasthandoff: 11/04/2021
+  ms.locfileid: "3560074"
 name: Microsoft Edge
-summary: |+
+summary: >+
   Microsoft Edge je v skladu s [sodobnim](/lifecycle/policies/modern) pravilnikom o življenjskem ciklu.
 
 
 
 
+
   > [!IMPORTANT]
+
   > Prosimo, upoštevajte, da se podedovana različica tega izdelka konča s podporo 9. marca 2021. Za več informacij [obiščite to stran](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666).
 
 products:
-  - microsoft-edge
+- microsoft-edge
 policyType: modern-on-prem
 supportDates:
   start: 01/15/2020
 releases:
-  - version: Original Release
-    startDate: 01/15/2020
-content: |+
-
-
-  ## <a name="links"></a>Povezave 
-  * [Operacijski sistemi, ki podpirajo Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)
-  * [Pogosta vprašanja o življenjskem ciklu – Internet Explorer in Edge](/lifecycle/faq/internet-explorer-microsoft-edge)
-  * [Pravilnik o življenjskem ciklu brskalnika Microsoft Edge](/deployedge/microsoft-edge-support-lifecycle)
+- version: Original Release
+  startDate: 01/15/2020
+content: "\n\n## <a name=\"links\"></a>Povezave \n* [Operacijski sistemi, ki podpirajo Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)\n* [Novi viri za pospešitev prehoda na Edge](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/proven-tools-to-accelerate-your-move-to-microsoft-edge/ba-p/2504818)\n* [Pogosta vprašanja o življenjskem ciklu – Internet Explorer in Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Pravilnik o življenjskem ciklu brskalnika Microsoft Edge](/deployedge/microsoft-edge-support-lifecycle)"
