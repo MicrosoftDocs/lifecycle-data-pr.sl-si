@@ -3,24 +3,23 @@ metadata:
   title: Internet Explorer 9
   description: Internet Explorer 9 je v skladu s pravilnikom o fiksnem življenjskem ciklu.
   ms.date: 08/12/2020
+  ms.openlocfilehash: f61f077fd1b92fb7ef960ad2fa68e6ac1ebdb88c
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: sl-SI
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4154384"
 name: Internet Explorer 9
-summary: |+
+summary: >+
   Internet Explorer 9 je v skladu s pravilnikom o [fiksnem](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) življenjskem ciklu.
 
 
 products:
-  - internet-explorer
+- internet-explorer
 policyType: component
 supportDates:
-  start: 03/15/2011
+  start: 2011-03-15T00:00:00.000-08:00
 releases:
-  - version: Original Release
-    startDate: 03/15/2011
-content: |+
-
-  ## <a name="links"></a>Povezave 
-  * [Navodila za učinkovito selitev](https://www.microsoft.com/itpro/microsoft-edge)
-  * [Pogosta vprašanja o pravilniku o življenjskem ciklu programa Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)
-
-  > [!NOTE]
-  > Od 12. januarja 2016 so tehnična podpora in varnostne posodobitve na voljo samo za najnovejšo različico Internet Explorerja, ki je na voljo za podprti operacijski sistem.
+- version: Original Release
+  startDate: 2011-03-15T00:00:00.000-08:00
+content: "\n## <a name=\"links\"></a>Povezave \n* [Navodila za učinkovito selitev](https://www.microsoft.com/itpro/microsoft-edge)\n* [Pogosta vprašanja o pravilniku o življenjskem ciklu programa Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Od 12. januarja 2016 so tehnična podpora in varnostne posodobitve na voljo samo za najnovejšo različico Internet Explorerja, ki je na voljo za podprti operacijski sistem."

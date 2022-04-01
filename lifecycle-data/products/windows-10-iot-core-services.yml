@@ -1,25 +1,29 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Storitve Windows 10 IoT Core
-  description: Storitve IoT Core za Windows 10 sledijo sodobnemu pravilniku o življenjskem ciklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9ce995e2110cb5a94a92622cdc747914de4fb23a3802b0c1c67339e697794100
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  description: Storitve Windows 10 IoT Core so v skladu s sodobnim pravilnikom o življenjskem ciklu.
+  ms.date: 2022/03/08
+  keywords: 
+  ms.openlocfilehash: 6d8584eb944598b1ebf73a2db262cf4fbcffc5dd
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: sl-SI
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2497493"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4130445"
 name: Storitve Windows 10 IoT Core
 summary: >+
-  Storitve IoT Core za Windows 10 sledijo [sodobnemu](/lifecycle/policies/modern) pravilniku o življenjskem ciklu.
+  Storitve Windows 10 IoT Core so v skladu s [sodobnim](/lifecycle/policies/modern) pravilnikom o življenjskem ciklu.
+
+
+
 
 
 products:
 - windows
 policyType: modern-online
 supportDates:
-  start: 11/13/2018
+  start: 2018-11-13T00:00:00.000-08:00
 releases:
 - version: Original Release
-  startDate: 11/13/2018
-content: "\n## <a name=\"links\"></a>Povezave \n* [Storitve Windows 10 IoT Core](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n\n> [!NOTE]\n> Storitve Windows 10 IoT Core je naročnina, ki ponuja programsko podporo kot storitev, vključno z nadzorom posodobitve s središčem za posodobitev naprav in izboljšano varnostjo s potrdilom o stanju naprave, če uporabljate podprto različico programske opreme storitve IoT Core Software za Windows 10."
+  startDate: 2018-11-13T00:00:00.000-08:00
+content: "> [!TIP]\n> Ta izdelek je podprt preko [Windows 10 IoT 2019 LTSC](https://docs.microsoft.com/lifecycle/products/windows-10-iot-2019-ltsc).\n\n\n## <a name=\"links\"></a>Povezave \n* [Pregled storitev Windows 10 IoT Core](http://aka.ms/IoTCoreServices)\n\n\n> [!NOTE]\n> Storitve Windows 10 IoT Core so naročnina na podporo, ki je na voljo s podprtimi različicami [Windows 10 IoT Core](https://docs.microsoft.com/lifecycle/products/windows-10-iot-core)."
