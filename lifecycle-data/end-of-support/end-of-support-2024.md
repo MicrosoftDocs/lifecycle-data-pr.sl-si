@@ -1,13 +1,13 @@
 ---
 title: Izdelki, podpora za katere se konča za leto 2024
 description: Ugotovite, kateri izdelki bodo v letu 2024 umaknjeni, dosegli konec podpore ali prešli z osnovne podpore na razširjeno podporo.
-ms.date: 03/08/2022
-ms.openlocfilehash: 9d4056675071213b3c0fb8dfefcd7707feec115e
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 08/31/2022
+ms.openlocfilehash: 810bb5ce124705b8100cfc934d14e8ebf5343554
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117236"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518136"
 ---
 # <a name="products-ending-support-in-2024"></a>Izdelki, katerih podpora se konča v letu 2024
 
@@ -24,8 +24,8 @@ Naslednji izdelki, ki jih ureja [sodobni pravilnik](/lifecycle/policies/modern)
 
 | Izdelek | Umaknitev |
 | --- | --- |
-| [Machine Learning Studio (klasično)](/lifecycle/products/machine-learning-studio-classic?branch=live)<br> | sobota, 31. avgust 2024 |
-| [Windows 11 Enterprise in Education (različica 21H2)](/lifecycle/products/windows-11-enterprise-and-education-version-21h2?branch=live)<br>[Windows 11 IoT Enterprise (različica 21H2)](/lifecycle/products/windows-11-iot-enterprise-version-21h2?branch=live)<br> | 08. oktober 2024 |
+| [Azure Data Lake Storage Gen1](/lifecycle/products/azure-data-lake-storage-gen1?branch=live)<br> | četrtek, 29. februar 2024 |
+| [Azure Cloud Services (klasične)](/lifecycle/products/azure-cloud-services-classic?branch=live)<br>[Machine Learning Studio (klasično)](/lifecycle/products/machine-learning-studio-classic?branch=live)<br> | sobota, 31. avgust 2024 |
 
 
 ## <a name="release-end-of-servicing"></a>Konec vzdrževanja izdaj
@@ -35,6 +35,9 @@ Podpora za naslednje izdaje izdelkov, ki jih ureja [Sodobni pravilnik](/lifecycl
 | Izdelek | Konec servisiranja |
 | --- | --- |
 | [Windows 10 Enterprise in Education, različica 21H2](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 IoT Enterprise, različica 21H2](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | torek, 11. junij 2024 |
+| [Windows 11 Enterprise in Education (različica 21H2)](/lifecycle/products/windows-11-enterprise-and-education-version-21h2?branch=live)<br>[Windows 11 IoT Enterprise (različica 21H2), izvirna izdaja (različica 21H2)](/lifecycle/products/windows-11-iot-enterprise-version-21h2?branch=live)<br> | 08. oktober 2024 |
+| [PowerShell, PowerShell 7.2 (LTS-current)](/lifecycle/products/powershell?branch=live)<br> | petek, 08. november 2024 |
+| [Azure IoT Edge, različica 1.4 (LTS)](/lifecycle/products/azure-iot-edge?branch=live)<br>[.NET Core 6.0 (LTS)](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | torek, 12. november 2024 |
 
 
 ## <a name="products-reaching-end-of-support"></a>Izdelki, ki bodo dosegli konec podpore
@@ -43,7 +46,7 @@ Podpora za naslednje izdelke in izdaje, ki jih ureja [Fiksni pravilnik](/lifecyc
 
 | Izdelek | Datum konca podpore |
 | --- | --- |
-| [Dynamics CRM 2013](/lifecycle/products/dynamics-crm-2013?branch=live)<br>[Microsoft Host Integration Server 2013](/lifecycle/products/microsoft-host-integration-server-2013?branch=live)<br>[Windows Server 2008, razširjena varnostna posodobitev, 4. leto (samo za Azure)](/lifecycle/products/windows-server-2008?branch=live)<br>[Windows Server 2008 R2, razširjena varnostna posodobitev, 4. leto (samo za Azure)](/lifecycle/products/windows-server-2008-r2?branch=live)<br> | torek, 09. januar 2024 |
+| [Dynamics CRM 2013](/lifecycle/products/dynamics-crm-2013?branch=live)<br>[Microsoft Host Integration Server 2013](/lifecycle/products/microsoft-host-integration-server-2013?branch=live)<br>[Visual Studio 2022, različica 17.2 (kanal LTSC)](/lifecycle/products/visual-studio-2022?branch=live)<br>[Windows Server 2008, razširjena varnostna posodobitev, 4. leto (samo za Azure)](/lifecycle/products/windows-server-2008?branch=live)<br>[Windows Server 2008 R2, razširjena varnostna posodobitev, 4. leto (samo za Azure)](/lifecycle/products/windows-server-2008-r2?branch=live)<br> | torek, 09. januar 2024 |
 | [Microsoft Deployment Agent 2013](/lifecycle/products/microsoft-deployment-agent-2013?branch=live)<br>[Microsoftov komplet orodij za diagnostiko in obnovitev 8.1](/lifecycle/products/microsoft-diagnostics-and-recovery-toolset-81?branch=live)<br>[Testni agent, krmilnik](/lifecycle/products/test-agent-controller?branch=live)<br>[User Experience Virtualization (UE-V) 2.0](/lifecycle/products/user-experience-virtualization-uev-20?branch=live)<br>[Visual Studio 2013](/lifecycle/products/visual-studio-2013?branch=live)<br>[Visual Studio Team Foundation Server 2013](/lifecycle/products/visual-studio-team-foundation-server-2013?branch=live)<br> | torek, 09. april 2024 |
 | [Microsoft SQL Server 2012, razširjena varnostna posodobitev, 2. leto](/lifecycle/products/microsoft-sql-server-2012?branch=live)<br>[SQL Server 2014](/lifecycle/products/sql-server-2014?branch=live)<br> | 9. julij 2024 |
 | [Microsoft SQL Server 2012 Parallel Data Warehouse (Sistem platforme Analytic)](/lifecycle/products/microsoft-sql-server-2012-parallel-data-warehouse-analytics-platform-system?branch=live)<br>[Windows Embedded POSReady 7, razširjena varnostna posodobitev, 3. leto*](/lifecycle/products/windows-embedded-posready-7?branch=live)<br>[Windows Server 2012, razširjena varnostna posodobitev, 1. leto](/lifecycle/products/windows-server-2012?branch=live)<br>[Windows Server 2012 R2, razširjena varnostna posodobitev, 1. leto](/lifecycle/products/windows-server-2012-r2?branch=live)<br> | 08. oktober 2024 |

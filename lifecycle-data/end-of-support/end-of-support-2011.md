@@ -1,13 +1,13 @@
 ---
 title: Izdelki, podpora za katere se konča za leto 2011
 description: Ugotovite, kateri izdelki bodo v letu 2011 umaknjeni, dosegli konec podpore ali prešli z osnovne podpore na razširjeno podporo.
-ms.date: 09/17/2021
-ms.openlocfilehash: 58db5162e8b1cea853892a8ee5786bee83054acc
-ms.sourcegitcommit: 203d765be641181ebf7b895f783ce497a9568616
+ms.date: 07/26/2022
+ms.openlocfilehash: 2dc1cf852c2f226b2b759e305fe4e72d2c2b8e80
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "4028858"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518432"
 ---
 # <a name="products-ending-support-in-2011"></a>Izdelki, katerih podpora se konča v letu 2011
 

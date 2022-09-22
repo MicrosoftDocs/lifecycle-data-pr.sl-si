@@ -2,26 +2,16 @@
 metadata:
   title: Microsoft Edge
   description: Microsoft Edge je v skladu s sodobnim pravilnikom o življenjskem ciklu.
-  ms.date: 11/03/2021
-  keywords: IE; browser; Internet Explorer
-  ms.openlocfilehash: cba75253b99e6f2c40c3f38da3b808578facaa2e
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.date: 08/08/2022
+  keywords: IE; brskalnik; Internet Explorer
+  ms.openlocfilehash: eee90516a33aedeb20b404db7362088a5f1031d3
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: sl-SI
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4147761"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4518506"
 name: Microsoft Edge
-summary: >+
-  Microsoft Edge je v skladu s [sodobnim](/lifecycle/policies/modern) pravilnikom o življenjskem ciklu.
-
-
-
-
-
-  > [!IMPORTANT]
-
-  > Prosimo, upoštevajte, da se podedovana različica tega izdelka konča s podporo 9. marca 2021. Za več informacij [obiščite to stran](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666).
-
+summary: "Microsoft Edge je v skladu s [sodobnim](/lifecycle/policies/modern) pravilnikom o življenjskem ciklu.\n\n\n\n\n> [!IMPORTANT]\n> Microsoft Edge bo do 15. januarja 2023 še naprej podprt v sistemih Windows 7 in Windows Server 2008 R2. Microsoft priporoča, da se stranke premaknejo na podprti operacijski sistem, kot je Windows 10. Za več informacij [obiščite to stran](https://docs.microsoft.com/deployedge/microsoft-edge-supported-operating-systems). \n\n"
 products:
 - microsoft-edge
 policyType: modern-on-prem
@@ -30,4 +20,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 2020-01-15T00:00:00.000-08:00
-content: "\n\n## <a name=\"links\"></a>Povezave \n* [Operacijski sistemi, ki podpirajo Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)\n* [Novi viri za pospešitev prehoda na Edge](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/proven-tools-to-accelerate-your-move-to-microsoft-edge/ba-p/2504818)\n* [Pogosta vprašanja o življenjskem ciklu – Internet Explorer in Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Pravilnik o življenjskem ciklu brskalnika Microsoft Edge](/deployedge/microsoft-edge-support-lifecycle)"
+content: "\n\n## <a name=\"links\"></a>Povezave \n* [Pregled servisnih kanalov Microsoft Edge](/deployedge/microsoft-edge-channels)\n* [Operacijski sistemi, ki podpirajo Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)\n* [Novi viri za pospešitev prehoda na Edge](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/proven-tools-to-accelerate-your-move-to-microsoft-edge/ba-p/2504818)\n* [Pogosta vprašanja o življenjskem ciklu – Internet Explorer in Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Pravilnik o življenjskem ciklu brskalnika Microsoft Edge](/deployedge/microsoft-edge-support-lifecycle)\n\n\n> [!NOTE]\n> Prosimo, upoštevajte, da se podedovana različica tega izdelka konča s podporo 9. marca 2021. Za več informacij [obiščite to stran](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666)."

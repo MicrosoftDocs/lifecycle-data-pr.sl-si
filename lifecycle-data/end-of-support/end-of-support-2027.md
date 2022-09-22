@@ -1,13 +1,13 @@
 ---
 title: Izdelki, podpora za katere se konča za leto 2027
 description: Ugotovite, kateri izdelki bodo v letu 2027 umaknjeni, dosegli konec podpore ali prešli z osnovne podpore na razširjeno podporo.
-ms.date: 03/09/2022
-ms.openlocfilehash: c9c996d5f6ea11d9d413b309dd3bb4e673b02a14
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 05/05/2022
+ms.openlocfilehash: 49ef75f723bc4d89465d14bfd395b860123516fe
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117051"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4517945"
 ---
 # <a name="products-ending-support-in-2027"></a>Izdelki, katerih podpora se konča v letu 2027
 
@@ -41,3 +41,4 @@ Naslednji izdelki bodo v letu 2027 prešli z osnovne podpore na razširjeno podp
 | Izdelek | Konec splošne podpore |
 | --- | --- |
 | [Dynamics 365 za aplikacije Customer Engagement, različica 9 (posodobitev na mestu uporabe)](/lifecycle/products/dynamics-365-for-customer-engagement-apps-version-9-onpremises-update?branch=live)<br>[Visual Studio 2022](/lifecycle/products/visual-studio-2022?branch=live)<br>[Windows 10 IoT Enterprise LTSC 2021](/lifecycle/products/windows-10-iot-enterprise-ltsc-2021?branch=live)<br> | torek, 12. januar 2027 |
+| [System Center 2022 Data Protection Manager](/lifecycle/products/system-center-2022-data-protection-manager?branch=live)<br>[System Center 2022 Operations Manager](/lifecycle/products/system-center-2022-operations-manager?branch=live)<br>[System Center 2022 Orchestrator](/lifecycle/products/system-center-2022-orchestrator?branch=live)<br>[System Center 2022 Service Manager](/lifecycle/products/system-center-2022-service-manager?branch=live)<br>[System Center 2022 Virtual Machine Manager](/lifecycle/products/system-center-2022-virtual-machine-manager?branch=live)<br> | torek, 13. april 2027 |
